@@ -19,7 +19,7 @@ pip install python-igraph==0.9.5
 # =========================== #
 
 # adding environment
-git clone 
+# clone my resposity
 echo 'export PATH="$HOME/PSySeVRs/Tools/joern-0.3.1/bin:$PATH"' >> ~/.bashrc
 echo 'export PATH="$HOME/PSySeVRs/Tools/apache-ant-1.9.14/bin:$PATH"' >> ~/.bashrc
 echo 'export PATH="$HOME/PSySeVRs/Tools/neo4j/bin:$PATH"' >> ~/.bashrc
