@@ -1,0 +1,632 @@
+(dp0
+S"71 /home/speedy/test/source2slice/NVD/CVE_2013_5641_PATCHED_handle_incoming.c [u'totag'] 184"
+p1
+I0
+sS"195 /home/speedy/test/source2slice/NVD/CVE_2015_2666_VULN_get_matching_model_microcode.c [u'mc_saved_tmp'] 13"
+p2
+I0
+sS"70 /home/speedy/test/source2slice/NVD/CVE_2013_4936_VULN_IsDFP_Frame.c [u'virtualFramebuffer'] 11"
+p3
+I0
+sS"164 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'installDir'] 643"
+p4
+I0
+sS"77 /home/speedy/test/source2slice/NVD/CVE_2013_5642_PATCHED_process_sdp.c [u's2', u's1'] 699"
+p5
+I0
+sS"186 /home/speedy/test/source2slice/NVD/CVE_2015_1158_VULN_add_job.c [u'job_uri'] 15"
+p6
+I0
+sS"18 /home/speedy/test/source2slice/NVD/CVE_2005_3356_VULN_do_open.c [u'O_ACCMODE', u'oflag2acc'] 3"
+p7
+I1
+sS"4 /home/speedy/test/source2slice/NVD/CVE-2015-3906_VULN_logcat_log.c [u'time_buffer'] 5"
+p8
+I0
+sS"37 /home/speedy/test/source2slice/NVD/CVE_2007_4571_PATCHED_snd_mem_proc_read.c [u'types'] 6"
+p9
+I0
+sS"101 /home/speedy/test/source2slice/NVD/CVE_2013_7011_PATCHED_read_header.c [u'state'] 3"
+p10
+I0
+sS"1 /home/speedy/test/source2slice/NVD/CVE-2015-1872_VULN_ff_mjpeg_decode_sof.c [u'v_count'] 6"
+p11
+I1
+sS"23 /home/speedy/test/source2slice/NVD/CVE_2006_4813_PATCHED___block_prepare_write.c [u'wait_bh', u'head', u'bh', u'wait'] 8"
+p12
+I0
+sS"14 /home/speedy/test/source2slice/NVD/CVE-2017-6470_VULN_dissect_iax2_command.c [u'address_data'] 6"
+p13
+I0
+sS"78 /home/speedy/test/source2slice/NVD/CVE_2013_5642_PATCHED_process_sdp.c [u's5', u's4', u's3', u's2', u's1'] 505"
+p14
+I0
+sS"146 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'oldDistDir'] 820"
+p15
+I0
+sS"165 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'buffer'] 622"
+p16
+I0
+sS"199 /home/speedy/test/source2slice/NVD/CVE_2015_3331_VULN___driver_rfc4106_decrypt.c [u'iv_and_authTag'] 12"
+p17
+I0
+sS"9 /home/speedy/test/source2slice/NVD/CVE-2016-6508_VULN_add_description.c [u'info_buffer'] 5"
+p18
+I0
+sS"102 /home/speedy/test/source2slice/NVD/CVE_2013_7011_VULN_read_header.c [u'state'] 3"
+p19
+I1
+sS"41 /home/speedy/test/source2slice/NVD/CVE_2008_1390_PATCHED_generic_http_callback.c [u'workspace'] 5"
+p20
+I0
+sS"143 /home/speedy/test/source2slice/NVD/CVE_2015_0253_PATCHED_read_request_line.c [u'http'] 8"
+p21
+I0
+sS"193 /home/speedy/test/source2slice/NVD/CVE_2015_1158_VULN_send_document.c [u'username', u'job_uri', u'resource', u'host', u'scheme'] 13"
+p22
+I1
+sS"136 /home/speedy/test/source2slice/NVD/CVE_2014_5161_VULN_dissect_log.c [u'buf'] 14"
+p23
+I1
+sS"117 /home/speedy/test/source2slice/NVD/CVE_2014_2286_VULN_httpd_helper_thread.c [u'header_line'] 4"
+p24
+I1
+sS"52 /home/speedy/test/source2slice/NVD/CVE_2009_2909_VULN_ax25_setsockopt.c [u'devname'] 7"
+p25
+I0
+sS"103 /home/speedy/test/source2slice/NVD/CVE_2014_0221_PATCHED_dtls1_get_message_fragment.c [u'wire'] 4"
+p26
+I0
+sS"133 /home/speedy/test/source2slice/NVD/CVE_2014_3633_PATCHED_qemuDomainGetBlockIoTune.c [u'uuidstr'] 13"
+p27
+I0
+sS"68 /home/speedy/test/source2slice/NVD/CVE_2013_4933_VULN_netmon_open.c [u'magic'] 4"
+p28
+I0
+sS"208 /home/speedy/test/source2slice/NVD/CVE_2009_4308_VULN_ext4_decode_error.c [u'nbuf'] 2"
+p29
+I0
+sS"74 /home/speedy/test/source2slice/NVD/CVE_2013_5641_VULN_handle_incoming.c [u'totag'] 184"
+p30
+I0
+sS"194 /home/speedy/test/source2slice/NVD/CVE_2015_2666_PATCHED_get_matching_model_microcode.c [u'mc_saved_tmp'] 13"
+p31
+I0
+sS"38 /home/speedy/test/source2slice/NVD/CVE_2007_4571_VULN_snd_mem_proc_read.c [u'types'] 8"
+p32
+I1
+sS"24 /home/speedy/test/source2slice/NVD/CVE_2006_4813_VULN___block_prepare_write.c [u'wait_bh', u'head', u'bh', u'wait'] 8"
+p33
+I0
+sS"72 /home/speedy/test/source2slice/NVD/CVE_2013_5641_PATCHED_handle_incoming.c [u'tag'] 163"
+p34
+I0
+sS"115 /home/speedy/test/source2slice/NVD/CVE_2014_2286_PATCHED_httpd_helper_thread.c [u'header_line'] 4"
+p35
+I0
+sS"67 /home/speedy/test/source2slice/NVD/CVE_2013_4933_PATCHED_netmon_open.c [u'magic'] 4"
+p36
+I0
+sS"42 /home/speedy/test/source2slice/NVD/CVE_2008_1390_VULN_generic_http_callback.c [u'tmp'] 55"
+p37
+I1
+sS"189 /home/speedy/test/source2slice/NVD/CVE_2015_1158_VULN_print_job.c [u'filename'] 11"
+p38
+I0
+sS"138 /home/speedy/test/source2slice/NVD/CVE_2014_5163_VULN_decode_apn.c [u'str'] 4"
+p39
+I1
+sS"134 /home/speedy/test/source2slice/NVD/CVE_2014_3633_VULN_qemuDomainGetBlockIoTune.c [u'uuidstr'] 13"
+p40
+I0
+sS"60 /home/speedy/test/source2slice/NVD/CVE_2010_2495_VULN_pppol2tp_sendmsg.c [u'ppph'] 4"
+p41
+I0
+sS"184 /home/speedy/test/source2slice/NVD/CVE_2015_1158_PATCHED_send_document.c [u'username', u'job_uri', u'resource', u'host', u'scheme'] 13"
+p42
+I0
+sS"209 /home/speedy/test/source2slice/NVD/CVE_2014_5271_PATCHED_encode_slice.c [u'sizes'] 3"
+p43
+I0
+sS"97 /home/speedy/test/source2slice/NVD/CVE_2013_7008_VULN_decode_slice_header.c [u'id_list'] 638"
+p44
+I0
+sS"88 /home/speedy/test/source2slice/NVD/CVE_2013_6380_PATCHED_aac_send_raw_srb.c [u'sg_user'] 14"
+p45
+I0
+sS"43 /home/speedy/test/source2slice/NVD/CVE_2008_1390_VULN_generic_http_callback.c [u'cookie'] 6"
+p46
+I0
+sS"177 /home/speedy/test/source2slice/NVD/CVE_2015_1158_PATCHED_add_job.c [u'job_uri'] 15"
+p47
+I0
+sS"44 /home/speedy/test/source2slice/NVD/CVE_2008_1390_VULN_generic_http_callback.c [u'workspace'] 5"
+p48
+I0
+sS"51 /home/speedy/test/source2slice/NVD/CVE_2009_2909_PATCHED_ax25_setsockopt.c [u'devname'] 7"
+p49
+I0
+sS"107 /home/speedy/test/source2slice/NVD/CVE_2014_1497_PATCHED_WaveReader__LoadFormatChunk.c [u'waveFormat'] 5"
+p50
+I0
+sS"62 /home/speedy/test/source2slice/NVD/CVE_2010_2803_VULN_drm_ioctl.c [u'stack_kdata'] 10"
+p51
+I0
+sS"106 /home/speedy/test/source2slice/NVD/CVE_2014_1497_PATCHED_WaveReader__LoadFormatChunk.c [u'extLength'] 44"
+p52
+I0
+sS"21 /home/speedy/test/source2slice/NVD/CVE_2006_2935_PATCHED_dvd_read_bca.c [u'buf'] 4"
+p53
+I0
+sS"3 /home/speedy/test/source2slice/NVD/CVE-2015-3815_VULN_logcat_log.c [u'time_buffer'] 5"
+p54
+I0
+sS"172 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'tmpDir'] 221"
+p55
+I0
+sS"159 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_UpdateThreadFunc.c [u'path'] 26"
+p56
+I0
+sS"2 /home/speedy/test/source2slice/NVD/CVE-2015-1872_VULN_ff_mjpeg_decode_sof.c [u'h_count'] 5"
+p57
+I1
+sS"27 /home/speedy/test/source2slice/NVD/CVE_2007_4521_PATCHED_play_message.c [u'duration'] 8"
+p58
+I0
+sS"154 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'updateLockFilePath'] 249"
+p59
+I0
+sS"197 /home/speedy/test/source2slice/NVD/CVE_2015_3008_VULN_handle_tcptls_connection.c [u'err'] 7"
+p60
+I0
+sS"93 /home/speedy/test/source2slice/NVD/CVE_2013_6671_VULN_nsHtml5TreeOperation__Perform.c [u'params'] 562"
+p61
+I0
+sS"144 /home/speedy/test/source2slice/NVD/CVE_2015_0253_VULN_read_request_line.c [u'http'] 8"
+p62
+I0
+sS"127 /home/speedy/test/source2slice/NVD/CVE_2014_3511_VULN_ssl23_get_client_hello.c [u'v'] 22"
+p63
+I0
+sS"204 /home/speedy/test/source2slice/NVD/CVE-2016-2328_VULN_bayer_to_yv12_wrapper.c [u'dst'] 2"
+p64
+I1
+sS"63 /home/speedy/test/source2slice/NVD/CVE_2010_3848_PATCHED_econet_sendmsg.c [u'iov'] 16"
+p65
+I0
+sS"126 /home/speedy/test/source2slice/NVD/CVE_2014_3511_PATCHED_ssl23_get_client_hello.c [u'buf_space'] 3"
+p66
+I0
+sS"187 /home/speedy/test/source2slice/NVD/CVE_2015_1158_VULN_authenticate_job.c [u'username', u'scheme', u'resource', u'host'] 11"
+p67
+I1
+sS"108 /home/speedy/test/source2slice/NVD/CVE_2014_1497_VULN_WaveReader__LoadFormatChunk.c [u'chunkExtension'] 63"
+p68
+I0
+sS"91 /home/speedy/test/source2slice/NVD/CVE_2013_6671_PATCHED_nsHtml5TreeOperation__Perform.c [u'params'] 562"
+p69
+I0
+sS"125 /home/speedy/test/source2slice/NVD/CVE_2014_3511_PATCHED_ssl23_get_client_hello.c [u'v'] 22"
+p70
+I0
+sS"168 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'maintenanceServiceKey'] 370"
+p71
+I0
+sS"25 /home/speedy/test/source2slice/NVD/CVE_2007_4521_PATCHED_play_message.c [u'todir'] 10"
+p72
+I0
+sS"59 /home/speedy/test/source2slice/NVD/CVE_2010_2495_PATCHED_pppol2tp_sendmsg.c [u'ppph'] 4"
+p73
+I0
+sS"32 /home/speedy/test/source2slice/NVD/CVE_2007_4521_VULN_play_message.c [u'category'] 9"
+p74
+I0
+sS"12 /home/speedy/test/source2slice/NVD/CVE-2016-7180_VULN_dissect_ipmi_trace.c [u'str'] 38"
+p75
+I0
+sS"178 /home/speedy/test/source2slice/NVD/CVE_2015_1158_PATCHED_authenticate_job.c [u'username', u'scheme', u'resource', u'host'] 11"
+p76
+I0
+sS"132 /home/speedy/test/source2slice/NVD/CVE_2014_3537_VULN_get_file.c [u'language'] 12"
+p77
+I1
+sS"66 /home/speedy/test/source2slice/NVD/CVE_2013_4932_VULN_elem_tv_short.c [u'buf'] 11"
+p78
+I0
+sS"148 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'installDir'] 643"
+p79
+I0
+sS"80 /home/speedy/test/source2slice/NVD/CVE_2013_5642_PATCHED_process_sdp.c [u'red_fmtp'] 58"
+p80
+I0
+sS"192 /home/speedy/test/source2slice/NVD/CVE_2015_1158_VULN_send_document.c [u'super', u'mimetype', u'type'] 25"
+p81
+I1
+sS"210 /home/speedy/test/source2slice/NVD/CVE_2014_5271_VULN_encode_slice.c [u'sizes'] 3"
+p82
+I0
+sS"128 /home/speedy/test/source2slice/NVD/CVE_2014_3511_VULN_ssl23_get_client_hello.c [u'buf_space'] 3"
+p83
+I0
+sS"109 /home/speedy/test/source2slice/NVD/CVE_2014_1497_VULN_WaveReader__LoadFormatChunk.c [u'extLength'] 44"
+p84
+I0
+sS"31 /home/speedy/test/source2slice/NVD/CVE_2007_4521_VULN_play_message.c [u'todir'] 10"
+p85
+I0
+sS"100 /home/speedy/test/source2slice/NVD/CVE_2013_7009_VULN_rpza_decode_stream.c [u'color4'] 11"
+p86
+I0
+sS"152 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'maintenanceServiceKey'] 370"
+p87
+I0
+sS"89 /home/speedy/test/source2slice/NVD/CVE_2013_6380_VULN_aac_send_raw_srb.c [u'sg_list'] 15"
+p88
+I0
+sS"95 /home/speedy/test/source2slice/NVD/CVE_2013_7008_PATCHED_decode_slice_header.c [u'id_list'] 638"
+p89
+I0
+sS"54 /home/speedy/test/source2slice/NVD/CVE_2010_2068_PATCHED_ap_proxy_http_process_response.c [u'buffer'] 8"
+p90
+I0
+sS"129 /home/speedy/test/source2slice/NVD/CVE_2014_3523_PATCHED_winnt_accept.c [u'events'] 28"
+p91
+I0
+sS"171 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'MAXPATHLEN', u'elevatedLockFilePath'] 246"
+p92
+I1
+sS"123 /home/speedy/test/source2slice/NVD/CVE_2014_3182_PATCHED_logi_dj_recv_add_djhid_device.c [u'tmpstr'] 14"
+p93
+I0
+sS"69 /home/speedy/test/source2slice/NVD/CVE_2013_4936_PATCHED_IsDFP_Frame.c [u'virtualFramebuffer'] 11"
+p94
+I0
+sS"181 /home/speedy/test/source2slice/NVD/CVE_2015_1158_PATCHED_release_job.c [u'username', u'scheme', u'resource', u'host'] 9"
+p95
+I0
+sS"145 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'newDistDir'] 825"
+p96
+I0
+sS"160 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_UpdateThreadFunc.c [u'dataFile'] 9"
+p97
+I0
+sS"29 /home/speedy/test/source2slice/NVD/CVE_2007_4521_PATCHED_play_message.c [u'context'] 6"
+p98
+I0
+sS"75 /home/speedy/test/source2slice/NVD/CVE_2013_5641_VULN_handle_incoming.c [u'tag'] 163"
+p99
+I0
+sS"58 /home/speedy/test/source2slice/NVD/CVE_2010_2431_VULN_cupsFileOpen.c [u'portname', u'hostname'] 9"
+p100
+I0
+sS"161 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'newDistDir'] 825"
+p101
+I0
+sS"28 /home/speedy/test/source2slice/NVD/CVE_2007_4521_PATCHED_play_message.c [u'origtime'] 7"
+p102
+I0
+sS"98 /home/speedy/test/source2slice/NVD/CVE_2013_7008_VULN_decode_slice_header.c [u'max'] 454"
+p103
+I0
+sS"61 /home/speedy/test/source2slice/NVD/CVE_2010_2803_PATCHED_drm_ioctl.c [u'stack_kdata'] 10"
+p104
+I0
+sS"135 /home/speedy/test/source2slice/NVD/CVE_2014_5161_PATCHED_dissect_log.c [u'buf'] 14"
+p105
+I0
+sS"13 /home/speedy/test/source2slice/NVD/CVE-2017-5547_VULN_k90_backlight_get.c [u'data'] 9"
+p106
+I1
+sS"163 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'oldPrecomplete'] 815"
+p107
+I0
+sS"149 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'buffer'] 622"
+p108
+I0
+sS"162 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'oldDistDir'] 820"
+p109
+I0
+sS"5 /home/speedy/test/source2slice/NVD/CVE-2016-2329_VULN_tiff_decode_tag.c [u'pal_gb'] 199"
+p110
+I1
+sS"90 /home/speedy/test/source2slice/NVD/CVE_2013_6380_VULN_aac_send_raw_srb.c [u'sg_user'] 14"
+p111
+I0
+sS"174 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_UpdateThreadFunc.c [u'updateSettingsPath'] 22"
+p112
+I0
+sS"87 /home/speedy/test/source2slice/NVD/CVE_2013_6380_PATCHED_aac_send_raw_srb.c [u'sg_list'] 15"
+p113
+I0
+sS"157 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_UpdateThreadFunc.c [u'updatingDir'] 81"
+p114
+I0
+sS"140 /home/speedy/test/source2slice/NVD/CVE_2014_5271_VULN_encode_frame.c [u'sizes'] 9"
+p115
+I1
+sS"196 /home/speedy/test/source2slice/NVD/CVE_2015_3008_PATCHED_handle_tcptls_connection.c [u'err'] 7"
+p116
+I0
+sS"183 /home/speedy/test/source2slice/NVD/CVE_2015_1158_PATCHED_send_document.c [u'super', u'mimetype', u'type'] 25"
+p117
+I0
+sS"175 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_UpdateThreadFunc.c [u'dataFile'] 9"
+p118
+I0
+sS"10 /home/speedy/test/source2slice/NVD/CVE-2016-7042_VULN_proc_keys_show.c [u'xbuf'] 8"
+p119
+I1
+sS"36 /home/speedy/test/source2slice/NVD/CVE_2007_4521_VULN_play_message.c [u'cid'] 5"
+p120
+I0
+sS"6 /home/speedy/test/source2slice/NVD/CVE-2016-4082_VULN_dissect_schedule_message.c [u'other_slots'] 7"
+p121
+I0
+sS"150 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'callbackLongPath'] 619"
+p122
+I0
+sS"124 /home/speedy/test/source2slice/NVD/CVE_2014_3182_VULN_logi_dj_recv_add_djhid_device.c [u'tmpstr'] 14"
+p123
+I0
+sS"110 /home/speedy/test/source2slice/NVD/CVE_2014_1497_VULN_WaveReader__LoadFormatChunk.c [u'waveFormat'] 5"
+p124
+I1
+sS"185 /home/speedy/test/source2slice/NVD/CVE_2015_1158_VULN_add_job.c [u'mimetype'] 149"
+p125
+I0
+sS"200 /home/speedy/test/source2slice/NVD/CVE_2015_3811_PATCHED_wcp_uncompress.c [u'src_buf'] 13"
+p126
+I0
+sS"35 /home/speedy/test/source2slice/NVD/CVE_2007_4521_VULN_play_message.c [u'context'] 6"
+p127
+I0
+sS"180 /home/speedy/test/source2slice/NVD/CVE_2015_1158_PATCHED_print_job.c [u'filename'] 11"
+p128
+I0
+sS"16 /home/speedy/test/source2slice/NVD/CVE_2004_1151_VULN_sys32_ni_syscall.c [u'lastcomm'] 4"
+p129
+I1
+sS"205 /home/speedy/test/source2slice/NVD/CVE-2016-2328_VULN_bayer_to_yv12_wrapper.c [u'srcStride'] 1"
+p130
+I1
+sS"179 /home/speedy/test/source2slice/NVD/CVE_2015_1158_PATCHED_print_job.c [u'super', u'mimetype', u'type'] 13"
+p131
+I0
+sS"158 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_UpdateThreadFunc.c [u'updateSettingsPath'] 57"
+p132
+I0
+sS"173 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_UpdateThreadFunc.c [u'updatingDir'] 46"
+p133
+I0
+sS"20 /home/speedy/test/source2slice/NVD/CVE_2006_2778_VULN_nsCrypto__SignText.c [u'hash'] 313"
+p134
+I1
+sS"47 /home/speedy/test/source2slice/NVD/CVE_2009_2484_PATCHED_Win32AddConnection.c [u'psz_server', u'psz_remote', u'psz_share'] 6"
+p135
+I0
+sS"17 /home/speedy/test/source2slice/NVD/CVE_2005_3356_PATCHED_do_open.c [u'O_ACCMODE', u'oflag2acc'] 3"
+p136
+I0
+sS"120 /home/speedy/test/source2slice/NVD/CVE_2014_2739_VULN_cma_req_handler.c [u'smac'] 6"
+p137
+I1
+sS"73 /home/speedy/test/source2slice/NVD/CVE_2013_5641_PATCHED_handle_incoming.c [u'seconds'] 129"
+p138
+I0
+sS"191 /home/speedy/test/source2slice/NVD/CVE_2015_1158_VULN_send_document.c [u'filename'] 31"
+p139
+I0
+sS"198 /home/speedy/test/source2slice/NVD/CVE_2015_3331_PATCHED___driver_rfc4106_decrypt.c [u'iv_and_authTag'] 12"
+p140
+I0
+sS"113 /home/speedy/test/source2slice/NVD/CVE_2014_1690_PATCHED_help.c [u'buffer'] 8"
+p141
+I0
+sS"55 /home/speedy/test/source2slice/NVD/CVE_2010_2068_VULN_ap_proxy_http_process_response.c [u'hop_by_hop_hdrs'] 20"
+p142
+I0
+sS"34 /home/speedy/test/source2slice/NVD/CVE_2007_4521_VULN_play_message.c [u'origtime'] 7"
+p143
+I0
+sS"50 /home/speedy/test/source2slice/NVD/CVE_2009_2768_VULN_load_flat_shared_library.c [u'buf'] 5"
+p144
+I1
+sS"83 /home/speedy/test/source2slice/NVD/CVE_2013_5642_VULN_process_sdp.c [u's5', u's4', u's3', u's2', u's1'] 505"
+p145
+I0
+sS"202 /home/speedy/test/source2slice/NVD/CVE-2015-4504_VULN_lut_inverse_interp16.c [u'LutTable'] 1"
+p146
+I0
+sS"48 /home/speedy/test/source2slice/NVD/CVE_2009_2484_VULN_Win32AddConnection.c [u'psz_server', u'psz_remote', u'psz_share'] 6"
+p147
+I1
+sS"201 /home/speedy/test/source2slice/NVD/CVE_2015_3811_VULN_wcp_uncompress.c [u'src_buf'] 13"
+p148
+I0
+sS"207 /home/speedy/test/source2slice/NVD/CVE_2009_4308_PATCHED_ext4_decode_error.c [u'nbuf'] 2"
+p149
+I0
+sS"131 /home/speedy/test/source2slice/NVD/CVE_2014_3537_PATCHED_get_file.c [u'language'] 12"
+p150
+I0
+sS"81 /home/speedy/test/source2slice/NVD/CVE_2013_5642_PATCHED_process_sdp.c [u'red_data_pt'] 56"
+p151
+I0
+sS"141 /home/speedy/test/source2slice/NVD/CVE_2015_0228_PATCHED_lua_websocket_read.c [u'frame'] 146"
+p152
+I0
+sS"30 /home/speedy/test/source2slice/NVD/CVE_2007_4521_PATCHED_play_message.c [u'cid'] 5"
+p153
+I0
+sS"84 /home/speedy/test/source2slice/NVD/CVE_2013_5642_VULN_process_sdp.c [u'buf'] 62"
+p154
+I0
+sS"119 /home/speedy/test/source2slice/NVD/CVE_2014_2739_VULN_cma_req_handler.c [u'alt_smac'] 7"
+p155
+I1
+sS"167 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'applyDirLongPath'] 598"
+p156
+I0
+sS"142 /home/speedy/test/source2slice/NVD/CVE_2015_0228_VULN_lua_websocket_read.c [u'frame'] 143"
+p157
+I0
+sS"104 /home/speedy/test/source2slice/NVD/CVE_2014_0221_VULN_dtls1_get_message_fragment.c [u'wire'] 4"
+p158
+I0
+sS"56 /home/speedy/test/source2slice/NVD/CVE_2010_2068_VULN_ap_proxy_http_process_response.c [u'buffer'] 8"
+p159
+I1
+sS"176 /home/speedy/test/source2slice/NVD/CVE_2015_1158_PATCHED_add_job.c [u'mimetype'] 149"
+p160
+I0
+sS"182 /home/speedy/test/source2slice/NVD/CVE_2015_1158_PATCHED_send_document.c [u'filename'] 31"
+p161
+I0
+sS"92 /home/speedy/test/source2slice/NVD/CVE_2013_6671_PATCHED_nsHtml5TreeOperation__Perform.c [u'params'] 556"
+p162
+I0
+sS"130 /home/speedy/test/source2slice/NVD/CVE_2014_3523_VULN_winnt_accept.c [u'events'] 28"
+p163
+I0
+sS"114 /home/speedy/test/source2slice/NVD/CVE_2014_1690_VULN_help.c [u'buffer'] 8"
+p164
+I1
+sS"8 /home/speedy/test/source2slice/NVD/CVE-2016-5400_VULN_airspy_probe.c [u'buf', u'u8tmp'] 6"
+p165
+I0
+sS"39 /home/speedy/test/source2slice/NVD/CVE_2008_1390_PATCHED_generic_http_callback.c [u'tmp'] 60"
+p166
+I0
+sS"40 /home/speedy/test/source2slice/NVD/CVE_2008_1390_PATCHED_generic_http_callback.c [u'cookie'] 6"
+p167
+I0
+sS"19 /home/speedy/test/source2slice/NVD/CVE_2006_2778_PATCHED_nsCrypto__SignText.c [u'hash'] 313"
+p168
+I0
+sS"206 /home/speedy/test/source2slice/NVD/CVE-2016-2328_VULN_bayer_to_yv12_wrapper.c [u'src'] 1"
+p169
+I1
+sS"94 /home/speedy/test/source2slice/NVD/CVE_2013_6671_VULN_nsHtml5TreeOperation__Perform.c [u'params'] 556"
+p170
+I0
+sS"85 /home/speedy/test/source2slice/NVD/CVE_2013_5642_VULN_process_sdp.c [u'red_fmtp'] 58"
+p171
+I0
+sS"45 /home/speedy/test/source2slice/NVD/CVE_2009_0746_PATCHED_make_indexed_dir.c [u'frame', u'frames'] 9"
+p172
+I0
+sS"33 /home/speedy/test/source2slice/NVD/CVE_2007_4521_VULN_play_message.c [u'duration'] 8"
+p173
+I0
+sS"169 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'installDir'] 259"
+p174
+I0
+sS"147 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'oldPrecomplete'] 815"
+p175
+I0
+sS"112 /home/speedy/test/source2slice/NVD/CVE_2014_1508_VULN_nsDisplayNotation__Paint.c [u'p'] 60"
+p176
+I1
+sS"11 /home/speedy/test/source2slice/NVD/CVE-2016-7179_VULN_parse_outhdr_string.c [u'digit_array'] 8"
+p177
+I0
+sS"79 /home/speedy/test/source2slice/NVD/CVE_2013_5642_PATCHED_process_sdp.c [u'buf'] 62"
+p178
+I0
+sS"188 /home/speedy/test/source2slice/NVD/CVE_2015_1158_VULN_print_job.c [u'super', u'mimetype', u'type'] 13"
+p179
+I1
+sS"155 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'MAXPATHLEN', u'elevatedLockFilePath'] 246"
+p180
+I0
+sS"46 /home/speedy/test/source2slice/NVD/CVE_2009_0746_VULN_make_indexed_dir.c [u'frame', u'frames'] 9"
+p181
+I0
+sS"139 /home/speedy/test/source2slice/NVD/CVE_2014_5271_PATCHED_encode_frame.c [u'sizes'] 9"
+p182
+I0
+sS"65 /home/speedy/test/source2slice/NVD/CVE_2013_4932_PATCHED_elem_tv_short.c [u'buf'] 12"
+p183
+I0
+sS"156 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'tmpDir'] 221"
+p184
+I0
+sS"121 /home/speedy/test/source2slice/NVD/CVE_2014_2889_PATCHED_bpf_jit_compile.c [u'temp'] 3"
+p185
+I0
+sS"116 /home/speedy/test/source2slice/NVD/CVE_2014_2286_PATCHED_httpd_helper_thread.c [u'buf'] 3"
+p186
+I0
+sS"49 /home/speedy/test/source2slice/NVD/CVE_2009_2768_PATCHED_load_flat_shared_library.c [u'buf'] 5"
+p187
+I0
+sS"151 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'applyDirLongPath'] 598"
+p188
+I0
+sS"170 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'updateLockFilePath'] 249"
+p189
+I0
+sS"190 /home/speedy/test/source2slice/NVD/CVE_2015_1158_VULN_release_job.c [u'username', u'scheme', u'resource', u'host'] 9"
+p190
+I1
+sS"203 /home/speedy/test/source2slice/NVD/CVE-2016-2328_VULN_bayer_to_yv12_wrapper.c [u'dstStride'] 2"
+p191
+I1
+sS"82 /home/speedy/test/source2slice/NVD/CVE_2013_5642_VULN_process_sdp.c [u's2', u's1'] 699"
+p192
+I1
+sS"166 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c [u'callbackLongPath'] 619"
+p193
+I0
+sS"96 /home/speedy/test/source2slice/NVD/CVE_2013_7008_PATCHED_decode_slice_header.c [u'max'] 454"
+p194
+I0
+sS"122 /home/speedy/test/source2slice/NVD/CVE_2014_2889_VULN_bpf_jit_compile.c [u'temp'] 3"
+p195
+I0
+sS"111 /home/speedy/test/source2slice/NVD/CVE_2014_1508_PATCHED_nsDisplayNotation__Paint.c [u'p'] 60"
+p196
+I0
+sS"105 /home/speedy/test/source2slice/NVD/CVE_2014_1497_PATCHED_WaveReader__LoadFormatChunk.c [u'chunkExtension'] 63"
+p197
+I0
+sS"53 /home/speedy/test/source2slice/NVD/CVE_2010_2068_PATCHED_ap_proxy_http_process_response.c [u'hop_by_hop_hdrs'] 20"
+p198
+I0
+sS"15 /home/speedy/test/source2slice/NVD/CVE_2004_1151_PATCHED_sys32_ni_syscall.c [u'lastcomm'] 4"
+p199
+I0
+sS"57 /home/speedy/test/source2slice/NVD/CVE_2010_2431_PATCHED_cupsFileOpen.c [u'portname', u'hostname'] 9"
+p200
+I0
+sS"137 /home/speedy/test/source2slice/NVD/CVE_2014_5163_PATCHED_decode_apn.c [u'str'] 4"
+p201
+I0
+sS"76 /home/speedy/test/source2slice/NVD/CVE_2013_5641_VULN_handle_incoming.c [u'seconds'] 129"
+p202
+I0
+sS"153 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c [u'installDir'] 259"
+p203
+I0
+sS"26 /home/speedy/test/source2slice/NVD/CVE_2007_4521_PATCHED_play_message.c [u'category'] 9"
+p204
+I0
+sS"118 /home/speedy/test/source2slice/NVD/CVE_2014_2286_VULN_httpd_helper_thread.c [u'buf'] 3"
+p205
+I1
+sS"7 /home/speedy/test/source2slice/NVD/CVE-2016-4082_VULN_dissect_schedule_message.c [u'sched_begin', u'sched_end', u'new_slots'] 5"
+p206
+I0
+sS"86 /home/speedy/test/source2slice/NVD/CVE_2013_5642_VULN_process_sdp.c [u'red_data_pt'] 56"
+p207
+I0
+sS"99 /home/speedy/test/source2slice/NVD/CVE_2013_7009_PATCHED_rpza_decode_stream.c [u'color4'] 11"
+p208
+I0
+sS"64 /home/speedy/test/source2slice/NVD/CVE_2010_3848_VULN_econet_sendmsg.c [u'iov'] 16"
+p209
+I1
+sS"22 /home/speedy/test/source2slice/NVD/CVE_2006_2935_VULN_dvd_read_bca.c [u'buf'] 4"
+p210
+I0
+s.

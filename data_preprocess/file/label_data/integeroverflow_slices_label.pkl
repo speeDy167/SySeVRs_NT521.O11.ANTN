@@ -1,0 +1,2510 @@
+(dp0
+S'669 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c PRUint32 toCopy = mLOH - mPos ; 27'
+p1
+I0
+sS'587 /home/speedy/test/source2slice/NVD/CVE_2015_3808_VULN_dissect_lbmr_pser.c flags = tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_T_FLAGS ) 12'
+p2
+I0
+sS'186 /home/speedy/test/source2slice/NVD/CVE_2009_3888_PATCHED_do_mmap_pgoff.c rpglen = pregion -> vm_end - pregion -> vm_start 91'
+p3
+I0
+sS'433 /home/speedy/test/source2slice/NVD/CVE_2013_7023_VULN_ff_combine_frame.c pc -> state = ( pc -> state << 8 ) | pc -> buffer [ pc -> last_index + next ] 52'
+p4
+I1
+sS'124 /home/speedy/test/source2slice/NVD/CVE_2009_0746_PATCHED_make_indexed_dir.c de -> rec_len = ext4_rec_len_to_disk ( blocksize - EXT4_DIR_REC_LEN ( 2 ) ) 60'
+p5
+I0
+sS'190 /home/speedy/test/source2slice/NVD/CVE_2009_3888_VULN_do_mmap_pgoff.c vma -> vm_end = start + len 113'
+p6
+I0
+sS'293 /home/speedy/test/source2slice/NVD/CVE_2010_2538_VULN_btrfs_ioctl_clone.c len = ( ( src -> i_size + bs - 1 ) & ~ ( bs - 1 ) ) - off 90'
+p7
+I1
+sS'712 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c int declvl = codsty -> nreslevels - reslevelno ; 40'
+p8
+I0
+sS'749 /home/speedy/test/source2slice/NVD/CVE_2014_1508_PATCHED_nsDisplayNotation__Paint.c gfxFloat w = W * f ; 51'
+p9
+I0
+sS'373 /home/speedy/test/source2slice/NVD/CVE_2013_7008_VULN_decode_slice_header.c h -> resync_mb_y = h -> mb_y = ( first_mb_in_slice / h -> mb_width ) << FIELD_OR_MBAFF_PICTURE ( h ) 414'
+p10
+I0
+sS'356 /home/speedy/test/source2slice/NVD/CVE_2013_6380_VULN_aac_send_raw_srb.c user_reply = arg + fibsize 66'
+p11
+I1
+sS'67 /home/speedy/test/source2slice/NVD/CVE_2006_5751_PATCHED_get_fdb_entries.c maxnum = PAGE_SIZE / sizeof ( struct __fdb_entry ) 10'
+p12
+I0
+sS'552 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c NS_tsnprintf ( updateLockFilePath , sizeof ( updateLockFilePath ) / sizeof ( updateLockFilePath [ 0 ] ) , NS_T ( "%s\\\\moz_update_in_progress.lock" ) , installDir ) 263'
+p13
+I0
+sS'544 /home/speedy/test/source2slice/NVD/CVE_2014_5472_VULN_isofs_read_inode.c de = ( struct iso_directory_record * ) ( bh -> b_data + offset ) 23'
+p14
+I0
+sS'811 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c const uint8_t * start = buf + ( plane * avctx -> height + y ) * s -> planesize ; 49'
+p15
+I0
+sS'228 /home/speedy/test/source2slice/NVD/CVE_2009_4307_PATCHED_ext4_fill_flex_info.c flex_group_count = ( ( sbi -> s_groups_count + groups_per_flex - 1 ) + ( ( le16_to_cpu ( sbi -> s_es -> s_reserved_gdt_blocks ) + 1 ) << EXT4_DESC_PER_BLOCK_BITS ( sb ) ) ) / groups_per_flex 20'
+p16
+I0
+sS'673 /home/speedy/test/source2slice/NVD/CVE_2009_0946_VULN_ft_smooth_render_generic.c FT_Vector * points_end = points + outline -> n_points ; 145'
+p17
+I0
+sS'290 /home/speedy/test/source2slice/NVD/CVE_2010_2538_VULN_btrfs_ioctl_clone.c datal = off + len - key . offset 213'
+p18
+I1
+sS'254 /home/speedy/test/source2slice/NVD/CVE_2010_2495_VULN_pppol2tp_sendmsg.c skb = sock_wmalloc ( sk , NET_SKB_PAD + sizeof ( struct iphdr ) + sizeof ( struct udphdr ) + hdr_len + sizeof ( ppph ) + total_len , 0 , GFP_KERNEL ) 38'
+p19
+I1
+sS'238 /home/speedy/test/source2slice/NVD/CVE_2010_0307_PATCHED_load_elf_binary.c nbyte = ELF_MIN_ALIGN - nbyte 209'
+p20
+I0
+sS'699 /home/speedy/test/source2slice/NVD/CVE_2013_7011_PATCHED_read_header.c int size = AV_RB24 ( p - trailer ) ; 146'
+p21
+I0
+sS'350 /home/speedy/test/source2slice/NVD/CVE_2013_6167_VULN_nsCookieService__SetCookieInternal.c cookieAttributes . isSession = GetExpiry ( cookieAttributes , aServerTime , currentTimeInUsec / PR_USEC_PER_SEC ) 31'
+p22
+I0
+sS'534 /home/speedy/test/source2slice/NVD/CVE_2014_5271_VULN_encode_frame.c frame_size = buf - orig_buf 116'
+p23
+I1
+sS'399 /home/speedy/test/source2slice/NVD/CVE_2013_7013_VULN_g2m_init_buffers.c c -> synth_tile = av_mallocz ( c -> tile_stride * aligned_height ) 22'
+p24
+I1
+sS'568 /home/speedy/test/source2slice/NVD/CVE_2015_2922_VULN_ndisc_router_discovery.c rtime = ( rtime * HZ ) / 1000 162'
+p25
+I1
+sS'141 /home/speedy/test/source2slice/NVD/CVE_2009_0946_VULN_tt_cmap8_validate.c count = ( FT_UInt32 ) ( end - start + 1 ) 49'
+p26
+I0
+sS'216 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_dualbuffer.c header_size = packet_count * max ( ctx -> base . header_size , ( size_t ) 8 ) 27'
+p27
+I0
+sS'282 /home/speedy/test/source2slice/NVD/CVE_2010_2538_PATCHED_btrfs_ioctl_clone.c datal = off + len - key . offset 213'
+p28
+I0
+sS'730 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000Prec * prec = band -> prec + precno ; 33'
+p29
+I0
+sS'613 /home/speedy/test/source2slice/NVD/CVE_2015_3813_VULN_fragment_add_work.c fd_head -> error = "offset + len < offset" 313'
+p30
+I0
+sS'177 /home/speedy/test/source2slice/NVD/CVE_2009_2909_VULN_ax25_setsockopt.c ax25 -> t2 = opt * HZ 52'
+p31
+I0
+sS'11 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> input_table [ i ] = uInt16Number_to_float ( read_uInt16Number ( src , offset + 52 + i * entry_size ) ) 73'
+p32
+I1
+sS'329 /home/speedy/test/source2slice/NVD/CVE_2010_3429_VULN_flic_decode_frame_8BPP.c pixel_limit = s -> avctx -> height * s -> frame . linesize [ 0 ] 46'
+p33
+I1
+sS'176 /home/speedy/test/source2slice/NVD/CVE_2009_2909_VULN_ax25_setsockopt.c ax25 -> t3 = opt * HZ 68'
+p34
+I0
+sS'453 /home/speedy/test/source2slice/NVD/CVE_2014_0160_PATCHED_tls1_process_heartbeat.c buffer = OPENSSL_malloc ( 1 + 2 + payload + padding ) 32'
+p35
+I0
+sS'830 /home/speedy/test/source2slice/NVD/CVE_2015_3813_PATCHED_fragment_add_work.c guint32 cmp_len = MIN ( fd_i -> len , ( dfpos - fd_i -> offset ) ) ; 288'
+p36
+I0
+sS'280 /home/speedy/test/source2slice/NVD/CVE_2010_2538_PATCHED_btrfs_ioctl_clone.c skip = off - key . offset 236'
+p37
+I0
+sS'788 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 104'
+p38
+I0
+sS'191 /home/speedy/test/source2slice/NVD/CVE_2009_3888_VULN_do_mmap_pgoff.c rpgend = pregion -> vm_pgoff + rpglen 93'
+p39
+I0
+sS'195 /home/speedy/test/source2slice/NVD/CVE_2009_3888_VULN_do_mmap_pgoff.c pglen = ( len + PAGE_SIZE - 1 ) >> PAGE_SHIFT 74'
+p40
+I0
+sS'572 /home/speedy/test/source2slice/NVD/CVE_2015_3331_PATCHED___driver_rfc4106_decrypt.c assoc = ( src + req -> cryptlen ) 52'
+p41
+I0
+sS'614 /home/speedy/test/source2slice/NVD/CVE_2015_3813_VULN_fragment_add_work.c dfpos = MAX ( dfpos , ( fd_i -> offset + fraglen ) ) 307'
+p42
+I0
+sS'100 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c toCopy = rowSize - mRowBytes 147'
+p43
+I1
+sS'454 /home/speedy/test/source2slice/NVD/CVE_2014_0160_VULN_dtls1_process_heartbeat.c r = dtls1_write_bytes ( s , TLS1_RT_HEARTBEAT , buffer , 3 + payload + padding ) 39'
+p44
+I1
+sS'582 /home/speedy/test/source2slice/NVD/CVE_2015_3808_PATCHED_dissect_lbmr_pser.c flags = tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_T_FLAGS ) 12'
+p45
+I0
+sS'656 /home/speedy/test/source2slice/NVD/CVE_2005_2617_VULN_syscall32_setup_pages.c int npages = ( VSYSCALL32_END - VSYSCALL32_BASE ) >> PAGE_SHIFT ; 3'
+p46
+I0
+sS'655 /home/speedy/test/source2slice/NVD/CVE_2005_2617_PATCHED_syscall32_setup_pages.c int npages = ( VSYSCALL32_END - VSYSCALL32_BASE ) >> PAGE_SHIFT ; 3'
+p47
+I0
+sS'98 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c mAlphaPtr = mAlpha + mBIH . width 351'
+p48
+I1
+sS'567 /home/speedy/test/source2slice/NVD/CVE_2015_2922_PATCHED_ndisc_router_discovery.c optlen = ( skb -> tail - skb -> transport_header ) - sizeof ( struct ra_msg ) 14'
+p49
+I0
+sS'27 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c x = tile -> comp [ compno ] . coord [ 0 ] [ 0 ] - s -> image_offset_x / s -> cdx [ compno ] 146'
+p50
+I1
+sS'381 /home/speedy/test/source2slice/NVD/CVE_2013_7009_VULN_rpza_decode_stream.c block_ptr = row_ptr + pixel_ptr 120'
+p51
+I1
+sS'664 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c PRUint32 toCopy = BFH_LENGTH - mPos ; 9'
+p52
+I0
+sS'563 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_UpdateThreadFunc.c NS_tsnprintf ( updatingDir , sizeof ( updatingDir ) / sizeof ( updatingDir [ 0 ] ) , NS_T ( "%s/updating" ) , gWorkingDirPath ) 47'
+p53
+I0
+sS'375 /home/speedy/test/source2slice/NVD/CVE_2013_7008_VULN_decode_slice_header.c h -> picture_structure = PICT_TOP_FIELD + get_bits1 ( & h -> gb ) 204'
+p54
+I0
+sS'71 /home/speedy/test/source2slice/NVD/CVE_2006_6333_PATCHED_tr_rx.c iph = ( struct iphdr * ) ( data + lan_hdr_len + sizeof ( struct trllc ) ) 110'
+p55
+I0
+sS'97 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c mRow = new PRUint8 [ ( mBIH . width * mBIH . bpp ) / 8 + 4 ] 75'
+p56
+I0
+sS'487 /home/speedy/test/source2slice/NVD/CVE_2014_3122_PATCHED_try_to_unmap_cluster.c address = ( vma -> vm_start + cursor ) & CLUSTER_MASK 19'
+p57
+I0
+sS'164 /home/speedy/test/source2slice/NVD/CVE_2009_1336_VULN_nfs_init_server.c server -> acregmax = data -> acregmax * HZ 35'
+p58
+I1
+sS'807 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 93'
+p59
+I0
+sS'550 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c NS_tsnprintf ( elevatedLockFilePath , sizeof ( elevatedLockFilePath ) / sizeof ( elevatedLockFilePath [ 0 ] ) , NS_T ( "%s/update_elevated.lock" ) , gPatchDirPath ) 298'
+p60
+I0
+sS'391 /home/speedy/test/source2slice/NVD/CVE_2013_7013_PATCHED_g2m_init_buffers.c c -> kempf_flags = av_mallocz ( c -> tile_width * aligned_height ) 26'
+p61
+I0
+sS'108 /home/speedy/test/source2slice/NVD/CVE_2008_3686_VULN_rt6_fill_node.c expires = rt -> rt6i_expires - jiffies 102'
+p62
+I0
+sS'570 /home/speedy/test/source2slice/NVD/CVE_2015_2922_VULN_ndisc_router_discovery.c optlen = ( skb -> tail - skb -> transport_header ) - sizeof ( struct ra_msg ) 14'
+p63
+I0
+sS'119 /home/speedy/test/source2slice/NVD/CVE_2008_5134_PATCHED_lbs_process_bss.c n_ex_rates = MAX_RATES - n_basic_rates 168'
+p64
+I0
+sS'99 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c mStateData = ( PRUint32 ) ( mAlpha + mBIH . width - mAlphaPtr ) 276'
+p65
+I1
+sS'16 /home/speedy/test/source2slice/NVD/CVE-2015-1872_VULN_ff_mjpeg_decode_sof.c s -> block_stride [ i ] = bw * s -> h_count [ i ] 371'
+p66
+I1
+sS'437 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c dst = line + x / s -> cdx [ compno ] * pixelsize + compno * ! planar 93'
+p67
+I0
+sS'471 /home/speedy/test/source2slice/NVD/CVE_2014_2289_VULN_copy_body_types.c exten_state_sub -> body_types = ast_malloc ( hdr -> count * sizeof ( char * ) ) 10'
+p68
+I0
+sS'739 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000Cblk * cblk = prec -> cblk + cblkno ; 38'
+p69
+I1
+sS'21 /home/speedy/test/source2slice/NVD/CVE-2015-4511_VULN_ne_parse.c data_offset = ( int64_t * ) ( ctx -> ancestor -> data + element -> data_offset ) 37'
+p70
+I0
+sS'69 /home/speedy/test/source2slice/NVD/CVE_2006_6333_PATCHED_tr_rx.c rbuffer_len = ntohs ( readw ( rbuf + BUFFER_LENGTH_OFST ) ) 139'
+p71
+I0
+sS'569 /home/speedy/test/source2slice/NVD/CVE_2015_2922_VULN_ndisc_router_discovery.c rtime = ( rtime * HZ ) / 1000 152'
+p72
+I1
+sS'667 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c PRUint8 colorNum = colorBytes / bpc ; 96'
+p73
+I1
+sS'665 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c PRUint32 rowSize = ( mBIH . bpp * mBIH . width + 7 ) / 8 ; 142'
+p74
+I1
+sS'408 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c prec -> coord [ 1 ] [ 0 ] = ( precno / reslevel -> num_precincts_x ) * ( 1 << log2_band_prec_height ) 199'
+p75
+I1
+sS'73 /home/speedy/test/source2slice/NVD/CVE_2006_6333_PATCHED_tr_rx.c hdr_len = lan_hdr_len + sizeof ( struct trllc ) + sizeof ( struct iphdr ) 36'
+p76
+I0
+sS'96 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c toCopy = rowSize - mRowBytes 151'
+p77
+I0
+sS'239 /home/speedy/test/source2slice/NVD/CVE_2010_0307_PATCHED_load_elf_binary.c retval = set_brk ( elf_bss + load_bias , elf_brk + load_bias ) 201'
+p78
+I0
+sS'485 /home/speedy/test/source2slice/NVD/CVE_2014_2894_VULN_cmd_smart.c s -> io_buffer [ 511 ] = 0x100 - s -> io_buffer [ 511 ] 60'
+p79
+I0
+sS'334 /home/speedy/test/source2slice/NVD/CVE_2013_4932_PATCHED_elem_tlv.c item = proto_tree_add_text ( tree , tvb , curr_offset , parm_len + 1 + lengt_length , "%s%s" , elem_name ? elem_name : "Unknown - aborting dissection" , ( name_add == NULL ) || ( name_add [ 0 ] == \'\\0\' ) ? "" : name_add ) 27'
+p80
+I0
+sS'450 /home/speedy/test/source2slice/NVD/CVE_2014_0069_PATCHED_cifs_iovec_write.c cur_len = save_len - cur_len 76'
+p81
+I0
+sS'104 /home/speedy/test/source2slice/NVD/CVE_2008_1390_PATCHED_generic_http_callback.c c = retval + strlen ( retval ) 112'
+p82
+I0
+sS'153 /home/speedy/test/source2slice/NVD/CVE_2009_1046_VULN_set_selection.c ps = ys * vc -> vc_size_row + ( xs << 1 ) 26'
+p83
+I1
+sS'297 /home/speedy/test/source2slice/NVD/CVE_2010_2805_PATCHED_FT_Stream_EnterFrame.c stream -> limit = stream -> cursor + count 69'
+p84
+I0
+sS'150 /home/speedy/test/source2slice/NVD/CVE_2009_1046_VULN_set_selection.c new_sel_end = pe + vc -> vc_size_row - pe % vc -> vc_size_row - 2 84'
+p85
+I1
+sS'506 /home/speedy/test/source2slice/NVD/CVE_2014_4027_PATCHED_rd_build_device_space.c sg_table = kzalloc ( sg_tables * sizeof ( struct rd_dev_sg_table ) , GFP_KERNEL ) 23'
+p86
+I0
+sS'443 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c nb_precincts = rlevel -> num_precincts_x * rlevel -> num_precincts_y 30'
+p87
+I0
+sS'93 /home/speedy/test/source2slice/NVD/CVE_2007_3642_VULN_decode_seq.c base = ( base && ( f -> attr & DECODE ) ) ? base + f -> offset : NULL 11'
+p88
+I1
+sS'298 /home/speedy/test/source2slice/NVD/CVE_2010_2805_PATCHED_FT_Stream_EnterFrame.c stream -> cursor = stream -> base + stream -> pos 68'
+p89
+I0
+sS'410 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c band -> f_stepsize = pow ( 2.0 , gain - qntsty -> expn [ gbandno ] ) 118'
+p90
+I1
+sS'10 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c clut_offset = offset + 52 + lut -> num_input_table_entries * in_chan * entry_size 77'
+p91
+I1
+sS'161 /home/speedy/test/source2slice/NVD/CVE_2009_1336_PATCHED_nfs_init_server.c server -> acregmin = data -> acregmin * HZ 34'
+p92
+I0
+sS'273 /home/speedy/test/source2slice/NVD/CVE_2010_2537_VULN_btrfs_ioctl_clone.c ret = btrfs_inc_extent_ref ( trans , root , disko , diskl , 0 , root -> root_key . objectid , inode -> i_ino , new_key . offset - datao ) 225'
+p93
+I1
+sS'197 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_dualbuffer.c db -> second_buffer = cpu_to_le32 ( page_bus + offset ) 73'
+p94
+I0
+sS'249 /home/speedy/test/source2slice/NVD/CVE_2010_2478_PATCHED_ethtool_get_rxnfc.c rule_buf = kmalloc ( info . rule_cnt * sizeof ( u32 ) , GFP_USER ) 17'
+p95
+I0
+sS'675 /home/speedy/test/source2slice/NVD/CVE_2009_1046_PATCHED_set_selection.c struct kbd_struct * kbd = kbd_table + fg_console ; 8'
+p96
+I0
+sS'420 /home/speedy/test/source2slice/NVD/CVE_2013_7022_PATCHED_g2m_init_buffers.c c -> kempf_buf = av_mallocz ( ( c -> tile_width + 1 ) * aligned_height + FF_INPUT_BUFFER_PADDING_SIZE ) 24'
+p97
+I0
+sS'264 /home/speedy/test/source2slice/NVD/CVE_2010_2537_PATCHED_btrfs_ioctl_clone.c skip = off - key . offset 236'
+p98
+I0
+sS'45 /home/speedy/test/source2slice/NVD/CVE-2016-4952_VULN_pvscsi_ring_init_data.c req_ring_size = ri -> reqRingNumPages * PVSCSI_MAX_NUM_REQ_ENTRIES_PER_PAGE 8'
+p99
+I0
+sS'213 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_dualbuffer.c length = PAGE_SIZE - offset 61'
+p100
+I0
+sS'625 /home/speedy/test/source2slice/NVD/CVE_2015_4652_PATCHED_de_bcd_num.c num_string_len = len - ( curr_offset - offset ) 30'
+p101
+I0
+sS'268 /home/speedy/test/source2slice/NVD/CVE_2010_2537_PATCHED_btrfs_ioctl_clone.c ordered = btrfs_lookup_first_ordered_extent ( inode , off + len ) 103'
+p102
+I0
+sS'687 /home/speedy/test/source2slice/NVD/CVE_2013_5593_PATCHED_nsComboboxControlFrame__AbsolutelyPositionDropDown.c const nsPoint newPos = dropdownPosition + translation ; 51'
+p103
+I0
+sS'486 /home/speedy/test/source2slice/NVD/CVE_2014_3122_PATCHED_try_to_unmap_cluster.c end = address + CLUSTER_SIZE 20'
+p104
+I0
+sS'327 /home/speedy/test/source2slice/NVD/CVE_2010_3429_VULN_flic_decode_frame_15_16BPP.c pixel_limit = s -> avctx -> height * s -> frame . linesize [ 0 ] 40'
+p105
+I1
+sS'103 /home/speedy/test/source2slice/NVD/CVE_2008_1294_VULN_sys_setrlimit.c old_rlim = current -> signal -> rlim + resource 13'
+p106
+I0
+sS'80 /home/speedy/test/source2slice/NVD/CVE_2006_6333_VULN_tr_rx.c dlc_hdr_len = readb ( ti -> arb + DLC_HDR_LENGTH_OFST ) 35'
+p107
+I0
+sS'178 /home/speedy/test/source2slice/NVD/CVE_2009_2909_VULN_ax25_setsockopt.c ax25 -> t1 = opt * HZ 44'
+p108
+I0
+sS'48 /home/speedy/test/source2slice/NVD/CVE-2016-7170_VULN_vmsvga_fifo_run.c args = x * y 121'
+p109
+I0
+sS'169 /home/speedy/test/source2slice/NVD/CVE_2009_1961_VULN_generic_file_splice_write.c nr_pages = ( ret + PAGE_CACHE_SIZE - 1 ) >> PAGE_CACHE_SHIFT 24'
+p110
+I1
+sS'286 /home/speedy/test/source2slice/NVD/CVE_2010_2538_PATCHED_btrfs_ioctl_clone.c olen = len = src -> i_size - off 87'
+p111
+I0
+sS'419 /home/speedy/test/source2slice/NVD/CVE_2013_7022_PATCHED_g2m_init_buffers.c c -> kempf_flags = av_mallocz ( c -> tile_width * aligned_height ) 26'
+p112
+I0
+sS'731 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000Band * band = rlevel -> band + bandno ; 21'
+p113
+I0
+sS'339 /home/speedy/test/source2slice/NVD/CVE_2013_4936_PATCHED_IsDFP_Frame.c crc = crc16_plain_tvb_offset_seed ( tvb , u32SubStart , offset - u32SubStart , 0 ) 73'
+p114
+I0
+sS'817 /home/speedy/test/source2slice/NVD/CVE_2014_5471_PATCHED_isofs_read_inode.c int frag1 = bufsize - offset ; 27'
+p115
+I0
+sS'494 /home/speedy/test/source2slice/NVD/CVE_2014_3523_PATCHED_winnt_accept.c context -> sa_client = ( void * ) ( context -> buff + context -> sa_server_len ) 359'
+p116
+I0
+sS'87 /home/speedy/test/source2slice/NVD/CVE_2007_3642_PATCHED_decode_seq.c bs -> cur = beg + len 53'
+p117
+I0
+sS'258 /home/speedy/test/source2slice/NVD/CVE_2010_2500_VULN_gray_render_span.c p = ( unsigned char * ) map -> buffer - y * map -> pitch 12'
+p118
+I1
+sS'210 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_packet_per_buffer.c packet_count = p -> header_length / ctx -> base . header_size 18'
+p119
+I0
+sS'829 /home/speedy/test/source2slice/NVD/CVE_2015_3809_VULN_dissect_lbmr_pser.c guint8 opt_type = tvb_get_guint8 ( tvb , curr_offset + O_LBMR_PSER_OPT_HDR_T_TYPE ) ; 51'
+p120
+I1
+sS'324 /home/speedy/test/source2slice/NVD/CVE_2010_3429_VULN_flic_decode_frame_15_16BPP.c * ( ( signed short * ) ( & pixels [ y_ptr + pixel_ptr ] ) ) = AV_RL16 ( & buf [ stream_ptr + pixel_ptr ] ) 231'
+p121
+I0
+sS'705 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_cleanup.c Jpeg2000Prec * prec = band -> prec + precno ; 13'
+p122
+I0
+sS'727 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000CodingStyle * codsty = tile -> codsty + compno ; 74'
+p123
+I0
+sS'561 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c NS_tsnprintf ( updateLockFilePath , sizeof ( updateLockFilePath ) / sizeof ( updateLockFilePath [ 0 ] ) , NS_T ( "%s\\\\moz_update_in_progress.lock" ) , installDir ) 263'
+p124
+I0
+sS'262 /home/speedy/test/source2slice/NVD/CVE_2010_2521_VULN_nfsd4_decode_compound.c argp -> ops = kmalloc ( argp -> opcnt * sizeof ( * argp -> ops ) , GFP_KERNEL ) 28'
+p125
+I1
+sS'346 /home/speedy/test/source2slice/NVD/CVE_2013_5642_VULN_process_sdp.c codecs = m + len 287'
+p126
+I0
+sS'735 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000CodingStyle * codsty = tile -> codsty + compno ; 120'
+p127
+I0
+sS'393 /home/speedy/test/source2slice/NVD/CVE_2013_7013_PATCHED_g2m_init_buffers.c c -> jpeg_tile = av_mallocz ( c -> tile_stride * aligned_height ) 23'
+p128
+I0
+sS'585 /home/speedy/test/source2slice/NVD/CVE_2015_3808_VULN_dissect_lbmr_pser.c flags_item = proto_tree_add_none_format ( tree , hf_lbmr_pser_flags , tvb , offset + O_LBMR_PSER_T_FLAGS , L_LBMR_PSER_T_FLAGS , "Flags (0x%04x)" , flags ) 16'
+p129
+I0
+sS'205 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_packet_per_buffer.c length = PAGE_SIZE - offset 54'
+p130
+I0
+sS'784 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 142'
+p131
+I0
+sS'133 /home/speedy/test/source2slice/NVD/CVE_2009_0935_VULN_inotify_read.c ret = buf - start 44'
+p132
+I1
+sS'371 /home/speedy/test/source2slice/NVD/CVE_2013_7008_VULN_decode_slice_header.c id_list [ i ] = h -> short_ref_count + k 652'
+p133
+I0
+sS'39 /home/speedy/test/source2slice/NVD/CVE-2016-2330_VULN_gif_image_write_image.c trans = pick_palette_entry ( buf + y_start * linesize + x_start , linesize , width , height ) 83'
+p134
+I0
+sS'310 /home/speedy/test/source2slice/NVD/CVE_2010_3015_PATCHED_ext4_ext_get_blocks.c newblock = iblock - ee_block + ee_start 82'
+p135
+I0
+sS'677 /home/speedy/test/source2slice/NVD/CVE_2009_1385_PATCHED_e1000_clean_rx_irq.c struct sk_buff * new_skb = netdev_alloc_skb ( netdev , length + NET_IP_ALIGN ) ; 90'
+p136
+I0
+sS'430 /home/speedy/test/source2slice/NVD/CVE_2013_7023_PATCHED_ff_combine_frame.c pc -> state = ( pc -> state << 8 ) | pc -> buffer [ pc -> last_index + next ] 56'
+p137
+I0
+sS'619 /home/speedy/test/source2slice/NVD/CVE_2015_3813_VULN_fragment_add_work.c fd_head -> datalen = fd -> offset + fd -> len 121'
+p138
+I0
+sS'590 /home/speedy/test/source2slice/NVD/CVE_2015_3809_PATCHED_dissect_lbmr_pser.c flags_item = proto_tree_add_none_format ( tree , hf_lbmr_pser_flags , tvb , offset + O_LBMR_PSER_T_FLAGS , L_LBMR_PSER_T_FLAGS , "Flags (0x%04x)" , flags ) 16'
+p139
+I0
+sS'143 /home/speedy/test/source2slice/NVD/CVE_2009_1046_PATCHED_set_selection.c bp = kmalloc ( ( ( sel_end - sel_start ) / 2 + 1 ) * multiplier , GFP_KERNEL ) 136'
+p140
+I0
+sS'422 /home/speedy/test/source2slice/NVD/CVE_2013_7022_PATCHED_g2m_init_buffers.c c -> synth_tile = av_mallocz ( c -> tile_stride * aligned_height ) 22'
+p141
+I0
+sS'476 /home/speedy/test/source2slice/NVD/CVE_2014_2889_PATCHED_bpf_jit_compile.c addrs = kmalloc ( flen * sizeof ( * addrs ) , GFP_KERNEL ) 20'
+p142
+I0
+sS'242 /home/speedy/test/source2slice/NVD/CVE_2010_0307_VULN_load_elf_binary.c k = elf_ppnt -> p_vaddr + elf_ppnt -> p_filesz 309'
+p143
+I0
+sS'477 /home/speedy/test/source2slice/NVD/CVE_2014_2889_VULN_bpf_jit_compile.c addrs = kmalloc ( flen * sizeof ( * addrs ) , GFP_KERNEL ) 20'
+p144
+I0
+sS'815 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c const int buf_size = avpkt -> size >= 2 ? avpkt -> size - AV_RB16 ( avpkt -> data ) : 0 ; 7'
+p145
+I0
+sS'632 /home/speedy/test/source2slice/NVD/CVE_2015_6246_VULN_dissect_wa_payload.c current_offset = offset + iLoop * delta 495'
+p146
+I0
+sS'357 /home/speedy/test/source2slice/NVD/CVE_2013_6381_PATCHED_qeth_snmp_command.c rc = qeth_send_ipa_snmp_cmd ( card , iob , QETH_SETADP_BASE_LEN + req_len , qeth_snmp_command_cb , ( void * ) & qinfo ) 43'
+p147
+I0
+sS'83 /home/speedy/test/source2slice/NVD/CVE_2007_1217_PATCHED_bufprint.c r = cdb -> size - cdb -> pos 9'
+p148
+I0
+sS'414 /home/speedy/test/source2slice/NVD/CVE_2013_7019_VULN_get_cox.c c -> nreslevels2decode = c -> nreslevels - s -> reduction_factor 20'
+p149
+I1
+sS'672 /home/speedy/test/source2slice/NVD/CVE_2009_0946_PATCHED_ft_smooth_render_generic.c FT_Vector * points_end = points + outline -> n_points ; 133'
+p150
+I0
+sS'720 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c int declvl = codsty -> nreslevels - reslevelno ; 40'
+p151
+I1
+sS'513 /home/speedy/test/source2slice/NVD/CVE_2014_4174_PATCHED_libpcap_dump.c rec_hdr . hdr . incl_len = phdr -> caplen + phdrsize 18'
+p152
+I0
+sS'183 /home/speedy/test/source2slice/NVD/CVE_2009_3888_PATCHED_do_mmap_pgoff.c vma -> vm_end = start + len 113'
+p153
+I0
+sS'37 /home/speedy/test/source2slice/NVD/CVE-2016-2327_VULN_apng_encode_frame.c temp_bytestream = av_malloc ( original_bytestream_end - original_bytestream ) 39'
+p154
+I1
+sS'484 /home/speedy/test/source2slice/NVD/CVE_2014_2894_VULN_cmd_smart.c s -> io_buffer [ 511 ] = 0x100 - s -> io_buffer [ 511 ] 101'
+p155
+I0
+sS'752 /home/speedy/test/source2slice/NVD/CVE_2014_1508_PATCHED_nsDisplayNotation__Paint.c gfxRect rect = presContext -> AppUnitsToGfxUnits ( mRect + ToReferenceFrame ( ) ) ; 6'
+p156
+I0
+sS'137 /home/speedy/test/source2slice/NVD/CVE_2009_0946_PATCHED_tt_cmap8_validate.c count = ( FT_UInt32 ) ( end - start + 1 ) 49'
+p157
+I0
+sS'292 /home/speedy/test/source2slice/NVD/CVE_2010_2538_VULN_btrfs_ioctl_clone.c ordered = btrfs_lookup_first_ordered_extent ( inode , off + len ) 103'
+p158
+I1
+sS'532 /home/speedy/test/source2slice/NVD/CVE_2014_5271_PATCHED_encode_slice.c get_slice_data ( ctx , src , linesize , xp , yp , pwidth , avctx -> height / ctx -> pictures_per_frame , ctx -> blocks [ 0 ] , ctx -> emu_buf , mbs_per_slice , num_cblocks , is_chroma ) 52'
+p159
+I0
+sS'215 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_dualbuffer.c d = context_get_descriptors ( & ctx -> context , z + header_z , & d_bus ) 37'
+p160
+I0
+sS'392 /home/speedy/test/source2slice/NVD/CVE_2013_7013_PATCHED_g2m_init_buffers.c c -> kempf_buf = av_mallocz ( ( c -> tile_width + 1 ) * aligned_height + FF_INPUT_BUFFER_PADDING_SIZE ) 24'
+p161
+I0
+sS'222 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_packet_per_buffer.c d -> data_address = cpu_to_le32 ( d_bus + ( z * sizeof ( * d ) ) ) 42'
+p162
+I1
+sS'694 /home/speedy/test/source2slice/NVD/CVE_2013_7010_PATCHED_diff_bytes_c.c long a = * ( long * ) ( src1 + i ) ; 18'
+p163
+I0
+sS'766 /home/speedy/test/source2slice/NVD/CVE_2014_2099_PATCHED_msrle_decode_frame.c int istride = FFALIGN ( avctx -> width * avctx -> bits_per_coded_sample , 32 ) / 8 ; 8'
+p164
+I0
+sS'149 /home/speedy/test/source2slice/NVD/CVE_2009_1046_VULN_set_selection.c bp = kmalloc ( ( sel_end - sel_start ) / 2 * multiplier + 1 , GFP_KERNEL ) 136'
+p165
+I1
+sS'385 /home/speedy/test/source2slice/NVD/CVE_2013_7011_PATCHED_read_header.c fs -> slice_height = ( get_symbol ( c , state , 0 ) + 1 ) * f -> height + fs -> slice_y 168'
+p166
+I0
+sS'9 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> clut_table [ i + 0 ] = uInt8Number_to_float ( read_uInt8Number ( src , clut_offset + i * entry_size + 0 ) ) 80'
+p167
+I1
+sS'641 /home/speedy/test/source2slice/NVD/CVE-2015-8785_VULN_fuse_fill_write_pages.c size_t bytes = min_t ( size_t , PAGE_CACHE_SIZE - offset , iov_iter_count ( ii ) ) ; 17'
+p168
+I1
+sS'491 /home/speedy/test/source2slice/NVD/CVE_2014_3182_VULN_logi_dj_recv_add_djhid_device.c dj_dev -> reports_supported = get_unaligned_le32 ( dj_report -> report_params + DEVICE_PAIRED_RF_REPORT_TYPE ) 67'
+p169
+I1
+sS'444 /home/speedy/test/source2slice/NVD/CVE_2013_7027_PATCHED_ieee80211_radiotap_iterator_init.c iterator -> _arg = ( uint8_t * ) radiotap_header + sizeof ( * radiotap_header ) 22'
+p170
+I0
+sS'741 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000Band * band = rlevel -> band + bandno ; 21'
+p171
+I1
+sS'4 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> clut_table [ i + 2 ] = uInt16Number_to_float ( read_uInt16Number ( src , clut_offset + i * entry_size + 4 ) ) 86'
+p172
+I1
+sS'179 /home/speedy/test/source2slice/NVD/CVE_2009_2909_VULN_ax25_setsockopt.c ax25 -> rtt = ( opt * HZ ) >> 1 43'
+p173
+I0
+sS'126 /home/speedy/test/source2slice/NVD/CVE_2009_0746_PATCHED_make_indexed_dir.c top = data1 + len 54'
+p174
+I0
+sS'500 /home/speedy/test/source2slice/NVD/CVE_2014_3601_PATCHED_kvm_iommu_map_pages.c end_gfn = gfn + slot -> npages 14'
+p175
+I0
+sS'435 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c dst = linel + ( x / s -> cdx [ compno ] * pixelsize + compno * ! planar ) 139'
+p176
+I0
+sS'818 /home/speedy/test/source2slice/NVD/CVE_2014_5471_VULN_isofs_read_inode.c int frag1 = bufsize - offset ; 27'
+p177
+I0
+sS'231 /home/speedy/test/source2slice/NVD/CVE_2010_0006_PATCHED_ipv6_hop_jumbo.c pkt_len = ntohl ( * ( __be32 * ) ( nh + optoff + 2 ) ) 15'
+p178
+I0
+sS'620 /home/speedy/test/source2slice/NVD/CVE_2015_4001_PATCHED_oz_hcd_get_desc_cnf.c copy_len = required_size - offset 19'
+p179
+I0
+sS'490 /home/speedy/test/source2slice/NVD/CVE_2014_3182_PATCHED_logi_dj_recv_add_djhid_device.c dj_dev -> reports_supported = get_unaligned_le32 ( dj_report -> report_params + DEVICE_PAIRED_RF_REPORT_TYPE ) 60'
+p180
+I0
+sS'527 /home/speedy/test/source2slice/NVD/CVE_2014_4655_VULN_snd_ctl_elem_add.c ue -> elem_data = ( char * ) ue + sizeof ( * ue ) 87'
+p181
+I1
+sS'415 /home/speedy/test/source2slice/NVD/CVE_2013_7021_PATCHED_filter_frame.c s -> pts = s -> first_pts + av_rescale_q ( s -> frames_out , outlink -> time_base , inlink -> time_base ) 89'
+p182
+I0
+sS'12 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> input_table [ i ] = uInt8Number_to_float ( read_uInt8Number ( src , offset + 52 + i * entry_size ) ) 71'
+p183
+I1
+sS'708 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c Jpeg2000Cblk * cblk = prec -> cblk + cblkno ; 241'
+p184
+I0
+sS'695 /home/speedy/test/source2slice/NVD/CVE_2013_7010_VULN_add_bytes_c.c long b = * ( long * ) ( dst + i ) ; 5'
+p185
+I1
+sS'355 /home/speedy/test/source2slice/NVD/CVE_2013_6380_VULN_aac_send_raw_srb.c usg = kmalloc ( actual_fibsize - sizeof ( struct aac_srb ) + sizeof ( struct sgmap ) , GFP_KERNEL ) 172'
+p186
+I1
+sS'125 /home/speedy/test/source2slice/NVD/CVE_2009_0746_PATCHED_make_indexed_dir.c de -> rec_len = ext4_rec_len_to_disk ( data1 + blocksize - ( char * ) de ) 57'
+p187
+I0
+sS'291 /home/speedy/test/source2slice/NVD/CVE_2010_2538_VULN_btrfs_ioctl_clone.c new_key . offset = key . offset + destoff - off 189'
+p188
+I1
+sS'750 /home/speedy/test/source2slice/NVD/CVE_2014_1508_PATCHED_nsDisplayNotation__Paint.c gfxFloat f = gfxFloat ( kArrowHeadSize ) * e / l ; 50'
+p189
+I0
+sS'409 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c nb_precincts = reslevel -> num_precincts_x * reslevel -> num_precincts_y 185'
+p190
+I1
+sS'474 /home/speedy/test/source2slice/NVD/CVE_2014_2739_VULN_cma_req_handler.c event . param . ud . private_data_len = IB_CM_SIDR_REQ_PRIVATE_DATA_SIZE - offset 29'
+p191
+I0
+sS'105 /home/speedy/test/source2slice/NVD/CVE_2008_1390_VULN_generic_http_callback.c c = retval + strlen ( retval ) 107'
+p192
+I1
+sS'227 /home/speedy/test/source2slice/NVD/CVE_2009_4307_PATCHED_ext4_fill_flex_info.c size = flex_group_count * sizeof ( struct flex_groups ) 23'
+p193
+I0
+sS'113 /home/speedy/test/source2slice/NVD/CVE_2008_4302_PATCHED_pipe_to_file.c ret = mapping -> a_ops -> prepare_write ( file , page , offset , offset + this_len ) 42'
+p194
+I0
+sS'91 /home/speedy/test/source2slice/NVD/CVE_2007_3642_VULN_decode_seq.c bs -> cur = beg + len 110'
+p195
+I1
+sS'533 /home/speedy/test/source2slice/NVD/CVE_2014_5271_PATCHED_encode_slice.c src = ( const uint16_t * ) ( pic -> data [ i ] + yp * linesize + line_add * pic -> linesize [ i ] ) + xp 48'
+p196
+I0
+sS'445 /home/speedy/test/source2slice/NVD/CVE_2013_7027_VULN_ieee80211_radiotap_iterator_init.c iterator -> _arg = ( uint8_t * ) radiotap_header + sizeof ( * radiotap_header ) 18'
+p197
+I0
+sS'6 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> clut_table [ i + 0 ] = uInt16Number_to_float ( read_uInt16Number ( src , clut_offset + i * entry_size + 0 ) ) 84'
+p198
+I1
+sS'637 /home/speedy/test/source2slice/NVD/CVE-2015-1872_VULN_ff_mjpeg_decode_sof.c int size = bw * bh * s -> h_count [ i ] * s -> v_count [ i ] ; 364'
+p199
+I1
+sS'643 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000Component * comp = tile -> comp + compno ; 129'
+p200
+I1
+sS'806 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 104'
+p201
+I0
+sS'120 /home/speedy/test/source2slice/NVD/CVE_2008_5134_PATCHED_lbs_process_bss.c end = pos + beaconsize 33'
+p202
+I0
+sS'85 /home/speedy/test/source2slice/NVD/CVE_2007_3642_PATCHED_decode_choice.c base = ( base && ( f -> attr & DECODE ) ) ? base + f -> offset : NULL 11'
+p203
+I0
+sS'770 /home/speedy/test/source2slice/NVD/CVE_2014_2523_VULN_dccp_error.c unsigned int dccp_len = skb -> len - dataoff ; 7'
+p204
+I0
+sS'348 /home/speedy/test/source2slice/NVD/CVE_2013_5642_VULN_process_sdp.c codecs = m + len 189'
+p205
+I0
+sS'759 /home/speedy/test/source2slice/NVD/CVE_2014_1522_PATCHED_ComputeCustom.c float lower = sampleInterpolationFactor * lowerWaveData [ j1 ] + ( 1 - sampleInterpolationFactor ) * lowerWaveData [ j2 ] ; 30'
+p206
+I0
+sS'257 /home/speedy/test/source2slice/NVD/CVE_2010_2500_PATCHED_gray_render_span.c p = ( unsigned char * ) map -> buffer - y * map -> pitch 12'
+p207
+I0
+sS'81 /home/speedy/test/source2slice/NVD/CVE_2007_1217_PATCHED_bufprint.c r = cdb -> size - cdb -> pos 31'
+p208
+I0
+sS'617 /home/speedy/test/source2slice/NVD/CVE_2015_3813_VULN_fragment_add_work.c fd_head -> error = "dfpos - offset > len" 261'
+p209
+I0
+sS'791 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 74'
+p210
+I0
+sS'432 /home/speedy/test/source2slice/NVD/CVE_2013_7023_VULN_ff_combine_frame.c pc -> state64 = ( pc -> state64 << 8 ) | pc -> buffer [ pc -> last_index + next ] 53'
+p211
+I1
+sS'235 /home/speedy/test/source2slice/NVD/CVE_2010_0307_PATCHED_load_elf_binary.c load_addr = ( elf_ppnt -> p_vaddr - elf_ppnt -> p_offset ) 258'
+p212
+I0
+sS'624 /home/speedy/test/source2slice/NVD/CVE_2015_4003_VULN_oz_usb_handle_ep_data.c count = data_len / unit_size 29'
+p213
+I0
+sS'464 /home/speedy/test/source2slice/NVD/CVE_2014_2282_PATCHED_dissect_protocol_data_parameter.c ulp_length = tvb_get_ntohs ( parameter_tvb , PARAMETER_LENGTH_OFFSET ) - PARAMETER_HEADER_LENGTH - DATA_HDR_LENGTH 56'
+p214
+I0
+sS'833 /home/speedy/test/source2slice/NVD/CVE_2015_3813_VULN_fragment_add_work.c guint32 end_offset = fd -> offset + fd -> len ; 134'
+p215
+I0
+sS'160 /home/speedy/test/source2slice/NVD/CVE_2009_1336_PATCHED_nfs_init_server.c server -> acregmax = data -> acregmax * HZ 35'
+p216
+I0
+sS'493 /home/speedy/test/source2slice/NVD/CVE_2014_3511_VULN_ssl23_get_client_hello.c p = p + csl + sil + cl 277'
+p217
+I1
+sS'748 /home/speedy/test/source2slice/NVD/CVE_2014_1508_PATCHED_nsDisplayNotation__Paint.c gfxFloat h = H * f ; 51'
+p218
+I0
+sS'317 /home/speedy/test/source2slice/NVD/CVE_2010_3429_PATCHED_flic_decode_frame_15_16BPP.c * ( ( signed short * ) ( & pixels [ y_ptr + pixel_ptr ] ) ) = AV_RL16 ( & buf [ stream_ptr + pixel_ptr ] ) 232'
+p219
+I0
+sS'503 /home/speedy/test/source2slice/NVD/CVE_2014_3631_VULN_assoc_array_gc.c new_s = kmalloc ( sizeof ( struct assoc_array_shortcut ) + keylen * sizeof ( unsigned long ) , GFP_KERNEL ) 40'
+p220
+I1
+sS'36 /home/speedy/test/source2slice/NVD/CVE-2016-2327_VULN_apng_encode_frame.c temp_bytestream_end = temp_bytestream + ( original_bytestream_end - original_bytestream ) 40'
+p221
+I1
+sS'376 /home/speedy/test/source2slice/NVD/CVE_2013_7008_VULN_decode_slice_header.c h -> mb_num = h -> mb_width * h -> mb_height 113'
+p222
+I0
+sS'692 /home/speedy/test/source2slice/NVD/CVE_2013_7010_PATCHED_add_bytes_c.c long a = * ( long * ) ( src + i ) ; 4'
+p223
+I0
+sS'771 /home/speedy/test/source2slice/NVD/CVE_2014_4027_PATCHED_rd_build_device_space.c u32 max_sg_per_table = ( RD_MAX_ALLOCATION_SIZE / sizeof ( struct scatterlist ) ) ; 5'
+p224
+I0
+sS'167 /home/speedy/test/source2slice/NVD/CVE_2009_1385_VULN_e1000_clean_rx_irq.c last_byte = * ( skb -> data + length - 1 ) 61'
+p225
+I1
+sS'353 /home/speedy/test/source2slice/NVD/CVE_2013_6380_PATCHED_aac_send_raw_srb.c usg = kmalloc ( actual_fibsize - sizeof ( struct aac_srb ) + sizeof ( struct sgmap ) , GFP_KERNEL ) 173'
+p226
+I0
+sS'50 /home/speedy/test/source2slice/NVD/CVE-2016-8658_VULN_brcmf_cfg80211_start_ap.c ie_offset = DOT11_MGMT_HDR_LEN + DOT11_BCN_PRB_FIXED_LEN 39'
+p227
+I1
+sS'707 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_cleanup.c Jpeg2000ResLevel * reslevel = comp -> reslevel + reslevelno ; 7'
+p228
+I0
+sS'701 /home/speedy/test/source2slice/NVD/CVE_2013_7014_PATCHED_add_bytes_l2_c.c long b = * ( long * ) ( src2 + i ) ; 6'
+p229
+I0
+sS'229 /home/speedy/test/source2slice/NVD/CVE_2009_4307_VULN_ext4_fill_flex_info.c size = flex_group_count * sizeof ( struct flex_groups ) 23'
+p230
+I1
+sS'236 /home/speedy/test/source2slice/NVD/CVE_2010_0307_PATCHED_load_elf_binary.c error = elf_map ( bprm -> file , load_bias + vaddr , elf_ppnt , elf_prot , elf_flags , 0 ) 247'
+p231
+I0
+sS'404 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c band -> f_stepsize = pow ( 2.0 , gain - qntsty -> expn [ gbandno ] ) 118'
+p232
+I0
+sS'287 /home/speedy/test/source2slice/NVD/CVE_2010_2538_VULN_btrfs_ioctl_clone.c trim = key . offset + datal - ( off + len ) 241'
+p233
+I1
+sS'431 /home/speedy/test/source2slice/NVD/CVE_2013_7023_PATCHED_ff_combine_frame.c * buf_size = pc -> overread_index = pc -> index + next 35'
+p234
+I0
+sS'438 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c line = picture -> data [ plane ] + y / s -> cdy [ compno ] * picture -> linesize [ plane ] 88'
+p235
+I0
+sS'593 /home/speedy/test/source2slice/NVD/CVE_2015_3809_PATCHED_dissect_lbmr_pser.c hdr_len = ( int ) tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_T_LEN ) 11'
+p236
+I0
+sS'38 /home/speedy/test/source2slice/NVD/CVE-2016-2330_VULN_gif_image_write_image.c ptr = buf + y_start * linesize + x_start 105'
+p237
+I0
+sS'314 /home/speedy/test/source2slice/NVD/CVE_2010_3015_VULN_ext4_ext_get_blocks.c newblock = iblock - ee_block + ee_start 82'
+p238
+I1
+sS'514 /home/speedy/test/source2slice/NVD/CVE_2014_4174_VULN_libpcap_dump.c rec_hdr . hdr . orig_len = phdr -> len + phdrsize 19'
+p239
+I1
+sS'185 /home/speedy/test/source2slice/NVD/CVE_2009_3888_PATCHED_do_mmap_pgoff.c rpglen = ( rpglen + PAGE_SIZE - 1 ) >> PAGE_SHIFT 92'
+p240
+I0
+sS'219 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_packet_per_buffer.c pd -> data_address = cpu_to_le32 ( page_bus + offset ) 59'
+p241
+I1
+sS'328 /home/speedy/test/source2slice/NVD/CVE_2010_3429_VULN_flic_decode_frame_8BPP.c stream_ptr_after_color_chunk = stream_ptr + chunk_size - 6 65'
+p242
+I1
+sS'645 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000Component * comp = tile -> comp + compno ; 80'
+p243
+I1
+sS'787 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 110'
+p244
+I0
+sS'259 /home/speedy/test/source2slice/NVD/CVE_2010_2519_PATCHED_Mac_Read_POST_Resource.c error = FT_Stream_Read ( stream , ( FT_Byte * ) pfb_data + pfb_pos , rlen ) 98'
+p245
+I0
+sS'140 /home/speedy/test/source2slice/NVD/CVE_2009_0946_VULN_ft_smooth_render_generic.c width = ( FT_UInt ) ( ( cbox . xMax - cbox . xMin ) >> 6 ) 46'
+p246
+I0
+sS'180 /home/speedy/test/source2slice/NVD/CVE_2009_3288_PATCHED_sg_build_indirect.c ret_sz = 1 << ( PAGE_SHIFT + order ) 40'
+p247
+I0
+sS'496 /home/speedy/test/source2slice/NVD/CVE_2014_3537_PATCHED_get_file.c plen = len - ( ptr - filename ) 147'
+p248
+I0
+sS'706 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_cleanup.c Jpeg2000Band * band = reslevel -> band + bandno ; 10'
+p249
+I0
+sS'823 /home/speedy/test/source2slice/NVD/CVE_2015_3395_VULN_msrle_decode_pal4.c int frame_size = row_dec * avctx -> height ; 10'
+p250
+I1
+sS'541 /home/speedy/test/source2slice/NVD/CVE_2014_5471_PATCHED_isofs_read_inode.c de = ( struct iso_directory_record * ) ( bh -> b_data + offset ) 23'
+p251
+I0
+sS'647 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000Prec * prec = band -> prec + precno ; 38'
+p252
+I1
+sS'449 /home/speedy/test/source2slice/NVD/CVE_2013_7266_VULN_mISDN_sock_recvmsg.c copied = skb -> len + MISDN_HEADER_LEN 47'
+p253
+I0
+sS'1 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> output_table [ i ] = uInt16Number_to_float ( read_uInt16Number ( src , output_offset + i * entry_size ) ) 95'
+p254
+I1
+sS'535 /home/speedy/test/source2slice/NVD/CVE_2014_5271_VULN_encode_frame.c slice_size = slice_hdr_size + sizes [ ctx -> num_planes - 1 ] 101'
+p255
+I1
+sS'136 /home/speedy/test/source2slice/NVD/CVE_2009_0946_PATCHED_ft_smooth_render_generic.c width = ( FT_UInt ) ( ( cbox . xMax - cbox . xMin ) >> 6 ) 46'
+p256
+I0
+sS'396 /home/speedy/test/source2slice/NVD/CVE_2013_7013_VULN_g2m_init_buffers.c c -> kempf_flags = av_mallocz ( c -> tile_width * aligned_height ) 26'
+p257
+I1
+sS'201 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_dualbuffer.c header_size = packet_count * max ( ctx -> base . header_size , ( size_t ) 8 ) 27'
+p258
+I0
+sS'792 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 63'
+p259
+I0
+sS'61 /home/speedy/test/source2slice/NVD/CVE_2006_4813_PATCHED___block_prepare_write.c block_end = block_start + blocksize 25'
+p260
+I0
+sS'703 /home/speedy/test/source2slice/NVD/CVE_2013_7014_VULN_add_bytes_l2_c.c long b = * ( long * ) ( src2 + i ) ; 6'
+p261
+I1
+sS'710 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c Jpeg2000Band * band = reslevel -> band + bandno ; 88'
+p262
+I0
+sS'711 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c Jpeg2000ResLevel * reslevel = comp -> reslevel + reslevelno ; 41'
+p263
+I0
+sS'147 /home/speedy/test/source2slice/NVD/CVE_2009_1046_PATCHED_set_selection.c ps = ys * vc -> vc_size_row + ( xs << 1 ) 26'
+p264
+I0
+sS'28 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c y = tile -> comp [ compno ] . coord [ 1 ] [ 0 ] - s -> image_offset_y / s -> cdy [ compno ] 141'
+p265
+I1
+sS'76 /home/speedy/test/source2slice/NVD/CVE_2006_6333_VULN_tr_rx.c rbuffer = ntohs ( readw ( rbuf + BUFFER_POINTER_OFST ) ) 131'
+p266
+I1
+sS'112 /home/speedy/test/source2slice/NVD/CVE_2008_4302_PATCHED_pipe_to_file.c ret = mapping -> a_ops -> commit_write ( file , page , offset , offset + this_len ) 75'
+p267
+I0
+sS'827 /home/speedy/test/source2slice/NVD/CVE_2015_3809_PATCHED_dissect_lbmr_pser.c guint8 option_len = tvb_get_guint8 ( tvb , curr_offset + O_LBMR_PSER_OPT_HDR_T_LEN ) ; 52'
+p268
+I0
+sS'42 /home/speedy/test/source2slice/NVD/CVE-2016-2522_VULN_dissect_ber_constrained_bitstring.c end_offset = offset + len 22'
+p269
+I0
+sS'465 /home/speedy/test/source2slice/NVD/CVE_2014_2282_PATCHED_dissect_protocol_data_parameter.c ulp_length = tvb_get_ntohs ( parameter_tvb , PARAMETER_LENGTH_OFFSET ) - PARAMETER_HEADER_LENGTH - DATA_HDR_LENGTH 16'
+p270
+I0
+sS'60 /home/speedy/test/source2slice/NVD/CVE_2006_4813_PATCHED___block_prepare_write.c block_end = block_start + blocksize 98'
+p271
+I0
+sS'556 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c NS_tsnprintf ( newDistDir , sizeof ( newDistDir ) / sizeof ( newDistDir [ 0 ] ) , NS_T ( "%s/Contents/Resources/distribution" ) , gInstallDirPath ) 826'
+p272
+I0
+sS'709 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c Jpeg2000Prec * prec = band -> prec + precno ; 188'
+p273
+I0
+sS'224 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_packet_per_buffer.c z = DIV_ROUND_UP ( payload_per_buffer + offset , PAGE_SIZE ) + 1 29'
+p274
+I1
+sS'507 /home/speedy/test/source2slice/NVD/CVE_2014_4027_PATCHED_rd_build_device_space.c sg_tables = ( total_sg_needed / max_sg_per_table ) + 1 21'
+p275
+I0
+sS'354 /home/speedy/test/source2slice/NVD/CVE_2013_6380_PATCHED_aac_send_raw_srb.c user_reply = arg + fibsize 67'
+p276
+I0
+sS'691 /home/speedy/test/source2slice/NVD/CVE_2013_7010_PATCHED_add_bytes_c.c long b = * ( long * ) ( dst + i ) ; 5'
+p277
+I0
+sS'690 /home/speedy/test/source2slice/NVD/CVE_2013_5596_VULN_RasterImage__DecodePool__DecodeJob__Run.c uint32_t bytesDecoded = mImage -> mBytesDecoded - oldByteCount ; 39'
+p278
+I0
+sS'522 /home/speedy/test/source2slice/NVD/CVE_2014_4608_VULN_lzo1x_decompress_safe.c * out_len = op - out 193'
+p279
+I1
+sS'732 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000ResLevel * rlevel = comp -> reslevel + reslevelno ; 17'
+p280
+I0
+sS'115 /home/speedy/test/source2slice/NVD/CVE_2008_4302_VULN_pipe_to_file.c ret = mapping -> a_ops -> commit_write ( file , page , offset , offset + this_len ) 75'
+p281
+I0
+sS'330 /home/speedy/test/source2slice/NVD/CVE_2010_3848_PATCHED_econet_sendmsg.c skb = sock_alloc_send_skb ( sk , len + LL_ALLOCATED_SPACE ( dev ) , msg -> msg_flags & MSG_DONTWAIT , & err ) 81'
+p282
+I0
+sS'557 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c NS_tsnprintf ( oldDistDir , sizeof ( oldDistDir ) / sizeof ( oldDistDir [ 0 ] ) , NS_T ( "%s/Contents/MacOS/distribution" ) , gInstallDirPath ) 821'
+p283
+I0
+sS'805 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 110'
+p284
+I0
+sS'423 /home/speedy/test/source2slice/NVD/CVE_2013_7022_PATCHED_g2m_init_buffers.c c -> framebuf = av_mallocz ( c -> framebuf_stride * aligned_height ) 9'
+p285
+I0
+sS'390 /home/speedy/test/source2slice/NVD/CVE_2013_7011_VULN_read_header.c fs -> slice_width = ( get_symbol ( c , state , 0 ) + 1 ) * f -> width + fs -> slice_x 150'
+p286
+I1
+sS'265 /home/speedy/test/source2slice/NVD/CVE_2010_2537_PATCHED_btrfs_ioctl_clone.c ret = btrfs_inc_extent_ref ( trans , root , disko , diskl , 0 , root -> root_key . objectid , inode -> i_ino , new_key . offset - datao ) 225'
+p287
+I0
+sS'767 /home/speedy/test/source2slice/NVD/CVE_2014_2099_VULN_msrle_decode_frame.c int linesize = ( avctx -> width * avctx -> bits_per_coded_sample + 7 ) / 8 ; 30'
+p288
+I1
+sS'824 /home/speedy/test/source2slice/NVD/CVE_2015_3808_PATCHED_dissect_lbmr_pser.c guint8 option_len = tvb_get_guint8 ( tvb , curr_offset + O_LBMR_PSER_OPT_HDR_T_LEN ) ; 52'
+p289
+I0
+sS'252 /home/speedy/test/source2slice/NVD/CVE_2010_2495_PATCHED_pppol2tp_sendmsg.c skb = sock_wmalloc ( sk , NET_SKB_PAD + sizeof ( struct iphdr ) + sizeof ( struct udphdr ) + hdr_len + sizeof ( ppph ) + total_len , 0 , GFP_KERNEL ) 38'
+p290
+I0
+sS'300 /home/speedy/test/source2slice/NVD/CVE_2010_2805_VULN_FT_Stream_EnterFrame.c stream -> limit = stream -> cursor + count 69'
+p291
+I0
+sS'166 /home/speedy/test/source2slice/NVD/CVE_2009_1385_PATCHED_e1000_clean_rx_irq.c last_byte = * ( skb -> data + length - 1 ) 62'
+p292
+I0
+sS'134 /home/speedy/test/source2slice/NVD/CVE_2009_0946_PATCHED_cff_charset_load.c charset -> offset = base_offset + offset 21'
+p293
+I0
+sS'154 /home/speedy/test/source2slice/NVD/CVE_2009_1298_PATCHED_ip_frag_reasm.c clone -> len = clone -> data_len = head -> data_len - plen 60'
+p294
+I0
+sS'813 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 38'
+p295
+I0
+sS'704 /home/speedy/test/source2slice/NVD/CVE_2013_7014_VULN_add_bytes_l2_c.c long a = * ( long * ) ( src1 + i ) ; 5'
+p296
+I1
+sS'543 /home/speedy/test/source2slice/NVD/CVE_2014_5472_PATCHED_isofs_read_inode.c de = ( struct iso_directory_record * ) ( bh -> b_data + offset ) 23'
+p297
+I0
+sS'545 /home/speedy/test/source2slice/NVD/CVE_2015_0228_PATCHED_lua_websocket_read.c rv = apr_socket_recv ( sock , buffer + at , & received ) 114'
+p298
+I0
+sS'18 /home/speedy/test/source2slice/NVD/CVE-2015-4504_VULN_lut_inverse_interp16.c b = y0 - a * x0 88'
+p299
+I1
+sS'142 /home/speedy/test/source2slice/NVD/CVE_2009_1046_PATCHED_set_selection.c sel_buffer_lth = bp - sel_buffer 164'
+p300
+I0
+sS'345 /home/speedy/test/source2slice/NVD/CVE_2013_5642_PATCHED_process_sdp.c codecs = m + len 189'
+p301
+I0
+sS'325 /home/speedy/test/source2slice/NVD/CVE_2010_3429_VULN_flic_decode_frame_15_16BPP.c stream_ptr = stream_ptr + chunk_size - 6 113'
+p302
+I1
+sS'267 /home/speedy/test/source2slice/NVD/CVE_2010_2537_PATCHED_btrfs_ioctl_clone.c new_key . offset = key . offset + destoff - off 189'
+p303
+I0
+sS'610 /home/speedy/test/source2slice/NVD/CVE_2015_3813_PATCHED_fragment_add_work.c fd_head -> error = "dfpos - offset > len" 263'
+p304
+I0
+sS'30 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c x = tile -> comp [ compno ] . coord [ 0 ] [ 0 ] - s -> image_offset_x / s -> cdx [ compno ] 97'
+p305
+I1
+sS'62 /home/speedy/test/source2slice/NVD/CVE_2006_4813_PATCHED___block_prepare_write.c block = ( sector_t ) page -> index << ( PAGE_CACHE_SHIFT - bbits ) 21'
+p306
+I0
+sS'206 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_packet_per_buffer.c d -> data_address = cpu_to_le32 ( d_bus + ( z * sizeof ( * d ) ) ) 42'
+p307
+I0
+sS'165 /home/speedy/test/source2slice/NVD/CVE_2009_1336_VULN_nfs_init_server.c server -> acregmin = data -> acregmin * HZ 34'
+p308
+I1
+sS'518 /home/speedy/test/source2slice/NVD/CVE_2014_4608_PATCHED_lzo1x_decompress_safe.c * out_len = op - out 193'
+p309
+I0
+sS'157 /home/speedy/test/source2slice/NVD/CVE_2009_1298_VULN_ip_frag_reasm.c len = ihlen + qp -> q . len 35'
+p310
+I0
+sS'636 /home/speedy/test/source2slice/NVD/CVE_2015_6249_VULN_dissect_wccp2r1_address_table_info.c wccp_wccp_address_table . table_ipv6 = ( struct e_in6_addr * ) wmem_alloc0 ( pinfo -> pool , wccp_wccp_address_table . table_length * sizeof ( struct e_in6_addr ) ) 51'
+p311
+I1
+sS'196 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_dualbuffer.c offset = ( offset + length ) & ~PAGE_MASK 79'
+p312
+I0
+sS'184 /home/speedy/test/source2slice/NVD/CVE_2009_3888_PATCHED_do_mmap_pgoff.c rpgend = pregion -> vm_pgoff + rpglen 93'
+p313
+I0
+sS'821 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c size_t len = NS_tstrlen ( gInstallDirPath + commonPrefixLength ) ; 636'
+p314
+I0
+sS'461 /home/speedy/test/source2slice/NVD/CVE_2014_1522_VULN_ComputeCustom.c aOutput [ i ] = tableInterpolationFactor * lower + ( 1 - tableInterpolationFactor ) * higher 36'
+p315
+I1
+sS'478 /home/speedy/test/source2slice/NVD/CVE_2014_2894_PATCHED_cmd_smart.c s -> io_buffer [ 511 ] = 0x100 - s -> io_buffer [ 511 ] 137'
+p316
+I0
+sS'597 /home/speedy/test/source2slice/NVD/CVE_2015_3809_VULN_dissect_lbmr_pser.c flags = tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_T_FLAGS ) 12'
+p317
+I0
+sS'352 /home/speedy/test/source2slice/NVD/CVE_2013_6367_VULN_apic_get_tmcct.c tmcct = div64_u64 ( ns , ( APIC_BUS_CYCLE_NS * apic -> divide_count ) ) 18'
+p318
+I1
+sS'466 /home/speedy/test/source2slice/NVD/CVE_2014_2282_VULN_dissect_protocol_data_parameter.c ulp_length = tvb_get_ntohs ( parameter_tvb , PARAMETER_LENGTH_OFFSET ) - PARAMETER_HEADER_LENGTH - DATA_HDR_LENGTH 54'
+p319
+I0
+sS'762 /home/speedy/test/source2slice/NVD/CVE_2014_1522_VULN_ComputeCustom.c float lower = sampleInterpolationFactor * lowerWaveData [ j1 ] + ( 1 - sampleInterpolationFactor ) * lowerWaveData [ j2 ] ; 32'
+p320
+I1
+sS'463 /home/speedy/test/source2slice/NVD/CVE_2014_1642_VULN_pirq_guest_bind.c irq = desc - irq_desc 20'
+p321
+I0
+sS'754 /home/speedy/test/source2slice/NVD/CVE_2014_1508_VULN_nsDisplayNotation__Paint.c gfxFloat w = W * f ; 51'
+p322
+I1
+sS'55 /home/speedy/test/source2slice/NVD/CVE_2005_4886_VULN_selinux_parse_skb_ipv6.c offset = skb -> nh . raw - skb -> data 7'
+p323
+I1
+sS'629 /home/speedy/test/source2slice/NVD/CVE_2015_6246_PATCHED_dissect_wa_payload.c current_offset = offset + iLoop * delta 494'
+p324
+I0
+sS'34 /home/speedy/test/source2slice/NVD/CVE-2016-2327_VULN_apng_encode_frame.c s -> bytestream = original_bytestream + best_bytestream_size 111'
+p325
+I1
+sS'836 /home/speedy/test/source2slice/NVD/CVE_2015_4003_VULN_oz_usb_handle_ep_data.c int n = ( len - sizeof ( struct oz_multiple_fixed ) + 1 ) / body -> unit_size ; 10'
+p326
+I1
+sS'372 /home/speedy/test/source2slice/NVD/CVE_2013_7008_VULN_decode_slice_header.c tmp = h -> pps . init_qp + get_se_golomb ( & h -> gb ) 547'
+p327
+I0
+sS'498 /home/speedy/test/source2slice/NVD/CVE_2014_3537_VULN_get_file.c plen = len - ( ptr - filename ) 126'
+p328
+I1
+sS'616 /home/speedy/test/source2slice/NVD/CVE_2015_3813_VULN_fragment_add_work.c fraglen = fd_head -> datalen - fd_i -> offset 283'
+p329
+I0
+sS'68 /home/speedy/test/source2slice/NVD/CVE_2006_5751_VULN_get_fdb_entries.c maxnum = PAGE_SIZE / sizeof ( struct __fdb_entry ) 10'
+p330
+I1
+sS'683 /home/speedy/test/source2slice/NVD/CVE_2010_2498_PATCHED_psh_glyph_find_strong_points.c PSH_Point point = glyph -> points + first ; 44'
+p331
+I0
+sS'128 /home/speedy/test/source2slice/NVD/CVE_2009_0746_VULN_make_indexed_dir.c de -> rec_len = ext4_rec_len_to_disk ( blocksize - EXT4_DIR_REC_LEN ( 2 ) ) 51'
+p332
+I1
+sS'678 /home/speedy/test/source2slice/NVD/CVE_2009_1385_VULN_e1000_clean_rx_irq.c struct sk_buff * new_skb = netdev_alloc_skb ( netdev , length + NET_IP_ALIGN ) ; 89'
+p333
+I1
+sS'332 /home/speedy/test/source2slice/NVD/CVE_2013_4932_PATCHED_elem_lv_e.c item = proto_tree_add_text ( tree , tvb , curr_offset , parm_len + 2 , "%s%s" , elem_name ? elem_name : "Unknown - aborting dissection" , ( name_add == NULL ) || ( name_add [ 0 ] == \'\\0\' ) ? "" : name_add ) 22'
+p334
+I0
+sS'509 /home/speedy/test/source2slice/NVD/CVE_2014_4027_VULN_rd_build_device_space.c sg = kzalloc ( sg_per_table * sizeof ( struct scatterlist ) , GFP_KERNEL ) 38'
+p335
+I1
+sS'479 /home/speedy/test/source2slice/NVD/CVE_2014_2894_PATCHED_cmd_smart.c s -> io_buffer [ 511 ] = 0x100 - s -> io_buffer [ 511 ] 120'
+p336
+I0
+sS'456 /home/speedy/test/source2slice/NVD/CVE_2014_0160_VULN_tls1_process_heartbeat.c r = ssl3_write_bytes ( s , TLS1_RT_HEARTBEAT , buffer , 3 + payload + padding ) 39'
+p337
+I1
+sS'377 /home/speedy/test/source2slice/NVD/CVE_2013_7009_PATCHED_rpza_decode_stream.c block_ptr = row_ptr + pixel_ptr 139'
+p338
+I0
+sS'389 /home/speedy/test/source2slice/NVD/CVE_2013_7011_VULN_read_header.c fs -> slice_height = ( get_symbol ( c , state , 0 ) + 1 ) * f -> height + fs -> slice_y 151'
+p339
+I1
+sS'189 /home/speedy/test/source2slice/NVD/CVE_2009_3888_VULN_do_mmap_pgoff.c vma -> vm_end = region -> vm_end = addr + len 159'
+p340
+I1
+sS'442 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c line = picture -> data [ plane ] + y * picture -> linesize [ plane ] 88'
+p341
+I1
+sS'559 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c NS_tsnprintf ( elevatedLockFilePath , sizeof ( elevatedLockFilePath ) / sizeof ( elevatedLockFilePath [ 0 ] ) , NS_T ( "%s/update_elevated.lock" ) , gPatchDirPath ) 298'
+p342
+I0
+sS'138 /home/speedy/test/source2slice/NVD/CVE_2009_0946_VULN_cff_charset_load.c charset -> offset = base_offset + offset 21'
+p343
+I1
+sS'495 /home/speedy/test/source2slice/NVD/CVE_2014_3523_VULN_winnt_accept.c context -> sa_client = ( void * ) ( context -> buff + context -> sa_server_len ) 355'
+p344
+I0
+sS'305 /home/speedy/test/source2slice/NVD/CVE_2010_2962_PATCHED_i915_gem_gtt_pwrite_fast.c page_length = PAGE_SIZE - page_offset 42'
+p345
+I0
+sS'401 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c Cy0 = Cy0 + ( ( cblkno / prec -> nb_codeblocks_width ) << band -> log2_cblk_height ) 252'
+p346
+I0
+sS'719 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c Jpeg2000ResLevel * reslevel = comp -> reslevel + reslevelno ; 41'
+p347
+I1
+sS'301 /home/speedy/test/source2slice/NVD/CVE_2010_2805_VULN_FT_Stream_EnterFrame.c stream -> cursor = stream -> base + stream -> pos 68'
+p348
+I0
+sS'276 /home/speedy/test/source2slice/NVD/CVE_2010_2537_VULN_btrfs_ioctl_clone.c ordered = btrfs_lookup_first_ordered_extent ( inode , off + len ) 103'
+p349
+I1
+sS'269 /home/speedy/test/source2slice/NVD/CVE_2010_2537_PATCHED_btrfs_ioctl_clone.c len = ( ( src -> i_size + bs - 1 ) & ~ ( bs - 1 ) ) - off 90'
+p350
+I0
+sS'342 /home/speedy/test/source2slice/NVD/CVE_2013_5593_VULN_nsComboboxControlFrame__AbsolutelyPositionDropDown.c dropdownPosition . x = GetRect ( ) . width - dropdownSize . width 44'
+p351
+I1
+sS'468 /home/speedy/test/source2slice/NVD/CVE_2014_2289_PATCHED_copy_body_types.c exten_state_sub -> body_types [ i ] = ast_malloc ( hdr -> values [ i ] . slen * sizeof ( char * ) + 1 ) 19'
+p352
+I0
+sS'204 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_packet_per_buffer.c pd -> data_address = cpu_to_le32 ( page_bus + offset ) 60'
+p353
+I0
+sS'240 /home/speedy/test/source2slice/NVD/CVE_2010_0307_PATCHED_load_elf_binary.c size = loc -> elf_ex . e_phnum * sizeof ( struct elf_phdr ) 50'
+p354
+I0
+sS'499 /home/speedy/test/source2slice/NVD/CVE_2014_3537_VULN_get_file.c ptr = filename + strlen ( filename ) 125'
+p355
+I1
+sS'775 /home/speedy/test/source2slice/NVD/CVE_2014_4608_PATCHED_lzo1x_decompress_safe.c unsigned char * oe = op + t ; 43'
+p356
+I0
+sS'428 /home/speedy/test/source2slice/NVD/CVE_2013_7022_VULN_g2m_init_buffers.c c -> framebuf = av_mallocz ( c -> framebuf_stride * aligned_height ) 9'
+p357
+I1
+sS'783 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 152'
+p358
+I0
+sS'607 /home/speedy/test/source2slice/NVD/CVE_2015_3813_PATCHED_fragment_add_work.c dfpos = MAX ( dfpos , ( fd_i -> offset + fraglen ) ) 309'
+p359
+I0
+sS'434 /home/speedy/test/source2slice/NVD/CVE_2013_7023_VULN_ff_combine_frame.c * buf_size = pc -> overread_index = pc -> index + next 33'
+p360
+I1
+sS'528 /home/speedy/test/source2slice/NVD/CVE_2014_5271_PATCHED_encode_frame.c frame_size = buf - orig_buf 118'
+p361
+I0
+sS'539 /home/speedy/test/source2slice/NVD/CVE_2014_5271_VULN_encode_slice.c get_slice_data ( ctx , src , linesize , xp , yp , pwidth , avctx -> height / ctx -> pictures_per_frame , ctx -> blocks [ 0 ] , ctx -> emu_buf , mbs_per_slice , num_cblocks , is_chroma ) 52'
+p362
+I0
+sS'642 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000CodingStyle * codsty = tile -> codsty + compno ; 130'
+p363
+I1
+sS'363 /home/speedy/test/source2slice/NVD/CVE_2013_6381_VULN_qeth_snmp_command.c iob = qeth_get_adapter_cmd ( card , IPA_SETADP_SET_SNMP_CONTROL , QETH_SNMP_SETADP_CMDLENGTH + req_len ) 35'
+p364
+I1
+sS'109 /home/speedy/test/source2slice/NVD/CVE_2008_3792_PATCHED_sctp_getsockopt_hmac_ident.c num_idents = data_len / sizeof ( u16 ) 19'
+p365
+I0
+sS'323 /home/speedy/test/source2slice/NVD/CVE_2010_3429_PATCHED_flic_decode_frame_8BPP.c pixel_limit = s -> avctx -> height * s -> frame . linesize [ 0 ] 46'
+p366
+I0
+sS'360 /home/speedy/test/source2slice/NVD/CVE_2013_6381_PATCHED_qeth_snmp_command.c ureq = memdup_user ( udata , req_len + sizeof ( struct qeth_snmp_ureq_hdr ) ) 26'
+p367
+I0
+sS'417 /home/speedy/test/source2slice/NVD/CVE_2013_7021_VULN_filter_frame.c s -> pts = s -> first_pts + av_rescale_q ( s -> frames_out , outlink -> time_base , inlink -> time_base ) 89'
+p368
+I1
+sS'311 /home/speedy/test/source2slice/NVD/CVE_2010_3015_PATCHED_ext4_ext_get_blocks.c allocated = ext4_ext_get_actual_len ( & newex ) - ( iblock - le32_to_cpu ( newex . ee_block ) ) 37'
+p369
+I0
+sS'347 /home/speedy/test/source2slice/NVD/CVE_2013_5642_VULN_process_sdp.c codecs = m + len 242'
+p370
+I0
+sS'745 /home/speedy/test/source2slice/NVD/CVE_2014_0160_PATCHED_dtls1_process_heartbeat.c unsigned int write_length = 1 + 2 + payload + padding ; 26'
+p371
+I0
+sS'233 /home/speedy/test/source2slice/NVD/CVE_2010_0307_PATCHED_load_elf_binary.c k = elf_ppnt -> p_vaddr + elf_ppnt -> p_memsz 294'
+p372
+I0
+sS'117 /home/speedy/test/source2slice/NVD/CVE_2008_4302_VULN_pipe_to_file.c this_len = PAGE_CACHE_SIZE - offset 23'
+p373
+I0
+sS'387 /home/speedy/test/source2slice/NVD/CVE_2013_7011_VULN_read_header.c fs -> slice_height = fs -> slice_height / f -> num_v_slices - fs -> slice_y 156'
+p374
+I1
+sS'26 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c dst = linel + ( x * pixelsize + compno * ! planar ) 147'
+p375
+I1
+sS'764 /home/speedy/test/source2slice/NVD/CVE_2014_1738_PATCHED_raw_cmd_copyout.c long length = ptr -> buffer_length - ptr -> length ; 17'
+p376
+I0
+sS'475 /home/speedy/test/source2slice/NVD/CVE_2014_2739_VULN_cma_req_handler.c event . param . ud . private_data = ib_event -> private_data + offset 28'
+p377
+I0
+sS'173 /home/speedy/test/source2slice/NVD/CVE_2009_2909_PATCHED_ax25_setsockopt.c ax25 -> t2 = opt * HZ 52'
+p378
+I0
+sS'761 /home/speedy/test/source2slice/NVD/CVE_2014_1522_VULN_ComputeCustom.c float higher = sampleInterpolationFactor * higherWaveData [ j1 ] + ( 1 - sampleInterpolationFactor ) * higherWaveData [ j2 ] ; 34'
+p379
+I1
+sS'777 /home/speedy/test/source2slice/NVD/CVE_2014_4608_VULN_lzo1x_decompress_safe.c unsigned char * oe = op + t ; 156'
+p380
+I1
+sS'649 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000ResLevel * rlevel = comp -> reslevel + reslevelno ; 22'
+p381
+I1
+sS'564 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_UpdateThreadFunc.c NS_tsnprintf ( updateSettingsPath , sizeof ( updateSettingsPath ) / sizeof ( updateSettingsPath [ 0 ] ) , NS_T ( "%s/update-settings.ini" ) , gWorkingDirPath ) 23'
+p382
+I0
+sS'426 /home/speedy/test/source2slice/NVD/CVE_2013_7022_VULN_g2m_init_buffers.c c -> jpeg_tile = av_mallocz ( c -> tile_stride * aligned_height ) 23'
+p383
+I1
+sS'662 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c PRUint32 colorBytes = mPos - mLOH ; 99'
+p384
+I0
+sS'469 /home/speedy/test/source2slice/NVD/CVE_2014_2289_PATCHED_copy_body_types.c exten_state_sub -> body_types = ast_malloc ( hdr -> count * sizeof ( char * ) ) 16'
+p385
+I0
+sS'384 /home/speedy/test/source2slice/NVD/CVE_2013_7011_PATCHED_read_header.c fs -> slice_width = fs -> slice_width / f -> num_h_slices - fs -> slice_x 172'
+p386
+I0
+sS'156 /home/speedy/test/source2slice/NVD/CVE_2009_1298_VULN_ip_frag_reasm.c clone -> len = clone -> data_len = head -> data_len - plen 60'
+p387
+I0
+sS'436 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c linel = ( uint16_t * ) picture -> data [ plane ] + y / s -> cdy [ compno ] * ( picture -> linesize [ plane ] >> 1 ) 134'
+p388
+I0
+sS'591 /home/speedy/test/source2slice/NVD/CVE_2015_3809_PATCHED_dissect_lbmr_pser.c topic_len = hdr_len - L_LBMR_PSER_T 13'
+p389
+I0
+sS'266 /home/speedy/test/source2slice/NVD/CVE_2010_2537_PATCHED_btrfs_ioctl_clone.c datal = off + len - key . offset 213'
+p390
+I0
+sS'23 /home/speedy/test/source2slice/NVD/CVE-2015-8785_VULN_fuse_fill_write_pages.c bytes = min_t ( size_t , bytes , fc -> max_write - count ) 20'
+p391
+I1
+sS'483 /home/speedy/test/source2slice/NVD/CVE_2014_2894_VULN_cmd_smart.c s -> io_buffer [ 511 ] = 0x100 - s -> io_buffer [ 511 ] 120'
+p392
+I0
+sS'425 /home/speedy/test/source2slice/NVD/CVE_2013_7022_VULN_g2m_init_buffers.c c -> kempf_buf = av_mallocz ( ( c -> tile_width + 1 ) * aligned_height + FF_INPUT_BUFFER_PADDING_SIZE ) 24'
+p393
+I1
+sS'59 /home/speedy/test/source2slice/NVD/CVE_2006_3741_VULN_sys_perfmonctl.c sz = xtra_sz + base_sz * count 50'
+p394
+I0
+sS'800 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 163'
+p395
+I0
+sS'152 /home/speedy/test/source2slice/NVD/CVE_2009_1046_VULN_set_selection.c pe = ye * vc -> vc_size_row + ( xe << 1 ) 27'
+p396
+I1
+sS'388 /home/speedy/test/source2slice/NVD/CVE_2013_7011_VULN_read_header.c fs -> slice_width = fs -> slice_width / f -> num_h_slices - fs -> slice_x 155'
+p397
+I1
+sS'659 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c PRUint32 rowSize = ( mBIH . bpp * mBIH . width + 7 ) / 8 ; 146'
+p398
+I0
+sS'192 /home/speedy/test/source2slice/NVD/CVE_2009_3888_VULN_do_mmap_pgoff.c rpglen = ( rpglen + PAGE_SIZE - 1 ) >> PAGE_SHIFT 92'
+p399
+I0
+sS'44 /home/speedy/test/source2slice/NVD/CVE-2016-4952_VULN_pvscsi_ring_init_data.c cmp_ring_size = ri -> cmpRingNumPages * PVSCSI_MAX_NUM_CMP_ENTRIES_PER_PAGE 9'
+p400
+I0
+sS'470 /home/speedy/test/source2slice/NVD/CVE_2014_2289_VULN_copy_body_types.c exten_state_sub -> body_types [ i ] = ast_malloc ( hdr -> values [ i ] . slen * sizeof ( char * ) + 1 ) 13'
+p401
+I0
+sS'170 /home/speedy/test/source2slice/NVD/CVE_2009_2846_PATCHED_eisa_eeprom_read.c count = * ppos + count < HPEE_MAX_LENGTH ? count : HPEE_MAX_LENGTH - * ppos 11'
+p402
+I0
+sS'29 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c dst = line + x * pixelsize + compno * ! planar 98'
+p403
+I1
+sS'725 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000CodingStyle * codsty = tile -> codsty + compno ; 120'
+p404
+I0
+sS'402 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c prec -> coord [ 1 ] [ 0 ] = ( precno / reslevel -> num_precincts_x ) * ( 1 << log2_band_prec_height ) 199'
+p405
+I0
+sS'594 /home/speedy/test/source2slice/NVD/CVE_2015_3809_VULN_dissect_lbmr_pser.c opt_len = tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_OPTLEN_T_OPTLEN ) 36'
+p406
+I0
+sS'3 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c output_offset = clut_offset + clut_size * out_chan * entry_size 90'
+p407
+I1
+sS'380 /home/speedy/test/source2slice/NVD/CVE_2013_7009_VULN_rpza_decode_stream.c block_ptr = row_ptr + pixel_ptr 138'
+p408
+I1
+sS'364 /home/speedy/test/source2slice/NVD/CVE_2013_6381_VULN_qeth_snmp_command.c ureq = memdup_user ( udata , req_len + sizeof ( struct qeth_snmp_ureq_hdr ) ) 22'
+p409
+I1
+sS'102 /home/speedy/test/source2slice/NVD/CVE_2008_1294_PATCHED_sys_setrlimit.c old_rlim = current -> signal -> rlim + resource 13'
+p410
+I0
+sS'440 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c dst = linel + ( x * pixelsize + compno * ! planar ) 139'
+p411
+I1
+sS'316 /home/speedy/test/source2slice/NVD/CVE_2010_3015_VULN_ext4_ext_get_blocks.c newblock = iblock - le32_to_cpu ( newex . ee_block ) + ext_pblock ( & newex ) 33'
+p412
+I0
+sS'816 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c const uint8_t * buf = avpkt -> size >= 2 ? avpkt -> data + AV_RB16 ( avpkt -> data ) : NULL ; 6'
+p413
+I0
+sS'684 /home/speedy/test/source2slice/NVD/CVE_2010_2498_VULN_psh_glyph_find_strong_points.c PSH_Point point = glyph -> points + first ; 39'
+p414
+I1
+sS'139 /home/speedy/test/source2slice/NVD/CVE_2009_0946_VULN_ft_smooth_render_generic.c height = ( FT_UInt ) ( ( cbox . yMax - cbox . yMin ) >> 6 ) 47'
+p415
+I0
+sS'520 /home/speedy/test/source2slice/NVD/CVE_2014_4608_VULN_lzo1x_decompress_safe.c * out_len = op - out 201'
+p416
+I1
+sS'714 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_cleanup.c Jpeg2000Band * band = reslevel -> band + bandno ; 10'
+p417
+I1
+sS'245 /home/speedy/test/source2slice/NVD/CVE_2010_0307_VULN_load_elf_binary.c nbyte = elf_brk - elf_bss 234'
+p418
+I0
+sS'670 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c PRUint32 toCopy = BFH_LENGTH - mPos ; 9'
+p419
+I0
+sS'835 /home/speedy/test/source2slice/NVD/CVE_2015_4003_VULN_oz_usb_handle_ep_data.c int data_len = len - sizeof ( struct oz_isoc_fixed ) + 1 ; 22'
+p420
+I0
+sS'318 /home/speedy/test/source2slice/NVD/CVE_2010_3429_PATCHED_flic_decode_frame_15_16BPP.c stream_ptr = stream_ptr + chunk_size - 6 114'
+p421
+I0
+sS'307 /home/speedy/test/source2slice/NVD/CVE_2010_2962_VULN_i915_gem_gtt_pwrite_fast.c page_length = PAGE_SIZE - page_offset 44'
+p422
+I1
+sS'733 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000CodingStyle * codsty = tile -> codsty + compno ; 13'
+p423
+I0
+sS'789 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 93'
+p424
+I0
+sS'144 /home/speedy/test/source2slice/NVD/CVE_2009_1046_PATCHED_set_selection.c new_sel_end = pe + vc -> vc_size_row - pe % vc -> vc_size_row - 2 84'
+p425
+I0
+sS'525 /home/speedy/test/source2slice/NVD/CVE_2014_4654_VULN_snd_ctl_elem_add.c ue -> elem_data = ( char * ) ue + sizeof ( * ue ) 87'
+p426
+I1
+sS'333 /home/speedy/test/source2slice/NVD/CVE_2013_4932_PATCHED_elem_telv.c item = proto_tree_add_text ( tree , tvb , curr_offset , parm_len + 1 + lengt_length , "%s%s" , elem_name ? elem_name : "Unknown - aborting dissection" , ( name_add == NULL ) || ( name_add [ 0 ] == \'\\0\' ) ? "" : name_add ) 34'
+p427
+I0
+sS'521 /home/speedy/test/source2slice/NVD/CVE_2014_4608_VULN_lzo1x_decompress_safe.c * out_len = op - out 197'
+p428
+I1
+sS'220 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_packet_per_buffer.c length = PAGE_SIZE - offset 53'
+p429
+I1
+sS'588 /home/speedy/test/source2slice/NVD/CVE_2015_3808_VULN_dissect_lbmr_pser.c hdr_len = ( int ) tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_T_LEN ) 11'
+p430
+I1
+sS'362 /home/speedy/test/source2slice/NVD/CVE_2013_6381_VULN_qeth_snmp_command.c cmd = ( struct qeth_ipa_cmd * ) ( iob -> data + IPA_PDU_HEADER_SIZE ) 37'
+p431
+I1
+sS'724 /home/speedy/test/source2slice/NVD/CVE_2013_7023_VULN_ff_combine_frame.c void * new_buffer = av_fast_realloc ( pc -> buffer , & pc -> buffer_size , ( * buf_size ) + pc -> index + FF_INPUT_BUFFER_PADDING_SIZE ) ; 23'
+p432
+I1
+sS'263 /home/speedy/test/source2slice/NVD/CVE_2010_2537_PATCHED_btrfs_ioctl_clone.c trim = key . offset + datal - ( off + len ) 241'
+p433
+I0
+sS'596 /home/speedy/test/source2slice/NVD/CVE_2015_3809_VULN_dissect_lbmr_pser.c topic_len = hdr_len - L_LBMR_PSER_T 13'
+p434
+I0
+sS'457 /home/speedy/test/source2slice/NVD/CVE_2014_0160_VULN_tls1_process_heartbeat.c buffer = OPENSSL_malloc ( 1 + 2 + payload + padding ) 28'
+p435
+I1
+sS'758 /home/speedy/test/source2slice/NVD/CVE_2014_1522_PATCHED_ComputeCustom.c float higher = sampleInterpolationFactor * higherWaveData [ j1 ] + ( 1 - sampleInterpolationFactor ) * higherWaveData [ j2 ] ; 32'
+p436
+I0
+sS'797 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c const int buf_size = avpkt -> size >= 2 ? avpkt -> size - AV_RB16 ( avpkt -> data ) : 0 ; 7'
+p437
+I0
+sS'130 /home/speedy/test/source2slice/NVD/CVE_2009_0746_VULN_make_indexed_dir.c top = data1 + len 45'
+p438
+I1
+sS'427 /home/speedy/test/source2slice/NVD/CVE_2013_7022_VULN_g2m_init_buffers.c c -> synth_tile = av_mallocz ( c -> tile_stride * aligned_height ) 22'
+p439
+I1
+sS'577 /home/speedy/test/source2slice/NVD/CVE_2015_3331_VULN___driver_rfc4106_decrypt.c src = kmalloc ( req -> cryptlen + req -> assoclen , GFP_ATOMIC ) 49'
+p440
+I1
+sS'635 /home/speedy/test/source2slice/NVD/CVE_2015_6249_PATCHED_dissect_wccp2r1_address_table_info.c wccp_wccp_address_table . table_ipv6 = ( struct e_in6_addr * ) wmem_alloc0 ( pinfo -> pool , wccp_wccp_address_table . table_length * sizeof ( struct e_in6_addr ) ) 50'
+p441
+I0
+sS'658 /home/speedy/test/source2slice/NVD/CVE_2006_6106_PATCHED_cmtp_recv_interopmsg.c int len = min_t ( uint , skb -> len - CAPI_MSG_BASELEN - 6 , skb -> data [ CAPI_MSG_BASELEN + 5 ] ) ; 126'
+p442
+I0
+sS'502 /home/speedy/test/source2slice/NVD/CVE_2014_3631_PATCHED_assoc_array_gc.c new_s = kmalloc ( sizeof ( struct assoc_array_shortcut ) + keylen * sizeof ( unsigned long ) , GFP_KERNEL ) 40'
+p443
+I0
+sS'794 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 46'
+p444
+I0
+sS'742 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000ResLevel * rlevel = comp -> reslevel + reslevelno ; 17'
+p445
+I1
+sS'349 /home/speedy/test/source2slice/NVD/CVE_2013_6167_PATCHED_nsCookieService__SetCookieInternal.c cookieAttributes . isSession = GetExpiry ( cookieAttributes , aServerTime , currentTimeInUsec / PR_USEC_PER_SEC ) 31'
+p446
+I0
+sS'716 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c Jpeg2000Cblk * cblk = prec -> cblk + cblkno ; 241'
+p447
+I1
+sS'729 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000Cblk * cblk = prec -> cblk + cblkno ; 38'
+p448
+I0
+sS'698 /home/speedy/test/source2slice/NVD/CVE_2013_7010_VULN_diff_bytes_c.c long a = * ( long * ) ( src1 + i ) ; 18'
+p449
+I1
+sS'397 /home/speedy/test/source2slice/NVD/CVE_2013_7013_VULN_g2m_init_buffers.c c -> kempf_buf = av_mallocz ( ( c -> tile_width + 1 ) * aligned_height + FF_INPUT_BUFFER_PADDING_SIZE ) 24'
+p450
+I1
+sS'668 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c PRUint32 colorBytes = mPos - mLOH ; 95'
+p451
+I1
+sS'459 /home/speedy/test/source2slice/NVD/CVE_2014_1497_VULN_WaveReader__LoadFormatChunk.c static_assert ( UINT16_MAX + ( UINT16_MAX % 2 ) < UINT_MAX / sizeof ( char ) , "chunkExtension array too large for iterator." ) 61'
+p452
+I0
+sS'194 /home/speedy/test/source2slice/NVD/CVE_2009_3888_VULN_do_mmap_pgoff.c pgend = pgoff + pglen 75'
+p453
+I0
+sS'405 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c band -> f_stepsize = SHL ( 2048 + qntsty -> mant [ gbandno ] , 2 + numbps - qntsty -> expn [ gbandno ] ) 105'
+p454
+I0
+sS'717 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c Jpeg2000Prec * prec = band -> prec + precno ; 188'
+p455
+I1
+sS'574 /home/speedy/test/source2slice/NVD/CVE_2015_3331_PATCHED___driver_rfc4106_decrypt.c tempCipherLen = ( unsigned long ) ( req -> cryptlen - auth_tag_len ) 27'
+p456
+I0
+sS'819 /home/speedy/test/source2slice/NVD/CVE_2014_5472_PATCHED_isofs_read_inode.c int frag1 = bufsize - offset ; 27'
+p457
+I0
+sS'413 /home/speedy/test/source2slice/NVD/CVE_2013_7019_PATCHED_get_cox.c c -> nreslevels2decode = c -> nreslevels - s -> reduction_factor 27'
+p458
+I0
+sS'467 /home/speedy/test/source2slice/NVD/CVE_2014_2282_VULN_dissect_protocol_data_parameter.c ulp_length = tvb_get_ntohs ( parameter_tvb , PARAMETER_LENGTH_OFFSET ) - PARAMETER_HEADER_LENGTH - DATA_HDR_LENGTH 14'
+p459
+I0
+sS'57 /home/speedy/test/source2slice/NVD/CVE_2006_2778_VULN_nsCrypto__SignText.c rv = encoder -> Init ( charset . get ( ) , ( nsISaveAsCharset :: attr_EntityAfterCharsetConv + nsISaveAsCharset :: attr_FallbackDecimalNCR ) , 0 ) 284'
+p460
+I1
+sS'676 /home/speedy/test/source2slice/NVD/CVE_2009_1046_VULN_set_selection.c struct kbd_struct * kbd = kbd_table + fg_console ; 8'
+p461
+I1
+sS'472 /home/speedy/test/source2slice/NVD/CVE_2014_2739_PATCHED_cma_req_handler.c event . param . ud . private_data_len = IB_CM_SIDR_REQ_PRIVATE_DATA_SIZE - offset 20'
+p462
+I0
+sS'309 /home/speedy/test/source2slice/NVD/CVE_2010_3015_PATCHED_ext4_ext_get_blocks.c allocated = ee_len - ( iblock - ee_block ) 84'
+p463
+I0
+sS'278 /home/speedy/test/source2slice/NVD/CVE_2010_2537_VULN_btrfs_ioctl_clone.c olen = len = src -> i_size - off 87'
+p464
+I1
+sS'25 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c * dst = val << ( precision - cbps ) 154'
+p465
+I1
+sS'101 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c mRow = new PRUint8 [ ( mBIH . width * mBIH . bpp ) / 8 + 4 ] 71'
+p466
+I1
+sS'394 /home/speedy/test/source2slice/NVD/CVE_2013_7013_PATCHED_g2m_init_buffers.c c -> synth_tile = av_mallocz ( c -> tile_stride * aligned_height ) 22'
+p467
+I0
+sS'217 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_dualbuffer.c packet_count = p -> header_length / ctx -> base . header_size 26'
+p468
+I0
+sS'666 /home/speedy/test/source2slice/NVD/CVE_2008_0420_VULN_nsBMPDecoder__ProcessData.c PRUint32 toCopy = ( WIN_HEADER_LENGTH + BITFIELD_LENGTH ) - mPos ; 121'
+p469
+I1
+sS'261 /home/speedy/test/source2slice/NVD/CVE_2010_2521_PATCHED_nfsd4_decode_compound.c argp -> ops = kmalloc ( argp -> opcnt * sizeof ( * argp -> ops ) , GFP_KERNEL ) 28'
+p470
+I0
+sS'172 /home/speedy/test/source2slice/NVD/CVE_2009_2909_PATCHED_ax25_setsockopt.c ax25 -> t3 = opt * HZ 68'
+p471
+I0
+sS'368 /home/speedy/test/source2slice/NVD/CVE_2013_7008_PATCHED_decode_slice_header.c unwrap_prev_frame_num = ( h -> frame_num - h -> sps . ref_frame_count ) - 1 238'
+p472
+I0
+sS'241 /home/speedy/test/source2slice/NVD/CVE_2010_0307_VULN_load_elf_binary.c k = elf_ppnt -> p_vaddr + elf_ppnt -> p_memsz 317'
+p473
+I0
+sS'462 /home/speedy/test/source2slice/NVD/CVE_2014_1642_PATCHED_pirq_guest_bind.c irq = desc - irq_desc 20'
+p474
+I0
+sS'780 /home/speedy/test/source2slice/NVD/CVE_2014_4608_VULN_lzo1x_decompress_safe.c const unsigned char * ie = ip + t ; 42'
+p475
+I1
+sS'812 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 46'
+p476
+I0
+sS'628 /home/speedy/test/source2slice/NVD/CVE_2015_6242_VULN_wmem_block_split_free_chunk.c available = chunk -> len - aligned_size 29'
+p477
+I0
+sS'600 /home/speedy/test/source2slice/NVD/CVE_2015_3811_PATCHED_wcp_uncompress.c src = ( guint8 * ) tvb_memcpy ( src_tvb , src_buf , offset , cnt - offset ) 40'
+p478
+I0
+sS'681 /home/speedy/test/source2slice/NVD/CVE_2009_4410_VULN_fuse_ioctl_copy_user.c size_t iov_len = ii . iov -> iov_len - ii . iov_offset ; 21'
+p479
+I0
+sS'127 /home/speedy/test/source2slice/NVD/CVE_2009_0746_PATCHED_make_indexed_dir.c de = ( struct ext4_dir_entry_2 * ) ( ( char * ) fde + ext4_rec_len_from_disk ( fde -> rec_len ) ) 32'
+p480
+I0
+sS'715 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_cleanup.c Jpeg2000ResLevel * reslevel = comp -> reslevel + reslevelno ; 7'
+p481
+I1
+sS'212 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_dualbuffer.c db -> second_buffer = cpu_to_le32 ( page_bus + offset ) 66'
+p482
+I0
+sS'378 /home/speedy/test/source2slice/NVD/CVE_2013_7009_PATCHED_rpza_decode_stream.c block_ptr = row_ptr + pixel_ptr 121'
+p483
+I0
+sS'555 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_UpdateThreadFunc.c NS_tsnprintf ( updateSettingsPath , sizeof ( updateSettingsPath ) / sizeof ( updateSettingsPath [ 0 ] ) , NS_T ( "%s/update-settings.ini" ) , gWorkingDirPath ) 58'
+p484
+I0
+sS'786 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 123'
+p485
+I0
+sS'571 /home/speedy/test/source2slice/NVD/CVE_2015_3331_PATCHED___driver_rfc4106_decrypt.c retval = memcmp ( src + tempCipherLen , authTag , auth_tag_len ) ? - EBADMSG : 0 64'
+p486
+I0
+sS'313 /home/speedy/test/source2slice/NVD/CVE_2010_3015_VULN_ext4_ext_get_blocks.c allocated = ee_len - ( iblock - ee_block ) 84'
+p487
+I1
+sS'77 /home/speedy/test/source2slice/NVD/CVE_2006_6333_VULN_tr_rx.c iph = ( struct iphdr * ) ( data + lan_hdr_len + sizeof ( struct trllc ) ) 110'
+p488
+I1
+sS'548 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c NS_tsnprintf ( oldDistDir , sizeof ( oldDistDir ) / sizeof ( oldDistDir [ 0 ] ) , NS_T ( "%s/Contents/MacOS/distribution" ) , gInstallDirPath ) 821'
+p489
+I0
+sS'248 /home/speedy/test/source2slice/NVD/CVE_2010_0307_VULN_load_elf_binary.c size = loc -> elf_ex . e_phnum * sizeof ( struct elf_phdr ) 50'
+p490
+I0
+sS'116 /home/speedy/test/source2slice/NVD/CVE_2008_4302_VULN_pipe_to_file.c ret = mapping -> a_ops -> prepare_write ( file , page , offset , offset + this_len ) 42'
+p491
+I0
+sS'243 /home/speedy/test/source2slice/NVD/CVE_2010_0307_VULN_load_elf_binary.c load_addr = ( elf_ppnt -> p_vaddr - elf_ppnt -> p_offset ) 281'
+p492
+I0
+sS'650 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000CodingStyle * codsty = tile -> codsty + compno ; 16'
+p493
+I0
+sS'70 /home/speedy/test/source2slice/NVD/CVE_2006_6333_PATCHED_tr_rx.c rbuffer = ntohs ( readw ( rbuf + BUFFER_POINTER_OFST ) ) 131'
+p494
+I0
+sS'90 /home/speedy/test/source2slice/NVD/CVE_2007_3642_VULN_decode_choice.c base = ( base && ( f -> attr & DECODE ) ) ? base + f -> offset : NULL 11'
+p495
+I0
+sS'798 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c const uint8_t * buf = avpkt -> size >= 2 ? avpkt -> data + AV_RB16 ( avpkt -> data ) : NULL ; 6'
+p496
+I0
+sS'501 /home/speedy/test/source2slice/NVD/CVE_2014_3601_VULN_kvm_iommu_map_pages.c end_gfn = gfn + slot -> npages 14'
+p497
+I0
+sS'538 /home/speedy/test/source2slice/NVD/CVE_2014_5271_VULN_encode_slice.c get_alpha_data ( ctx , src , linesize , xp , yp , pwidth , avctx -> height / ctx -> pictures_per_frame , ctx -> blocks [ 0 ] , mbs_per_slice , ctx -> alpha_bits ) 61'
+p498
+I0
+sS'602 /home/speedy/test/source2slice/NVD/CVE_2015_3811_PATCHED_wcp_uncompress.c buf_end = buf_start + MAX_WIN_BUF_LEN 21'
+p499
+I0
+sS'175 /home/speedy/test/source2slice/NVD/CVE_2009_2909_PATCHED_ax25_setsockopt.c ax25 -> rtt = ( opt * HZ ) >> 1 43'
+p500
+I0
+sS'151 /home/speedy/test/source2slice/NVD/CVE_2009_1046_VULN_set_selection.c new_sel_start = ps - ps % vc -> vc_size_row 83'
+p501
+I1
+sS'321 /home/speedy/test/source2slice/NVD/CVE_2010_3429_PATCHED_flic_decode_frame_8BPP.c pixel_ptr = y_ptr + s -> frame . linesize [ 0 ] - 1 130'
+p502
+I0
+sS'221 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_packet_per_buffer.c pd = d + j 46'
+p503
+I1
+sS'337 /home/speedy/test/source2slice/NVD/CVE_2013_4932_PATCHED_elem_tv_short.c item = proto_tree_add_text ( tree , tvb , curr_offset , - 1 , "%s%s" , elem_name ? elem_name : "Unknown - aborting dissection" , ( name_add == NULL ) || ( name_add [ 0 ] == \'\\0\' ) ? "" : name_add ) 25'
+p504
+I0
+sS'737 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000CodingStyle * codsty = tile -> codsty + compno ; 74'
+p505
+I0
+sS'685 /home/speedy/test/source2slice/NVD/CVE_2010_2500_PATCHED_gray_render_span.c unsigned char * q = p + spans -> x ; 31'
+p506
+I0
+sS'14 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> clut_table = & lut -> table_data [ in_chan * num_input_table_entries ] 51'
+p507
+I1
+sS'341 /home/speedy/test/source2slice/NVD/CVE_2013_5593_PATCHED_nsComboboxControlFrame__AbsolutelyPositionDropDown.c dropdownPosition . x = GetRect ( ) . width - dropdownSize . width 45'
+p508
+I0
+sS'831 /home/speedy/test/source2slice/NVD/CVE_2015_3813_PATCHED_fragment_add_work.c guint32 end_offset = fd -> offset + fd -> len ; 134'
+p509
+I0
+sS'826 /home/speedy/test/source2slice/NVD/CVE_2015_3808_VULN_dissect_lbmr_pser.c guint8 opt_type = tvb_get_guint8 ( tvb , curr_offset + O_LBMR_PSER_OPT_HDR_T_TYPE ) ; 51'
+p510
+I1
+sS'155 /home/speedy/test/source2slice/NVD/CVE_2009_1298_PATCHED_ip_frag_reasm.c len = ihlen + qp -> q . len 35'
+p511
+I0
+sS'776 /home/speedy/test/source2slice/NVD/CVE_2014_4608_PATCHED_lzo1x_decompress_safe.c const unsigned char * ie = ip + t ; 42'
+p512
+I0
+sS'255 /home/speedy/test/source2slice/NVD/CVE_2010_2498_PATCHED_psh_glyph_find_strong_points.c count = next - first 41'
+p513
+I0
+sS'274 /home/speedy/test/source2slice/NVD/CVE_2010_2537_VULN_btrfs_ioctl_clone.c datal = off + len - key . offset 213'
+p514
+I1
+sS'283 /home/speedy/test/source2slice/NVD/CVE_2010_2538_PATCHED_btrfs_ioctl_clone.c new_key . offset = key . offset + destoff - off 189'
+p515
+I0
+sS'516 /home/speedy/test/source2slice/NVD/CVE_2014_4608_PATCHED_lzo1x_decompress_safe.c * out_len = op - out 201'
+p516
+I0
+sS'303 /home/speedy/test/source2slice/NVD/CVE_2010_2806_PATCHED_t42_parse_sfnts.c string_size = ( FT_Long ) ( ( parser -> root . cursor - cur - 2 + 1 ) / 2 ) 66'
+p517
+I0
+sS'638 /home/speedy/test/source2slice/NVD/CVE-2015-1872_VULN_ff_mjpeg_decode_sof.c int bh = ( height + s -> v_max * 8 - 1 ) / ( s -> v_max * 8 ) ; 362'
+p518
+I1
+sS'40 /home/speedy/test/source2slice/NVD/CVE-2016-2522_VULN_dissect_ber_constrained_bitstring.c val = tvb_get_guint8 ( tvb , offset + nb -> bit / 8 ) 98'
+p519
+I0
+sS'793 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c const uint8_t * start = buf + ( plane * avctx -> height + y ) * s -> planesize ; 49'
+p520
+I0
+sS'344 /home/speedy/test/source2slice/NVD/CVE_2013_5642_PATCHED_process_sdp.c codecs = m + len 242'
+p521
+I0
+sS'2 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> output_table [ i ] = uInt8Number_to_float ( read_uInt8Number ( src , output_offset + i * entry_size ) ) 93'
+p522
+I1
+sS'253 /home/speedy/test/source2slice/NVD/CVE_2010_2495_VULN_pppol2tp_sendmsg.c udp_len = hdr_len + sizeof ( ppph ) + total_len 53'
+p523
+I0
+sS'566 /home/speedy/test/source2slice/NVD/CVE_2015_2922_PATCHED_ndisc_router_discovery.c rtime = ( rtime * HZ ) / 1000 159'
+p524
+I0
+sS'523 /home/speedy/test/source2slice/NVD/CVE_2014_4608_VULN_lzo1x_decompress_safe.c * out_len = op - out 187'
+p525
+I1
+sS'84 /home/speedy/test/source2slice/NVD/CVE_2007_3642_PATCHED_decode_choice.c bs -> cur = beg + len 60'
+p526
+I0
+sS'581 /home/speedy/test/source2slice/NVD/CVE_2015_3808_PATCHED_dissect_lbmr_pser.c topic_len = hdr_len - L_LBMR_PSER_T 13'
+p527
+I0
+sS'289 /home/speedy/test/source2slice/NVD/CVE_2010_2538_VULN_btrfs_ioctl_clone.c ret = btrfs_inc_extent_ref ( trans , root , disko , diskl , 0 , root -> root_key . objectid , inode -> i_ino , new_key . offset - datao ) 225'
+p528
+I1
+sS'612 /home/speedy/test/source2slice/NVD/CVE_2015_3813_PATCHED_fragment_add_work.c fd_head -> datalen = fd -> offset + fd -> len 121'
+p529
+I0
+sS'308 /home/speedy/test/source2slice/NVD/CVE_2010_2962_VULN_i915_gem_gtt_pwrite_fast.c offset = obj_priv -> gtt_offset + args -> offset 31'
+p530
+I1
+sS'526 /home/speedy/test/source2slice/NVD/CVE_2014_4655_PATCHED_snd_ctl_elem_add.c ue -> elem_data = ( char * ) ue + sizeof ( * ue ) 80'
+p531
+I0
+sS'774 /home/speedy/test/source2slice/NVD/CVE_2014_4608_PATCHED_lzo1x_decompress_safe.c unsigned char * oe = op + t ; 129'
+p532
+I0
+sS'361 /home/speedy/test/source2slice/NVD/CVE_2013_6381_VULN_qeth_snmp_command.c rc = qeth_send_ipa_snmp_cmd ( card , iob , QETH_SETADP_BASE_LEN + req_len , qeth_snmp_command_cb , ( void * ) & qinfo ) 39'
+p533
+I1
+sS'338 /home/speedy/test/source2slice/NVD/CVE_2013_4932_PATCHED_elem_v_short.c item = proto_tree_add_text ( tree , tvb , curr_offset , 0 , "%s%s" , elem_name ? elem_name : "Unknown - aborting dissection" , "" ) 19'
+p534
+I0
+sS'630 /home/speedy/test/source2slice/NVD/CVE_2015_6246_PATCHED_dissect_wa_payload.c current_offset = offset + iLoop * delta 240'
+p535
+I0
+sS'547 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c NS_tsnprintf ( newDistDir , sizeof ( newDistDir ) / sizeof ( newDistDir [ 0 ] ) , NS_T ( "%s/Contents/Resources/distribution" ) , gInstallDirPath ) 826'
+p536
+I0
+sS'17 /home/speedy/test/source2slice/NVD/CVE-2015-4504_VULN_lut_inverse_interp16.c f = ( ( Value - b ) / a ) 92'
+p537
+I1
+sS'145 /home/speedy/test/source2slice/NVD/CVE_2009_1046_PATCHED_set_selection.c new_sel_start = ps - ps % vc -> vc_size_row 83'
+p538
+I0
+sS'713 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_cleanup.c Jpeg2000Prec * prec = band -> prec + precno ; 12'
+p539
+I1
+sS'804 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 123'
+p540
+I0
+sS'654 /home/speedy/test/source2slice/NVD/CVE-2016-2522_VULN_dissect_ber_constrained_bitstring.c guint8 bits_in_pad = tvb_get_guint8 ( tvb , offset + len - 1 ) & ( 0xFF >> ( 8 - pad ) ) ; 139'
+p541
+I0
+sS'234 /home/speedy/test/source2slice/NVD/CVE_2010_0307_PATCHED_load_elf_binary.c k = elf_ppnt -> p_vaddr + elf_ppnt -> p_filesz 286'
+p542
+I0
+sS'481 /home/speedy/test/source2slice/NVD/CVE_2014_2894_PATCHED_cmd_smart.c s -> io_buffer [ 511 ] = 0x100 - s -> io_buffer [ 511 ] 60'
+p543
+I0
+sS'370 /home/speedy/test/source2slice/NVD/CVE_2013_7008_PATCHED_decode_slice_header.c h -> mb_num = h -> mb_width * h -> mb_height 113'
+p544
+I0
+sS'726 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000Component * comp = tile -> comp + compno ; 119'
+p545
+I0
+sS'64 /home/speedy/test/source2slice/NVD/CVE_2006_4813_VULN___block_prepare_write.c block_end = block_start + blocksize 25'
+p546
+I1
+sS'395 /home/speedy/test/source2slice/NVD/CVE_2013_7013_PATCHED_g2m_init_buffers.c c -> framebuf = av_mallocz ( c -> framebuf_stride * aligned_height ) 9'
+p547
+I0
+sS'832 /home/speedy/test/source2slice/NVD/CVE_2015_3813_VULN_fragment_add_work.c guint32 cmp_len = MIN ( fd_i -> len , ( dfpos - fd_i -> offset ) ) ; 286'
+p548
+I0
+sS'753 /home/speedy/test/source2slice/NVD/CVE_2014_1508_VULN_nsDisplayNotation__Paint.c gfxFloat h = H * f ; 51'
+p549
+I1
+sS'736 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000Component * comp = tile -> comp + compno ; 119'
+p550
+I0
+sS'386 /home/speedy/test/source2slice/NVD/CVE_2013_7011_PATCHED_read_header.c fs -> slice_width = ( get_symbol ( c , state , 0 ) + 1 ) * f -> width + fs -> slice_x 167'
+p551
+I0
+sS'542 /home/speedy/test/source2slice/NVD/CVE_2014_5471_VULN_isofs_read_inode.c de = ( struct iso_directory_record * ) ( bh -> b_data + offset ) 23'
+p552
+I0
+sS'558 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c NS_tsnprintf ( oldPrecomplete , sizeof ( oldPrecomplete ) / sizeof ( oldPrecomplete [ 0 ] ) , NS_T ( "%s/precomplete" ) , gInstallDirPath ) 816'
+p553
+I0
+sS'747 /home/speedy/test/source2slice/NVD/CVE_2014_0221_VULN_dtls1_get_message_fragment.c unsigned char * p = ( unsigned char * ) s -> init_buf -> data + DTLS1_HM_HEADER_LENGTH ; 86'
+p554
+I0
+sS'756 /home/speedy/test/source2slice/NVD/CVE_2014_1508_VULN_nsDisplayNotation__Paint.c gfxFloat l = sqrt ( W * W + H * H ) ; 49'
+p555
+I1
+sS'8 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> clut_table [ i + 1 ] = uInt8Number_to_float ( read_uInt8Number ( src , clut_offset + i * entry_size + 1 ) ) 81'
+p556
+I1
+sS'53 /home/speedy/test/source2slice/NVD/CVE_2005_4886_PATCHED_selinux_parse_skb_ipv6.c offset = skb -> nh . raw - skb -> data 7'
+p557
+I0
+sS'825 /home/speedy/test/source2slice/NVD/CVE_2015_3808_PATCHED_dissect_lbmr_pser.c guint8 opt_type = tvb_get_guint8 ( tvb , curr_offset + O_LBMR_PSER_OPT_HDR_T_TYPE ) ; 51'
+p558
+I0
+sS'187 /home/speedy/test/source2slice/NVD/CVE_2009_3888_PATCHED_do_mmap_pgoff.c pgend = pgoff + pglen 75'
+p559
+I0
+sS'738 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000Component * comp = tile -> comp + compno ; 73'
+p560
+I0
+sS'135 /home/speedy/test/source2slice/NVD/CVE_2009_0946_PATCHED_ft_smooth_render_generic.c height = ( FT_UInt ) ( ( cbox . yMax - cbox . yMin ) >> 6 ) 47'
+p561
+I0
+sS'631 /home/speedy/test/source2slice/NVD/CVE_2015_6246_PATCHED_dissect_wa_payload.c current_offset = offset + iLoop * delta 137'
+p562
+I0
+sS'549 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c NS_tsnprintf ( oldPrecomplete , sizeof ( oldPrecomplete ) / sizeof ( oldPrecomplete [ 0 ] ) , NS_T ( "%s/precomplete" ) , gInstallDirPath ) 816'
+p563
+I0
+sS'517 /home/speedy/test/source2slice/NVD/CVE_2014_4608_PATCHED_lzo1x_decompress_safe.c * out_len = op - out 197'
+p564
+I0
+sS'529 /home/speedy/test/source2slice/NVD/CVE_2014_5271_PATCHED_encode_frame.c slice_size = slice_hdr_size + sizes [ ctx -> num_planes - 1 ] 103'
+p565
+I0
+sS'553 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c NS_tsnprintf ( updateLockFilePath , sizeof ( updateLockFilePath ) / sizeof ( updateLockFilePath [ 0 ] ) , NS_T ( "%s/updated.update_in_progress.lock" ) , gInstallDirPath ) 253'
+p566
+I0
+sS'88 /home/speedy/test/source2slice/NVD/CVE_2007_3642_PATCHED_decode_seq.c base = ( base && ( f -> attr & DECODE ) ) ? base + f -> offset : NULL 11'
+p567
+I0
+sS'162 /home/speedy/test/source2slice/NVD/CVE_2009_1336_VULN_nfs_init_server.c server -> acdirmax = data -> acdirmax * HZ 37'
+p568
+I1
+sS'256 /home/speedy/test/source2slice/NVD/CVE_2010_2498_VULN_psh_glyph_find_strong_points.c count = next - first 36'
+p569
+I1
+sS'7 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> clut_table [ i + 2 ] = uInt8Number_to_float ( read_uInt8Number ( src , clut_offset + i * entry_size + 2 ) ) 82'
+p570
+I1
+sS'604 /home/speedy/test/source2slice/NVD/CVE_2015_3811_VULN_wcp_uncompress.c cd_item = proto_tree_add_item ( tree , hf_wcp_compressed_data , src_tvb , offset , cnt - offset , ENC_NA ) 23'
+p571
+I0
+sS'605 /home/speedy/test/source2slice/NVD/CVE_2015_3811_VULN_wcp_uncompress.c buf_end = buf_start + MAX_WIN_BUF_LEN 21'
+p572
+I0
+sS'810 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 63'
+p573
+I0
+sS'722 /home/speedy/test/source2slice/NVD/CVE_2013_7023_PATCHED_ff_combine_frame.c void * new_buffer = av_fast_realloc ( pc -> buffer , & pc -> buffer_size , ( * buf_size ) + pc -> index + FF_INPUT_BUFFER_PADDING_SIZE ) ; 23'
+p574
+I0
+sS'52 /home/speedy/test/source2slice/NVD/CVE-2016-9793_VULN_sock_setsockopt.c sk -> sk_lingertime = ( unsigned int ) ling . l_linger * HZ 149'
+p575
+I0
+sS'772 /home/speedy/test/source2slice/NVD/CVE_2014_4027_VULN_rd_build_device_space.c u32 max_sg_per_table = ( RD_MAX_ALLOCATION_SIZE / sizeof ( struct scatterlist ) ) ; 4'
+p576
+I1
+sS'207 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_packet_per_buffer.c d = context_get_descriptors ( & ctx -> context , z + header_z , & d_bus ) 30'
+p577
+I0
+sS'312 /home/speedy/test/source2slice/NVD/CVE_2010_3015_PATCHED_ext4_ext_get_blocks.c newblock = iblock - le32_to_cpu ( newex . ee_block ) + ext_pblock ( & newex ) 33'
+p578
+I0
+sS'56 /home/speedy/test/source2slice/NVD/CVE_2006_2778_PATCHED_nsCrypto__SignText.c rv = encoder -> Init ( charset . get ( ) , ( nsISaveAsCharset :: attr_EntityAfterCharsetConv + nsISaveAsCharset :: attr_FallbackDecimalNCR ) , 0 ) 284'
+p579
+I0
+sS'406 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c numbps = cbps + lut_gain [ codsty -> transform == FF_DWT53 ] [ bandno + ( reslevelno > 0 ) ] 103'
+p580
+I0
+sS'41 /home/speedy/test/source2slice/NVD/CVE-2016-2522_VULN_dissect_ber_constrained_bitstring.c end_offset = offset + len 53'
+p581
+I0
+sS'803 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 132'
+p582
+I0
+sS'488 /home/speedy/test/source2slice/NVD/CVE_2014_3122_VULN_try_to_unmap_cluster.c end = address + CLUSTER_SIZE 20'
+p583
+I0
+sS'382 /home/speedy/test/source2slice/NVD/CVE_2013_7009_VULN_rpza_decode_stream.c block_ptr = row_ptr + pixel_ptr 73'
+p584
+I1
+sS'536 /home/speedy/test/source2slice/NVD/CVE_2014_5271_VULN_encode_frame.c q = ctx -> force_quant ? ctx -> force_quant : ctx -> slice_q [ mb + y * ctx -> slices_width ] 88'
+p585
+I1
+sS'492 /home/speedy/test/source2slice/NVD/CVE_2014_3511_PATCHED_ssl23_get_client_hello.c p = p + csl + sil + cl 293'
+p586
+I0
+sS'603 /home/speedy/test/source2slice/NVD/CVE_2015_3811_VULN_wcp_uncompress.c src = ( guint8 * ) tvb_memcpy ( src_tvb , src_buf , offset , cnt - offset ) 40'
+p587
+I0
+sS'122 /home/speedy/test/source2slice/NVD/CVE_2008_5134_VULN_lbs_process_bss.c n_ex_rates = MAX_RATES - n_basic_rates 168'
+p588
+I0
+sS'340 /home/speedy/test/source2slice/NVD/CVE_2013_4936_VULN_IsDFP_Frame.c crc = crc16_plain_tvb_offset_seed ( tvb , u32SubStart , offset - u32SubStart , 0 ) 67'
+p589
+I0
+sS'537 /home/speedy/test/source2slice/NVD/CVE_2014_5271_VULN_encode_frame.c pkt_size = ctx -> frame_size_upper_bound + FF_MIN_BUFFER_SIZE 19'
+p590
+I1
+sS'540 /home/speedy/test/source2slice/NVD/CVE_2014_5271_VULN_encode_slice.c src = ( const uint16_t * ) ( pic -> data [ i ] + yp * linesize + line_add * pic -> linesize [ i ] ) + xp 48'
+p591
+I0
+sS'751 /home/speedy/test/source2slice/NVD/CVE_2014_1508_PATCHED_nsDisplayNotation__Paint.c gfxFloat l = sqrt ( W * W + H * H ) ; 49'
+p592
+I0
+sS'446 /home/speedy/test/source2slice/NVD/CVE_2013_7100_PATCHED_unpacksms16.c * udl = ( o - ud ) 26'
+p593
+I0
+sS'398 /home/speedy/test/source2slice/NVD/CVE_2013_7013_VULN_g2m_init_buffers.c c -> jpeg_tile = av_mallocz ( c -> tile_stride * aligned_height ) 23'
+p594
+I1
+sS'598 /home/speedy/test/source2slice/NVD/CVE_2015_3809_VULN_dissect_lbmr_pser.c hdr_len = ( int ) tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_T_LEN ) 11'
+p595
+I1
+sS'260 /home/speedy/test/source2slice/NVD/CVE_2010_2519_VULN_Mac_Read_POST_Resource.c error = FT_Stream_Read ( stream , ( FT_Byte * ) pfb_data + pfb_pos , rlen ) 86'
+p596
+I1
+sS'674 /home/speedy/test/source2slice/NVD/CVE_2009_0946_VULN_ft_smooth_render_generic.c FT_Vector * points_end = points + outline -> n_points ; 126'
+p597
+I0
+sS'22 /home/speedy/test/source2slice/NVD/CVE-2015-7199_VULN_AddWeightedPathSegs.c aResultSeg [ i ] = ( aSeg1 ? aCoeff1 * aSeg1 [ i ] : 0.0 ) + aCoeff2 * aSeg2 [ i ] 33'
+p598
+I0
+sS'618 /home/speedy/test/source2slice/NVD/CVE_2015_3813_VULN_fragment_add_work.c max = fd_i -> offset + fd_i -> len 186'
+p599
+I0
+sS'275 /home/speedy/test/source2slice/NVD/CVE_2010_2537_VULN_btrfs_ioctl_clone.c new_key . offset = key . offset + destoff - off 189'
+p600
+I1
+sS'319 /home/speedy/test/source2slice/NVD/CVE_2010_3429_PATCHED_flic_decode_frame_15_16BPP.c stream_ptr = stream_ptr + chunk_size - 6 63'
+p601
+I0
+sS'773 /home/speedy/test/source2slice/NVD/CVE_2014_4608_PATCHED_lzo1x_decompress_safe.c unsigned char * oe = op + t ; 156'
+p602
+I0
+sS'795 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 38'
+p603
+I0
+sS'331 /home/speedy/test/source2slice/NVD/CVE_2010_3848_VULN_econet_sendmsg.c skb = sock_alloc_send_skb ( sk , len + LL_ALLOCATED_SPACE ( dev ) , msg -> msg_flags & MSG_DONTWAIT , & err ) 81'
+p604
+I1
+sS'802 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 142'
+p605
+I0
+sS'439 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c nb_precincts = rlevel -> num_precincts_x * rlevel -> num_precincts_y 30'
+p606
+I0
+sS'247 /home/speedy/test/source2slice/NVD/CVE_2010_0307_VULN_load_elf_binary.c retval = set_brk ( elf_bss + load_bias , elf_brk + load_bias ) 224'
+p607
+I0
+sS'781 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 168'
+p608
+I0
+sS'592 /home/speedy/test/source2slice/NVD/CVE_2015_3809_PATCHED_dissect_lbmr_pser.c flags = tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_T_FLAGS ) 12'
+p609
+I0
+sS'441 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c dst = line + x * pixelsize + compno * ! planar 93'
+p610
+I1
+sS'326 /home/speedy/test/source2slice/NVD/CVE_2010_3429_VULN_flic_decode_frame_15_16BPP.c stream_ptr = stream_ptr + chunk_size - 6 63'
+p611
+I1
+sS'214 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_dualbuffer.c db -> first_buffer = cpu_to_le32 ( d_bus + sizeof ( * db ) ) 54'
+p612
+I0
+sS'608 /home/speedy/test/source2slice/NVD/CVE_2015_3813_PATCHED_fragment_add_work.c fd_head -> error = "fraglen < dfpos - offset" 304'
+p613
+I0
+sS'565 /home/speedy/test/source2slice/NVD/CVE_2015_2922_PATCHED_ndisc_router_discovery.c rtime = ( rtime * HZ ) / 1000 169'
+p614
+I0
+sS'383 /home/speedy/test/source2slice/NVD/CVE_2013_7011_PATCHED_read_header.c fs -> slice_height = fs -> slice_height / f -> num_v_slices - fs -> slice_y 173'
+p615
+I0
+sS'271 /home/speedy/test/source2slice/NVD/CVE_2010_2537_VULN_btrfs_ioctl_clone.c trim = key . offset + datal - ( off + len ) 241'
+p616
+I1
+sS'118 /home/speedy/test/source2slice/NVD/CVE_2008_5134_PATCHED_lbs_process_bss.c p = bss -> rates + n_basic_rates 170'
+p617
+I0
+sS'455 /home/speedy/test/source2slice/NVD/CVE_2014_0160_VULN_dtls1_process_heartbeat.c buffer = OPENSSL_malloc ( 1 + 2 + payload + padding ) 28'
+p618
+I1
+sS'400 /home/speedy/test/source2slice/NVD/CVE_2013_7013_VULN_g2m_init_buffers.c c -> framebuf = av_mallocz ( c -> framebuf_stride * aligned_height ) 9'
+p619
+I1
+sS'295 /home/speedy/test/source2slice/NVD/CVE_2010_2803_PATCHED_drm_ioctl.c ioctl = & dev -> driver -> ioctls [ nr - DRM_COMMAND_BASE ] 28'
+p620
+I0
+sS'778 /home/speedy/test/source2slice/NVD/CVE_2014_4608_VULN_lzo1x_decompress_safe.c unsigned char * oe = op + t ; 129'
+p621
+I1
+sS'106 /home/speedy/test/source2slice/NVD/CVE_2008_3527_VULN_arch_setup_additional_pages.c vma -> vm_end = addr + PAGE_SIZE 22'
+p622
+I1
+sS'599 /home/speedy/test/source2slice/NVD/CVE_2015_3811_PATCHED_decompressed_entry.c buf_end = buf_ptr -> buffer + MAX_WIN_BUF_LEN 9'
+p623
+I0
+sS'601 /home/speedy/test/source2slice/NVD/CVE_2015_3811_PATCHED_wcp_uncompress.c cd_item = proto_tree_add_item ( tree , hf_wcp_compressed_data , src_tvb , offset , cnt - offset , ENC_NA ) 23'
+p624
+I0
+sS'744 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000Component * comp = tile -> comp + compno ; 12'
+p625
+I1
+sS'801 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 152'
+p626
+I0
+sS'671 /home/speedy/test/source2slice/NVD/CVE_2009_0946_PATCHED_ft_smooth_render_generic.c FT_Vector * points_end = points + outline -> n_points ; 152'
+p627
+I0
+sS'209 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_packet_per_buffer.c payload_per_buffer = p -> payload_length / packet_count 25'
+p628
+I0
+sS'367 /home/speedy/test/source2slice/NVD/CVE_2013_7008_PATCHED_decode_slice_header.c h -> resync_mb_y = h -> mb_y = ( first_mb_in_slice / h -> mb_width ) << FIELD_OR_MBAFF_PICTURE ( h ) 414'
+p629
+I0
+sS'246 /home/speedy/test/source2slice/NVD/CVE_2010_0307_VULN_load_elf_binary.c nbyte = ELF_MIN_ALIGN - nbyte 232'
+p630
+I0
+sS'20 /home/speedy/test/source2slice/NVD/CVE-2015-4504_VULN_lut_inverse_interp16.c x = ( l + r ) / 2 54'
+p631
+I1
+sS'174 /home/speedy/test/source2slice/NVD/CVE_2009_2909_PATCHED_ax25_setsockopt.c ax25 -> t1 = opt * HZ 44'
+p632
+I0
+sS'723 /home/speedy/test/source2slice/NVD/CVE_2013_7023_VULN_ff_combine_frame.c void * new_buffer = av_fast_realloc ( pc -> buffer , & pc -> buffer_size , next + pc -> index + FF_INPUT_BUFFER_PADDING_SIZE ) ; 38'
+p633
+I1
+sS'473 /home/speedy/test/source2slice/NVD/CVE_2014_2739_PATCHED_cma_req_handler.c event . param . ud . private_data = ib_event -> private_data + offset 19'
+p634
+I0
+sS'132 /home/speedy/test/source2slice/NVD/CVE_2009_0935_PATCHED_inotify_read.c ret = buf - start 49'
+p635
+I0
+sS'760 /home/speedy/test/source2slice/NVD/CVE_2014_1522_PATCHED_ComputeCustom.c float sampleInterpolationFactor = mPhase - j1 ; 29'
+p636
+I0
+sS'606 /home/speedy/test/source2slice/NVD/CVE_2015_3813_PATCHED_fragment_add_work.c fd_head -> error = "offset + len < offset" 315'
+p637
+I0
+sS'82 /home/speedy/test/source2slice/NVD/CVE_2007_1217_PATCHED_bufprint.c cdb -> p = cdb -> buf + cdb -> pos 28'
+p638
+I0
+sS'663 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c PRUint32 toCopy = mLOH - mPos ; 27'
+p639
+I0
+sS'743 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000CodingStyle * codsty = tile -> codsty + compno ; 13'
+p640
+I0
+sS'379 /home/speedy/test/source2slice/NVD/CVE_2013_7009_PATCHED_rpza_decode_stream.c block_ptr = row_ptr + pixel_ptr 74'
+p641
+I0
+sS'451 /home/speedy/test/source2slice/NVD/CVE_2014_0069_VULN_cifs_iovec_write.c cur_len = save_len - cur_len 67'
+p642
+I1
+sS'796 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c const uint8_t * buf_end = buf + buf_size ; 8'
+p643
+I0
+sS'621 /home/speedy/test/source2slice/NVD/CVE_2015_4001_VULN_oz_hcd_get_desc_cnf.c copy_len = required_size - offset 19'
+p644
+I1
+sS'250 /home/speedy/test/source2slice/NVD/CVE_2010_2478_VULN_ethtool_get_rxnfc.c rule_buf = kmalloc ( info . rule_cnt * sizeof ( u32 ) , GFP_USER ) 16'
+p645
+I1
+sS'651 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000Component * comp = tile -> comp + compno ; 15'
+p646
+I1
+sS'790 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 83'
+p647
+I0
+sS'447 /home/speedy/test/source2slice/NVD/CVE_2013_7100_VULN_unpacksms16.c * udl = ( o - ud ) 26'
+p648
+I1
+sS'299 /home/speedy/test/source2slice/NVD/CVE_2010_2805_PATCHED_FT_Stream_EnterFrame.c stream -> limit = stream -> cursor + count 50'
+p649
+I0
+sS'418 /home/speedy/test/source2slice/NVD/CVE_2013_7021_VULN_filter_frame.c delta = av_rescale_q_rnd ( buf -> pts - s -> pts , inlink -> time_base , outlink -> time_base , s -> rounding ) 33'
+p650
+I1
+sS'129 /home/speedy/test/source2slice/NVD/CVE_2009_0746_VULN_make_indexed_dir.c de -> rec_len = ext4_rec_len_to_disk ( data1 + blocksize - ( char * ) de ) 48'
+p651
+I1
+sS'33 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c nb_precincts = rlevel -> num_precincts_x * rlevel -> num_precincts_y 35'
+p652
+I0
+sS'546 /home/speedy/test/source2slice/NVD/CVE_2015_0228_VULN_lua_websocket_read.c rv = apr_socket_recv ( sock , buffer + at , & received ) 111'
+p653
+I0
+sS'661 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c PRUint8 colorNum = colorBytes / bpc ; 100'
+p654
+I0
+sS'416 /home/speedy/test/source2slice/NVD/CVE_2013_7021_PATCHED_filter_frame.c delta = av_rescale_q_rnd ( buf -> pts - s -> pts , inlink -> time_base , outlink -> time_base , s -> rounding ) 33'
+p655
+I0
+sS'72 /home/speedy/test/source2slice/NVD/CVE_2006_6333_PATCHED_tr_rx.c skb_size = length - lan_hdr_len + sizeof ( struct trh_hdr ) + sizeof ( struct trllc ) 87'
+p656
+I0
+sS'182 /home/speedy/test/source2slice/NVD/CVE_2009_3888_PATCHED_do_mmap_pgoff.c vma -> vm_end = region -> vm_end = addr + len 159'
+p657
+I0
+sS'512 /home/speedy/test/source2slice/NVD/CVE_2014_4174_PATCHED_libpcap_dump.c rec_hdr . hdr . orig_len = phdr -> len + phdrsize 19'
+p658
+I0
+sS'79 /home/speedy/test/source2slice/NVD/CVE_2006_6333_VULN_tr_rx.c hdr_len = lan_hdr_len + sizeof ( struct trllc ) + sizeof ( struct iphdr ) 36'
+p659
+I1
+sS'696 /home/speedy/test/source2slice/NVD/CVE_2013_7010_VULN_add_bytes_c.c long a = * ( long * ) ( src + i ) ; 4'
+p660
+I1
+sS'285 /home/speedy/test/source2slice/NVD/CVE_2010_2538_PATCHED_btrfs_ioctl_clone.c len = ( ( src -> i_size + bs - 1 ) & ~ ( bs - 1 ) ) - off 90'
+p661
+I0
+sS'66 /home/speedy/test/source2slice/NVD/CVE_2006_5751_PATCHED_get_fdb_entries.c size = maxnum * sizeof ( struct __fdb_entry ) 12'
+p662
+I0
+sS'75 /home/speedy/test/source2slice/NVD/CVE_2006_6333_VULN_tr_rx.c rbuffer_len = ntohs ( readw ( rbuf + BUFFER_LENGTH_OFST ) ) 139'
+p663
+I1
+sS'652 /home/speedy/test/source2slice/NVD/CVE-2016-2327_VULN_apng_encode_frame.c size_t row_start = s -> last_frame -> linesize [ 0 ] * y + bpp * last_fctl_chunk . x_offset ; 66'
+p664
+I1
+sS'159 /home/speedy/test/source2slice/NVD/CVE_2009_1336_PATCHED_nfs_init_server.c server -> acdirmin = data -> acdirmin * HZ 36'
+p665
+I0
+sS'237 /home/speedy/test/source2slice/NVD/CVE_2010_0307_PATCHED_load_elf_binary.c nbyte = elf_brk - elf_bss 211'
+p666
+I0
+sS'728 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000Component * comp = tile -> comp + compno ; 73'
+p667
+I0
+sS'626 /home/speedy/test/source2slice/NVD/CVE_2015_4652_VULN_de_bcd_num.c num_string_len = len - ( curr_offset - offset ) 30'
+p668
+I1
+sS'95 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c mStateData = ( PRUint32 ) ( mAlpha + mBIH . width - mAlphaPtr ) 280'
+p669
+I0
+sS'595 /home/speedy/test/source2slice/NVD/CVE_2015_3809_VULN_dissect_lbmr_pser.c flags_item = proto_tree_add_none_format ( tree , hf_lbmr_pser_flags , tvb , offset + O_LBMR_PSER_T_FLAGS , L_LBMR_PSER_T_FLAGS , "Flags (0x%04x)" , flags ) 16'
+p670
+I0
+sS'296 /home/speedy/test/source2slice/NVD/CVE_2010_2803_VULN_drm_ioctl.c ioctl = & dev -> driver -> ioctls [ nr - DRM_COMMAND_BASE ] 28'
+p671
+I0
+sS'782 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 163'
+p672
+I0
+sS'358 /home/speedy/test/source2slice/NVD/CVE_2013_6381_PATCHED_qeth_snmp_command.c cmd = ( struct qeth_ipa_cmd * ) ( iob -> data + IPA_PDU_HEADER_SIZE ) 41'
+p673
+I0
+sS'366 /home/speedy/test/source2slice/NVD/CVE_2013_7008_PATCHED_decode_slice_header.c tmp = h -> pps . init_qp + get_se_golomb ( & h -> gb ) 547'
+p674
+I0
+sS'35 /home/speedy/test/source2slice/NVD/CVE-2016-2327_VULN_apng_encode_frame.c bytestream_size = s -> bytestream - bytestream_start 86'
+p675
+I1
+sS'226 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_packet_per_buffer.c packet_count = p -> header_length / ctx -> base . header_size 18'
+p676
+I1
+sS'799 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 168'
+p677
+I0
+sS'110 /home/speedy/test/source2slice/NVD/CVE_2008_3915_PATCHED_init_state.c alloc = sizeof ( struct posix_ace_state_array ) + cnt * sizeof ( struct posix_user_ace_state ) 13'
+p678
+I0
+sS'578 /home/speedy/test/source2slice/NVD/CVE_2015_3331_VULN___driver_rfc4106_decrypt.c tempCipherLen = ( unsigned long ) ( req -> cryptlen - auth_tag_len ) 27'
+p679
+I0
+sS'693 /home/speedy/test/source2slice/NVD/CVE_2013_7010_PATCHED_diff_bytes_c.c long b = * ( long * ) ( src2 + i ) ; 19'
+p680
+I0
+sS'688 /home/speedy/test/source2slice/NVD/CVE_2013_5593_VULN_nsComboboxControlFrame__AbsolutelyPositionDropDown.c const nsPoint newPos = dropdownPosition + translation ; 50'
+p681
+I1
+sS'653 /home/speedy/test/source2slice/NVD/CVE-2016-2330_VULN_gif_image_write_image.c const uint8_t * ref = s -> last_frame -> data [ 0 ] + y_start * ref_linesize + x_start ; 108'
+p682
+I0
+sS'335 /home/speedy/test/source2slice/NVD/CVE_2013_4932_PATCHED_elem_tlv_e.c item = proto_tree_add_text ( tree , tvb , curr_offset , parm_len + 1 + 2 , "%s%s" , elem_name ? elem_name : "Unknown - aborting dissection" , ( name_add == NULL ) || ( name_add [ 0 ] == \'\\0\' ) ? "" : name_add ) 26'
+p683
+I0
+sS'412 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c numbps = cbps + lut_gain [ codsty -> transform == FF_DWT53 ] [ bandno + ( reslevelno > 0 ) ] 103'
+p684
+I1
+sS'277 /home/speedy/test/source2slice/NVD/CVE_2010_2537_VULN_btrfs_ioctl_clone.c len = ( ( src -> i_size + bs - 1 ) & ~ ( bs - 1 ) ) - off 90'
+p685
+I1
+sS'511 /home/speedy/test/source2slice/NVD/CVE_2014_4027_VULN_rd_build_device_space.c sg_tables = ( total_sg_needed / max_sg_per_table ) + 1 22'
+p686
+I1
+sS'779 /home/speedy/test/source2slice/NVD/CVE_2014_4608_VULN_lzo1x_decompress_safe.c unsigned char * oe = op + t ; 43'
+p687
+I1
+sS'452 /home/speedy/test/source2slice/NVD/CVE_2014_0160_PATCHED_tls1_process_heartbeat.c r = ssl3_write_bytes ( s , TLS1_RT_HEARTBEAT , buffer , 3 + payload + padding ) 43'
+p688
+I0
+sS'554 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_UpdateThreadFunc.c NS_tsnprintf ( updatingDir , sizeof ( updatingDir ) / sizeof ( updatingDir [ 0 ] ) , NS_T ( "%s/updating" ) , gWorkingDirPath ) 82'
+p689
+I0
+sS'24 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c * dst = val << ( precision - cbps ) 164'
+p690
+I1
+sS'424 /home/speedy/test/source2slice/NVD/CVE_2013_7022_VULN_g2m_init_buffers.c c -> kempf_flags = av_mallocz ( c -> tile_width * aligned_height ) 26'
+p691
+I1
+sS'320 /home/speedy/test/source2slice/NVD/CVE_2010_3429_PATCHED_flic_decode_frame_15_16BPP.c pixel_limit = s -> avctx -> height * s -> frame . linesize [ 0 ] 40'
+p692
+I0
+sS'232 /home/speedy/test/source2slice/NVD/CVE_2010_0006_VULN_ipv6_hop_jumbo.c pkt_len = ntohl ( * ( __be32 * ) ( nh + optoff + 2 ) ) 15'
+p693
+I0
+sS'421 /home/speedy/test/source2slice/NVD/CVE_2013_7022_PATCHED_g2m_init_buffers.c c -> jpeg_tile = av_mallocz ( c -> tile_stride * aligned_height ) 23'
+p694
+I0
+sS'615 /home/speedy/test/source2slice/NVD/CVE_2015_3813_VULN_fragment_add_work.c fd_head -> error = "fraglen < dfpos - offset" 302'
+p695
+I0
+sS'627 /home/speedy/test/source2slice/NVD/CVE_2015_6242_PATCHED_wmem_block_split_free_chunk.c available = chunk -> len - aligned_size 29'
+p696
+I0
+sS'343 /home/speedy/test/source2slice/NVD/CVE_2013_5642_PATCHED_process_sdp.c codecs = m + len 287'
+p697
+I0
+sS'700 /home/speedy/test/source2slice/NVD/CVE_2013_7011_VULN_read_header.c int size = AV_RB24 ( p - trailer ) ; 129'
+p698
+I1
+sS'575 /home/speedy/test/source2slice/NVD/CVE_2015_3331_VULN___driver_rfc4106_decrypt.c retval = memcmp ( src + tempCipherLen , authTag , auth_tag_len ) ? - EBADMSG : 0 64'
+p699
+I0
+sS'460 /home/speedy/test/source2slice/NVD/CVE_2014_1522_PATCHED_ComputeCustom.c aOutput [ i ] = tableInterpolationFactor * lower + ( 1 - tableInterpolationFactor ) * higher 34'
+p700
+I0
+sS'270 /home/speedy/test/source2slice/NVD/CVE_2010_2537_PATCHED_btrfs_ioctl_clone.c olen = len = src -> i_size - off 87'
+p701
+I0
+sS'121 /home/speedy/test/source2slice/NVD/CVE_2008_5134_VULN_lbs_process_bss.c p = bss -> rates + n_basic_rates 170'
+p702
+I1
+sS'171 /home/speedy/test/source2slice/NVD/CVE_2009_2846_VULN_eisa_eeprom_read.c count = * ppos + count < HPEE_MAX_LENGTH ? count : HPEE_MAX_LENGTH - * ppos 11'
+p703
+I1
+sS'589 /home/speedy/test/source2slice/NVD/CVE_2015_3809_PATCHED_dissect_lbmr_pser.c opt_len = tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_OPTLEN_T_OPTLEN ) 36'
+p704
+I0
+sS'54 /home/speedy/test/source2slice/NVD/CVE_2005_4886_VULN_selinux_parse_skb_ipv6.c offset = ipv6_skip_exthdr ( skb , offset , & nexthdr , skb -> tail - skb -> head - offset ) 18'
+p705
+I1
+sS'828 /home/speedy/test/source2slice/NVD/CVE_2015_3809_PATCHED_dissect_lbmr_pser.c guint8 opt_type = tvb_get_guint8 ( tvb , curr_offset + O_LBMR_PSER_OPT_HDR_T_TYPE ) ; 51'
+p706
+I0
+sS'51 /home/speedy/test/source2slice/NVD/CVE-2016-9685_VULN_xfs_attr_shortform_list.c sbsize = sf -> hdr . count * sizeof ( * sbuf ) 66'
+p707
+I1
+sS'244 /home/speedy/test/source2slice/NVD/CVE_2010_0307_VULN_load_elf_binary.c error = elf_map ( bprm -> file , load_bias + vaddr , elf_ppnt , elf_prot , elf_flags , 0 ) 270'
+p708
+I0
+sS'223 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_packet_per_buffer.c d = context_get_descriptors ( & ctx -> context , z + header_z , & d_bus ) 30'
+p709
+I1
+sS'294 /home/speedy/test/source2slice/NVD/CVE_2010_2538_VULN_btrfs_ioctl_clone.c olen = len = src -> i_size - off 87'
+p710
+I1
+sS'622 /home/speedy/test/source2slice/NVD/CVE_2015_4003_PATCHED_oz_usb_handle_ep_data.c count = data_len / unit_size 32'
+p711
+I0
+sS'114 /home/speedy/test/source2slice/NVD/CVE_2008_4302_PATCHED_pipe_to_file.c this_len = PAGE_CACHE_SIZE - offset 23'
+p712
+I0
+sS'480 /home/speedy/test/source2slice/NVD/CVE_2014_2894_PATCHED_cmd_smart.c s -> io_buffer [ 511 ] = 0x100 - s -> io_buffer [ 511 ] 101'
+p713
+I0
+sS'573 /home/speedy/test/source2slice/NVD/CVE_2015_3331_PATCHED___driver_rfc4106_decrypt.c src = kmalloc ( req -> cryptlen + req -> assoclen , GFP_ATOMIC ) 49'
+p714
+I0
+sS'633 /home/speedy/test/source2slice/NVD/CVE_2015_6246_VULN_dissect_wa_payload.c current_offset = offset + iLoop * delta 240'
+p715
+I1
+sS'640 /home/speedy/test/source2slice/NVD/CVE-2015-4002_VULN_oz_usb_rx.c int data_len = elt -> length - sizeof ( struct oz_get_desc_rsp ) + 1 ; 28'
+p716
+I1
+sS'505 /home/speedy/test/source2slice/NVD/CVE_2014_3640_VULN_udp_input.c uh = ( struct udphdr * ) ( ( caddr_t ) ip + iphlen ) 31'
+p717
+I1
+sS'482 /home/speedy/test/source2slice/NVD/CVE_2014_2894_VULN_cmd_smart.c s -> io_buffer [ 511 ] = 0x100 - s -> io_buffer [ 511 ] 137'
+p718
+I0
+sS'306 /home/speedy/test/source2slice/NVD/CVE_2010_2962_PATCHED_i915_gem_gtt_pwrite_fast.c offset = obj_priv -> gtt_offset + args -> offset 29'
+p719
+I0
+sS'315 /home/speedy/test/source2slice/NVD/CVE_2010_3015_VULN_ext4_ext_get_blocks.c allocated = ext4_ext_get_actual_len ( & newex ) - ( iblock - le32_to_cpu ( newex . ee_block ) ) 37'
+p720
+I0
+sS'834 /home/speedy/test/source2slice/NVD/CVE_2015_4003_PATCHED_oz_usb_handle_ep_data.c int data_len = len - sizeof ( struct oz_isoc_fixed ) + 1 ; 25'
+p721
+I0
+sS'336 /home/speedy/test/source2slice/NVD/CVE_2013_4932_PATCHED_elem_tv.c item = proto_tree_add_text ( tree , tvb , curr_offset , - 1 , "%s%s" , elem_name ? elem_name : "Unknown - aborting dissection" , ( name_add == NULL ) || ( name_add [ 0 ] == \'\\0\' ) ? "" : name_add ) 24'
+p722
+I0
+sS'524 /home/speedy/test/source2slice/NVD/CVE_2014_4654_PATCHED_snd_ctl_elem_add.c ue -> elem_data = ( char * ) ue + sizeof ( * ue ) 80'
+p723
+I0
+sS'302 /home/speedy/test/source2slice/NVD/CVE_2010_2805_VULN_FT_Stream_EnterFrame.c stream -> limit = stream -> cursor + count 50'
+p724
+I0
+sS'740 /home/speedy/test/source2slice/NVD/CVE_2013_7024_VULN_jpeg2000_decode_tile.c Jpeg2000Prec * prec = band -> prec + precno ; 33'
+p725
+I1
+sS'31 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c line = picture -> data [ plane ] + y * picture -> linesize [ plane ] 93'
+p726
+I1
+sS'504 /home/speedy/test/source2slice/NVD/CVE_2014_3640_PATCHED_udp_input.c uh = ( struct udphdr * ) ( ( caddr_t ) ip + iphlen ) 31'
+p727
+I0
+sS'682 /home/speedy/test/source2slice/NVD/CVE_2009_4410_VULN_fuse_ioctl_copy_user.c char __user * uaddr = ii . iov -> iov_base + ii . iov_offset ; 20'
+p728
+I0
+sS'86 /home/speedy/test/source2slice/NVD/CVE_2007_3642_PATCHED_decode_seq.c bs -> cur = beg + len 110'
+p729
+I0
+sS'49 /home/speedy/test/source2slice/NVD/CVE-2016-8658_VULN_brcmf_cfg80211_start_ap.c ssid_ie = brcmf_parse_tlvs ( ( u8 * ) & settings -> beacon . head [ ie_offset ] , settings -> beacon . head_len - ie_offset , WLAN_EID_SSID ) 40'
+p730
+I1
+sS'814 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c const uint8_t * buf_end = buf + buf_size ; 8'
+p731
+I0
+sS'634 /home/speedy/test/source2slice/NVD/CVE_2015_6246_VULN_dissect_wa_payload.c current_offset = offset + iLoop * delta 137'
+p732
+I1
+sS'58 /home/speedy/test/source2slice/NVD/CVE_2006_3741_PATCHED_sys_perfmonctl.c sz = xtra_sz + base_sz * count 50'
+p733
+I0
+sS'148 /home/speedy/test/source2slice/NVD/CVE_2009_1046_VULN_set_selection.c sel_buffer_lth = bp - sel_buffer 164'
+p734
+I1
+sS'47 /home/speedy/test/source2slice/NVD/CVE-2016-7042_VULN_proc_keys_show.c timo = key -> expiry - now . tv_sec 53'
+p735
+I0
+sS'510 /home/speedy/test/source2slice/NVD/CVE_2014_4027_VULN_rd_build_device_space.c sg_table = kzalloc ( sg_tables * sizeof ( struct rd_dev_sg_table ) , GFP_KERNEL ) 24'
+p736
+I1
+sS'15 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut = malloc ( sizeof ( struct lutType ) + ( num_input_table_entries * in_chan + clut_size * out_chan + num_output_table_entries * out_chan ) * sizeof ( float ) ) 44'
+p737
+I1
+sS'218 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_packet_per_buffer.c offset = ( offset + length ) & ~PAGE_MASK 61'
+p738
+I1
+sS'208 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_packet_per_buffer.c z = DIV_ROUND_UP ( payload_per_buffer + offset , PAGE_SIZE ) + 1 29'
+p739
+I0
+sS'508 /home/speedy/test/source2slice/NVD/CVE_2014_4027_VULN_rd_build_device_space.c sg_table [ i ++ ] . page_end_offset = ( page_offset + sg_per_table ) - 1 51'
+p740
+I1
+sS'188 /home/speedy/test/source2slice/NVD/CVE_2009_3888_PATCHED_do_mmap_pgoff.c pglen = ( len + PAGE_SIZE - 1 ) >> PAGE_SHIFT 74'
+p741
+I0
+sS'359 /home/speedy/test/source2slice/NVD/CVE_2013_6381_PATCHED_qeth_snmp_command.c iob = qeth_get_adapter_cmd ( card , IPA_SETADP_SET_SNMP_CONTROL , QETH_SNMP_SETADP_CMDLENGTH + req_len ) 39'
+p742
+I0
+sS'281 /home/speedy/test/source2slice/NVD/CVE_2010_2538_PATCHED_btrfs_ioctl_clone.c ret = btrfs_inc_extent_ref ( trans , root , disko , diskl , 0 , root -> root_key . objectid , inode -> i_ino , new_key . offset - datao ) 225'
+p743
+I0
+sS'407 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c Cy0 = Cy0 + ( ( cblkno / prec -> nb_codeblocks_width ) << band -> log2_cblk_height ) 252'
+p744
+I1
+sS'198 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_dualbuffer.c length = PAGE_SIZE - offset 68'
+p745
+I0
+sS'411 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c band -> f_stepsize = SHL ( 2048 + qntsty -> mant [ gbandno ] , 2 + numbps - qntsty -> expn [ gbandno ] ) 105'
+p746
+I1
+sS'820 /home/speedy/test/source2slice/NVD/CVE_2014_5472_VULN_isofs_read_inode.c int frag1 = bufsize - offset ; 27'
+p747
+I0
+sS'822 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c size_t len = NS_tstrlen ( gInstallDirPath + commonPrefixLength ) ; 636'
+p748
+I0
+sS'251 /home/speedy/test/source2slice/NVD/CVE_2010_2495_PATCHED_pppol2tp_sendmsg.c udp_len = hdr_len + sizeof ( ppph ) + total_len 53'
+p749
+I0
+sS'660 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c PRUint32 toCopy = ( WIN_HEADER_LENGTH + BITFIELD_LENGTH ) - mPos ; 125'
+p750
+I0
+sS'279 /home/speedy/test/source2slice/NVD/CVE_2010_2538_PATCHED_btrfs_ioctl_clone.c trim = key . offset + datal - ( off + len ) 241'
+p751
+I0
+sS'131 /home/speedy/test/source2slice/NVD/CVE_2009_0746_VULN_make_indexed_dir.c de = ( struct ext4_dir_entry_2 * ) ( ( char * ) fde + ext4_rec_len_from_disk ( fde -> rec_len ) ) 40'
+p752
+I1
+sS'304 /home/speedy/test/source2slice/NVD/CVE_2010_2806_VULN_t42_parse_sfnts.c string_size = ( FT_Long ) ( ( parser -> root . cursor - cur - 2 + 1 ) / 2 ) 66'
+p753
+I1
+sS'515 /home/speedy/test/source2slice/NVD/CVE_2014_4174_VULN_libpcap_dump.c rec_hdr . hdr . incl_len = phdr -> caplen + phdrsize 18'
+p754
+I1
+sS'74 /home/speedy/test/source2slice/NVD/CVE_2006_6333_PATCHED_tr_rx.c dlc_hdr_len = readb ( ti -> arb + DLC_HDR_LENGTH_OFST ) 35'
+p755
+I0
+sS'580 /home/speedy/test/source2slice/NVD/CVE_2015_3808_PATCHED_dissect_lbmr_pser.c flags_item = proto_tree_add_none_format ( tree , hf_lbmr_pser_flags , tvb , offset + O_LBMR_PSER_T_FLAGS , L_LBMR_PSER_T_FLAGS , "Flags (0x%04x)" , flags ) 16'
+p756
+I0
+sS'92 /home/speedy/test/source2slice/NVD/CVE_2007_3642_VULN_decode_seq.c bs -> cur = beg + len 53'
+p757
+I1
+sS'689 /home/speedy/test/source2slice/NVD/CVE_2013_5596_PATCHED_RasterImage__DecodePool__DecodeJob__Run.c uint32_t bytesDecoded = mImage -> mBytesDecoded - oldByteCount ; 39'
+p758
+I0
+sS'584 /home/speedy/test/source2slice/NVD/CVE_2015_3808_VULN_dissect_lbmr_pser.c opt_len = tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_OPTLEN_T_OPTLEN ) 36'
+p759
+I0
+sS'158 /home/speedy/test/source2slice/NVD/CVE_2009_1336_PATCHED_nfs_init_server.c server -> acdirmax = data -> acdirmax * HZ 37'
+p760
+I0
+sS'576 /home/speedy/test/source2slice/NVD/CVE_2015_3331_VULN___driver_rfc4106_decrypt.c assoc = ( src + req -> cryptlen + auth_tag_len ) 52'
+p761
+I1
+sS'755 /home/speedy/test/source2slice/NVD/CVE_2014_1508_VULN_nsDisplayNotation__Paint.c gfxFloat f = gfxFloat ( kArrowHeadSize ) * e / l ; 50'
+p762
+I1
+sS'288 /home/speedy/test/source2slice/NVD/CVE_2010_2538_VULN_btrfs_ioctl_clone.c skip = off - key . offset 236'
+p763
+I1
+sS'702 /home/speedy/test/source2slice/NVD/CVE_2013_7014_PATCHED_add_bytes_l2_c.c long a = * ( long * ) ( src1 + i ) ; 5'
+p764
+I0
+sS'63 /home/speedy/test/source2slice/NVD/CVE_2006_4813_VULN___block_prepare_write.c block_end = block_start + blocksize 94'
+p765
+I1
+sS'639 /home/speedy/test/source2slice/NVD/CVE-2015-1872_VULN_ff_mjpeg_decode_sof.c int bw = ( width + s -> h_max * 8 - 1 ) / ( s -> h_max * 8 ) ; 361'
+p766
+I1
+sS'763 /home/speedy/test/source2slice/NVD/CVE_2014_1522_VULN_ComputeCustom.c float sampleInterpolationFactor = mPhase - j1 ; 31'
+p767
+I1
+sS'211 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_dualbuffer.c offset = ( offset + length ) & ~PAGE_MASK 72'
+p768
+I0
+sS'765 /home/speedy/test/source2slice/NVD/CVE_2014_1738_VULN_raw_cmd_copyout.c long length = ptr -> buffer_length - ptr -> length ; 14'
+p769
+I1
+sS'458 /home/speedy/test/source2slice/NVD/CVE_2014_1497_PATCHED_WaveReader__LoadFormatChunk.c static_assert ( UINT16_MAX + ( UINT16_MAX % 2 ) < UINT_MAX / sizeof ( char ) , "chunkExtension array too large for iterator." ) 61'
+p770
+I0
+sS'530 /home/speedy/test/source2slice/NVD/CVE_2014_5271_PATCHED_encode_frame.c q = ctx -> force_quant ? ctx -> force_quant : ctx -> slice_q [ mb + y * ctx -> slices_width ] 88'
+p771
+I0
+sS'644 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000CodingStyle * codsty = tile -> codsty + compno ; 81'
+p772
+I1
+sS'111 /home/speedy/test/source2slice/NVD/CVE_2008_3915_VULN_init_state.c alloc = sizeof ( struct posix_ace_state_array ) + cnt * sizeof ( struct posix_ace_state ) 13'
+p773
+I0
+sS'168 /home/speedy/test/source2slice/NVD/CVE_2009_1961_PATCHED_generic_file_splice_write.c nr_pages = ( ret + PAGE_CACHE_SIZE - 1 ) >> PAGE_CACHE_SHIFT 30'
+p774
+I0
+sS'19 /home/speedy/test/source2slice/NVD/CVE-2015-4504_VULN_lut_inverse_interp16.c a = ( y1 - y0 ) / ( x1 - x0 ) 87'
+p775
+I1
+sS'611 /home/speedy/test/source2slice/NVD/CVE_2015_3813_PATCHED_fragment_add_work.c max = fd_i -> offset + fd_i -> len 188'
+p776
+I0
+sS'89 /home/speedy/test/source2slice/NVD/CVE_2007_3642_VULN_decode_choice.c bs -> cur = beg + len 58'
+p777
+I0
+sS'551 /home/speedy/test/source2slice/NVD/CVE_2015_0833_PATCHED_NS_main.c NS_tsnprintf ( updateLockFilePath , sizeof ( updateLockFilePath ) / sizeof ( updateLockFilePath [ 0 ] ) , NS_T ( "%s.update_in_progress.lock" ) , argv [ callbackIndex ] ) 269'
+p778
+I0
+sS'13 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> output_table = & lut -> table_data [ in_chan * num_input_table_entries + clut_size * out_chan ] 52'
+p779
+I1
+sS'230 /home/speedy/test/source2slice/NVD/CVE_2009_4307_VULN_ext4_fill_flex_info.c flex_group_count = ( ( sbi -> s_groups_count + groups_per_flex - 1 ) + ( ( le16_to_cpu ( sbi -> s_es -> s_reserved_gdt_blocks ) + 1 ) << EXT4_DESC_PER_BLOCK_BITS ( sb ) ) ) / groups_per_flex 20'
+p780
+I1
+sS'562 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c NS_tsnprintf ( updateLockFilePath , sizeof ( updateLockFilePath ) / sizeof ( updateLockFilePath [ 0 ] ) , NS_T ( "%s/updated.update_in_progress.lock" ) , gInstallDirPath ) 253'
+p781
+I0
+sS'429 /home/speedy/test/source2slice/NVD/CVE_2013_7023_PATCHED_ff_combine_frame.c pc -> state64 = ( pc -> state64 << 8 ) | pc -> buffer [ pc -> last_index + next ] 57'
+p782
+I0
+sS'107 /home/speedy/test/source2slice/NVD/CVE_2008_3686_PATCHED_rt6_fill_node.c expires = rt -> rt6i_expires - jiffies 103'
+p783
+I0
+sS'225 /home/speedy/test/source2slice/NVD/CVE_2009_4138_VULN_ohci_queue_iso_receive_packet_per_buffer.c payload_per_buffer = p -> payload_length / packet_count 25'
+p784
+I1
+sS'734 /home/speedy/test/source2slice/NVD/CVE_2013_7024_PATCHED_jpeg2000_decode_tile.c Jpeg2000Component * comp = tile -> comp + compno ; 12'
+p785
+I0
+sS'181 /home/speedy/test/source2slice/NVD/CVE_2009_3288_VULN_sg_build_indirect.c ret_sz = 1 << ( PAGE_SHIFT + order ) 40'
+p786
+I1
+sS'5 /home/speedy/test/source2slice/NVD/CVE-2015-0811_VULN_read_tag_lutType.c lut -> clut_table [ i + 1 ] = uInt16Number_to_float ( read_uInt16Number ( src , clut_offset + i * entry_size + 2 ) ) 85'
+p787
+I1
+sS'272 /home/speedy/test/source2slice/NVD/CVE_2010_2537_VULN_btrfs_ioctl_clone.c skip = off - key . offset 236'
+p788
+I1
+sS'200 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_dualbuffer.c d = context_get_descriptors ( & ctx -> context , z + header_z , & d_bus ) 44'
+p789
+I0
+sS'519 /home/speedy/test/source2slice/NVD/CVE_2014_4608_PATCHED_lzo1x_decompress_safe.c * out_len = op - out 187'
+p790
+I0
+sS'78 /home/speedy/test/source2slice/NVD/CVE_2006_6333_VULN_tr_rx.c skb_size = length - lan_hdr_len + sizeof ( struct trh_hdr ) + sizeof ( struct trllc ) 87'
+p791
+I1
+sS'769 /home/speedy/test/source2slice/NVD/CVE_2014_2523_PATCHED_dccp_error.c unsigned int dccp_len = skb -> len - dataoff ; 7'
+p792
+I0
+sS'94 /home/speedy/test/source2slice/NVD/CVE_2008_0420_PATCHED_nsBMPDecoder__ProcessData.c mAlphaPtr = mAlpha + mBIH . width 355'
+p793
+I0
+sS'609 /home/speedy/test/source2slice/NVD/CVE_2015_3813_PATCHED_fragment_add_work.c fraglen = fd_head -> datalen - fd_i -> offset 285'
+p794
+I0
+sS'560 /home/speedy/test/source2slice/NVD/CVE_2015_0833_VULN_NS_main.c NS_tsnprintf ( updateLockFilePath , sizeof ( updateLockFilePath ) / sizeof ( updateLockFilePath [ 0 ] ) , NS_T ( "%s.update_in_progress.lock" ) , argv [ callbackIndex ] ) 269'
+p795
+I0
+sS'46 /home/speedy/test/source2slice/NVD/CVE-2016-5829_VULN_hiddev_ioctl_usage.c uref_multi -> values [ i ] = field -> value [ uref -> usage_index + i ] 95'
+p796
+I1
+sS'768 /home/speedy/test/source2slice/NVD/CVE_2014_2099_VULN_msrle_decode_frame.c int istride = FFALIGN ( avctx -> width * avctx -> bits_per_coded_sample , 32 ) / 8 ; 8'
+p797
+I0
+sS'365 /home/speedy/test/source2slice/NVD/CVE_2013_7008_PATCHED_decode_slice_header.c id_list [ i ] = h -> short_ref_count + k 652'
+p798
+I0
+sS'123 /home/speedy/test/source2slice/NVD/CVE_2008_5134_VULN_lbs_process_bss.c end = pos + beaconsize 33'
+p799
+I0
+sS'284 /home/speedy/test/source2slice/NVD/CVE_2010_2538_PATCHED_btrfs_ioctl_clone.c ordered = btrfs_lookup_first_ordered_extent ( inode , off + len ) 103'
+p800
+I0
+sS'193 /home/speedy/test/source2slice/NVD/CVE_2009_3888_VULN_do_mmap_pgoff.c rpglen = pregion -> vm_end - pregion -> vm_start 91'
+p801
+I0
+sS'757 /home/speedy/test/source2slice/NVD/CVE_2014_1508_VULN_nsDisplayNotation__Paint.c gfxRect rect = presContext -> AppUnitsToGfxUnits ( mRect + ToReferenceFrame ( ) ) ; 6'
+p802
+I1
+sS'623 /home/speedy/test/source2slice/NVD/CVE_2015_4003_PATCHED_oz_usb_handle_ep_data.c n = ( len - sizeof ( struct oz_multiple_fixed ) + 1 ) / body -> unit_size 13'
+p803
+I0
+sS'808 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 83'
+p804
+I0
+sS'579 /home/speedy/test/source2slice/NVD/CVE_2015_3808_PATCHED_dissect_lbmr_pser.c opt_len = tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_OPTLEN_T_OPTLEN ) 36'
+p805
+I0
+sS'32 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c y = tile -> comp [ compno ] . coord [ 1 ] [ 0 ] - s -> image_offset_y / s -> cdy [ compno ] 92'
+p806
+I1
+sS'657 /home/speedy/test/source2slice/NVD/CVE_2006_5751_VULN_get_fdb_entries.c size_t size = maxnum * sizeof ( struct __fdb_entry ) ; 6'
+p807
+I1
+sS'583 /home/speedy/test/source2slice/NVD/CVE_2015_3808_PATCHED_dissect_lbmr_pser.c hdr_len = ( int ) tvb_get_ntohs ( tvb , curr_offset + O_LBMR_PSER_T_LEN ) 11'
+p808
+I0
+sS'199 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_dualbuffer.c db -> first_buffer = cpu_to_le32 ( d_bus + sizeof ( * db ) ) 61'
+p809
+I0
+sS'686 /home/speedy/test/source2slice/NVD/CVE_2010_2500_VULN_gray_render_span.c unsigned char * q = p + spans -> x ; 31'
+p810
+I1
+sS'146 /home/speedy/test/source2slice/NVD/CVE_2009_1046_PATCHED_set_selection.c pe = ye * vc -> vc_size_row + ( xe << 1 ) 27'
+p811
+I0
+sS'718 /home/speedy/test/source2slice/NVD/CVE_2013_7017_VULN_ff_jpeg2000_init_component.c Jpeg2000Band * band = reslevel -> band + bandno ; 88'
+p812
+I1
+sS'202 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_dualbuffer.c packet_count = p -> header_length / ctx -> base . header_size 26'
+p813
+I0
+sS'489 /home/speedy/test/source2slice/NVD/CVE_2014_3122_VULN_try_to_unmap_cluster.c address = ( vma -> vm_start + cursor ) & CLUSTER_MASK 19'
+p814
+I1
+sS'163 /home/speedy/test/source2slice/NVD/CVE_2009_1336_VULN_nfs_init_server.c server -> acdirmin = data -> acdirmin * HZ 36'
+p815
+I1
+sS'448 /home/speedy/test/source2slice/NVD/CVE_2013_7266_PATCHED_mISDN_sock_recvmsg.c copied = skb -> len + MISDN_HEADER_LEN 42'
+p816
+I0
+sS'403 /home/speedy/test/source2slice/NVD/CVE_2013_7017_PATCHED_ff_jpeg2000_init_component.c nb_precincts = reslevel -> num_precincts_x * reslevel -> num_precincts_y 185'
+p817
+I0
+sS'322 /home/speedy/test/source2slice/NVD/CVE_2010_3429_PATCHED_flic_decode_frame_8BPP.c stream_ptr_after_color_chunk = stream_ptr + chunk_size - 6 65'
+p818
+I0
+sS'203 /home/speedy/test/source2slice/NVD/CVE_2009_4138_PATCHED_ohci_queue_iso_receive_packet_per_buffer.c offset = ( offset + length ) & ~PAGE_MASK 62'
+p819
+I0
+sS'351 /home/speedy/test/source2slice/NVD/CVE_2013_6367_PATCHED_apic_get_tmcct.c tmcct = div64_u64 ( ns , ( APIC_BUS_CYCLE_NS * apic -> divide_count ) ) 19'
+p820
+I0
+sS'679 /home/speedy/test/source2slice/NVD/CVE_2009_4410_PATCHED_fuse_ioctl_copy_user.c size_t iov_len = ii . iov -> iov_len - ii . iov_offset ; 21'
+p821
+I0
+sS'646 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000Cblk * cblk = prec -> cblk + cblkno ; 43'
+p822
+I1
+sS'586 /home/speedy/test/source2slice/NVD/CVE_2015_3808_VULN_dissect_lbmr_pser.c topic_len = hdr_len - L_LBMR_PSER_T 13'
+p823
+I0
+sS'648 /home/speedy/test/source2slice/NVD/CVE-2016-2213_VULN_jpeg2000_decode_tile.c Jpeg2000Band * band = rlevel -> band + bandno ; 26'
+p824
+I1
+sS'746 /home/speedy/test/source2slice/NVD/CVE_2014_0221_PATCHED_dtls1_get_message_fragment.c unsigned char * p = ( unsigned char * ) s -> init_buf -> data + DTLS1_HM_HEADER_LENGTH ; 86'
+p825
+I0
+sS'809 /home/speedy/test/source2slice/NVD/CVE_2014_5272_VULN_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 74'
+p826
+I0
+sS'531 /home/speedy/test/source2slice/NVD/CVE_2014_5271_PATCHED_encode_slice.c get_alpha_data ( ctx , src , linesize , xp , yp , pwidth , avctx -> height / ctx -> pictures_per_frame , ctx -> blocks [ 0 ] , mbs_per_slice , ctx -> alpha_bits ) 61'
+p827
+I0
+sS'785 /home/speedy/test/source2slice/NVD/CVE_2014_5272_PATCHED_decode_frame.c uint8_t * row = & s -> frame . data [ 0 ] [ y * s -> frame . linesize [ 0 ] ] ; 132'
+p828
+I0
+sS'721 /home/speedy/test/source2slice/NVD/CVE_2013_7023_PATCHED_ff_combine_frame.c void * new_buffer = av_fast_realloc ( pc -> buffer , & pc -> buffer_size , next + pc -> index + FF_INPUT_BUFFER_PADDING_SIZE ) ; 40'
+p829
+I0
+sS'697 /home/speedy/test/source2slice/NVD/CVE_2013_7010_VULN_diff_bytes_c.c long b = * ( long * ) ( src2 + i ) ; 19'
+p830
+I1
+sS'43 /home/speedy/test/source2slice/NVD/CVE-2016-3062_VULN_mov_read_dref.c sc -> drefs = av_mallocz ( entries * sizeof ( * sc -> drefs ) ) 18'
+p831
+I0
+sS'497 /home/speedy/test/source2slice/NVD/CVE_2014_3537_PATCHED_get_file.c ptr = filename + strlen ( filename ) 146'
+p832
+I0
+sS'374 /home/speedy/test/source2slice/NVD/CVE_2013_7008_VULN_decode_slice_header.c unwrap_prev_frame_num = ( h -> frame_num - h -> sps . ref_frame_count ) - 1 238'
+p833
+I0
+sS'680 /home/speedy/test/source2slice/NVD/CVE_2009_4410_PATCHED_fuse_ioctl_copy_user.c char __user * uaddr = ii . iov -> iov_base + ii . iov_offset ; 20'
+p834
+I0
+sS'65 /home/speedy/test/source2slice/NVD/CVE_2006_4813_VULN___block_prepare_write.c block = ( sector_t ) page -> index << ( PAGE_CACHE_SHIFT - bbits ) 21'
+p835
+I1
+sS'369 /home/speedy/test/source2slice/NVD/CVE_2013_7008_PATCHED_decode_slice_header.c h -> picture_structure = PICT_TOP_FIELD + get_bits1 ( & h -> gb ) 204'
+p836
+I0
+s.
