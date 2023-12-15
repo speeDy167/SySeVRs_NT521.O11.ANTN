@@ -16,5 +16,5 @@ normal
 This project is for my school project. And i forked it from https://github.com/SySeVR/SySeVR.
 
 ## Acknowledgments
-If you have any questions, please fell free to contact me at trongphucphan7@gmail.com
+If you have any questions, please feel free to contact me at trongphucphan7@gmail.com
 
