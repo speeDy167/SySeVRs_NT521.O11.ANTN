@@ -59,7 +59,7 @@ pip3 install keras==2.8.0
 # ==== prepare raw data ==== #
 # ========================== #
 # (i'm using NVD, e.g., SARD)
-
+java -jar /path/joern-0.3.1/bin/joern.jar /home/test/source2slice/NVD
 # ===================================== #
 # ==== process data: source2slice/ ==== #
 # ===================================== #
