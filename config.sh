@@ -48,7 +48,7 @@ python setup.py install --user
 
 # install other dependencies
 pip3 install xlrd
-pip3 install gensim==3.8.2
+pip3 install gensim==3.8.3
 pip3 install imbalanced-learn==0.4.0
 pip3 install scikit-learn==1.3.2
 # choose tensorflow-gpu if you've got a fancy GPU
