@@ -12,7 +12,7 @@ sudo apt-get install unzip
 sudo apt-get install p7zip-full
 sudo apt-get -y install python-pip
 sudo apt-get -y install python3-pip
-pip install python-igraph==0.9.5
+pip install python-igraph==0.8.3
 
 # =========================== #
 # ==== setup environment ==== #
