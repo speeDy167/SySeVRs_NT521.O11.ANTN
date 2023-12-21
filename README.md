@@ -18,3 +18,6 @@ This project is for my school project. And i forked it from https://github.com/S
 ## Acknowledgments
 If you have any questions, please feel free to contact me at trongphucphan7@gmail.com
 
+##Dataset processed
+https://drive.google.com/drive/folders/1F0mhFlXlNdlpuaxYHNcoHGDAM2f9U24u?usp=drive_link
+
