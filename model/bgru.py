@@ -4,13 +4,13 @@ This python file is used to train four class focus data in blstm model
 
 '''
 
-from keras.preprocessing import sequence
-from keras.optimizers import SGD, RMSprop, Adagrad, Adam, Adadelta
-from keras.models import Sequential, load_model
-from keras.layers.core import Masking, Dense, Dropout, Activation
-from keras.layers.recurrent import LSTM,GRU
+import tensorflow as tf
+from tensorflow.keras.preprocessing import sequence
+from tensorflow.keras.optimizers import SGD, RMSprop, Adagrad, Adam, Adadelta
+from tensorflow.keras.models import Sequential, load_model
+from tensorflow.keras.layers import Masking, Dense, Dropout, Activation, LSTM, GRU, Bidirectional
 from preprocess_dl_Input_version5 import *
-from keras.layers.wrappers import Bidirectional
+from collections import Counter
 from collections import Counter
 import tensorflow as tf
 import numpy as np
