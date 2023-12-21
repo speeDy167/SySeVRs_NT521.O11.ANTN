@@ -48,10 +48,10 @@ python setup.py install --user
 
 # install other dependencies
 pip3 install xlrd
-pip3 install gensim==3.8.3
+pip3 install gensim==3.8.3 (3.4.0)
 pip3 install imbalanced-learn==0.4.0
 pip3 install scikit-learn==1.3.2
-pip3 install tensorflow==2.8.0
+pip3 install tensorflow==2.8.0 (1.6.0)
 pip3 install keras==2.8.0
 
 # ========================== #
