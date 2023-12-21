@@ -22,19 +22,11 @@ If you have any questions, please feel free to contact me at trongphucphan7@gmai
 https://drive.google.com/drive/folders/1F0mhFlXlNdlpuaxYHNcoHGDAM2f9U24u?usp=drive_link
 
 ## Running 
-# ========================== #
-# ==== prepare raw data ==== #
-# ========================== #
+
 # (i'm using NVD, e.g., SARD)
 java -jar /path/joern-0.3.1/bin/joern.jar /home/test/source2slice/NVD
-# ===================================== #
-# ==== process data: source2slice/ ==== #
-# ===================================== #
-
 # (on screen A: start neo4j service)
 neo4j start-no-wait
-
-# (on screen B: start processing)
 python ./get_cfg_relation.py # this outputs to src/source2slice/cfg_db/
 python ./complete_PDG.py # this outputs to src/source2slice/pdg_db/
 python ./access_db_operate.py # this outputs to src/source2slice/dict_call2cfgNodeID_funcID/
@@ -44,9 +36,8 @@ python ./dealfile.py
 python ./make_label_nvd.py # create label_data in C/
 python ./data_preprocess.py # create in slice_label folder
 
-# ======================================== #
-# ==== process data: data_preprocess/ ==== #
-# ======================================== #
+# ==== process dat
+
 python3 ./create_hash.py
 python3 ./delete_list.py
 python3 ./process_dataflow_func.py
