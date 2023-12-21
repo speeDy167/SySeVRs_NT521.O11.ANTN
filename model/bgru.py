@@ -5,7 +5,7 @@ This python file is used to train four class focus data in blstm model
 '''
 
 from keras.preprocessing import sequence
-from tensorflow.keras.optimizers import SGD, RMSprop, Adagrad, Adam, Adadelta
+from keras.optimizers import SGD, RMSprop, Adagrad, Adam, Adadelta
 from keras.models import Sequential, load_model
 from keras.layers.core import Masking, Dense, Dropout, Activation
 from keras.layers.recurrent import LSTM,GRU
@@ -54,7 +54,7 @@ def build_model(maxlen, vector_dim, layers, dropout):
     return model
 
 
-def main(traindataSet_path, testdataSet_path, weightpath, resultpath, batch_size, maxlen, vector_dim, layers, dropout):
+def main(traindataSet_path, testdataSet_path, realtestpath, weightpath, resultpath, batch_size, maxlen, vector_dim, layers, dropout):
     print("Loading data...")
     
     model = build_model(maxlen, vector_dim, layers, dropout)
@@ -68,9 +68,6 @@ def main(traindataSet_path, testdataSet_path, weightpath, resultpath, batch_size
     for filename in os.listdir(traindataSet_path):
         if(filename.endswith(".pkl") is False):
             continue
-        if filename==".keep":
-            continue
-        print(filename)
         f = open(os.path.join(traindataSet_path, filename),"rb")
         dataset_file,labels_file,funcs_file,filenames_file,testcases_file = pickle.load(f)
         f.close()
@@ -81,11 +78,8 @@ def main(traindataSet_path, testdataSet_path, weightpath, resultpath, batch_size
     bin_labels = []
     for label in labels:
         bin_labels.append(multi_labels_to_two(label))
-    labels = np.array(bin_labels)  # Convert to NumPy array
-   # Ensure labels are reshaped to match the model output shape (batch_size, 1)
-    labels = labels.reshape(-1, 1)
-
-    # Shuffle the dataset and labels using a random seed
+    labels = bin_labels
+     
     np.random.seed(RANDOMSEED)
     np.random.shuffle(dataset)
     np.random.seed(RANDOMSEED)
@@ -96,7 +90,7 @@ def main(traindataSet_path, testdataSet_path, weightpath, resultpath, batch_size
     steps_epoch = int(all_train_samples / batch_size)
     print("start")
     t1 = time.time()
-    model.fit(train_generator, steps_per_epoch=steps_epoch, epochs=1, verbose=0)
+    model.fit_generator(train_generator, steps_per_epoch=steps_epoch, epochs=10, verbose=0)
     t2 = time.time()
     train_time = t2 - t1
 
@@ -112,8 +106,6 @@ def main(traindataSet_path, testdataSet_path, weightpath, resultpath, batch_size
     for filename in os.listdir(traindataSet_path):
         if(filename.endswith(".pkl") is False):
            continue
-        if filename==".keep":
-            continue
         print(filename)
         f = open(os.path.join(traindataSet_path, filename),"rb")
         datasetfile,labelsfile,funcsfiles,filenamesfile,testcasesfile = pickle.load(f)
@@ -144,7 +136,7 @@ def main(traindataSet_path, testdataSet_path, weightpath, resultpath, batch_size
     pickle.dump(result[1], f)
     f.close()
 
-    f_TP = open("./result_analyze/TP_filenames.txt","ab+")
+    f_TP = open("./result_analyze/BGRU/TP_filenames.txt","ab+")
     for i in range(len(result[1])):
         TP_index = result[1][i]
         f_TP.write(str(filenames[TP_index])+'\n')
@@ -225,15 +217,15 @@ def testrealdata(realtestpath, weightpath, batch_size, maxlen, vector_dim, layer
 
 
 if __name__ == "__main__":
-    batchSize = 2
+    batchSize = 32
     vectorDim = 40
     maxLen = 500
     layers = 2
     dropout = 0.2
     traindataSetPath = "./dl_input_shuffle/train/"
     testdataSetPath = "./dl_input_shuffle/test/"
-    #realtestdataSetPath = "data/"
-    weightPath = './model'
-    resultPath = "./result"
-    main(traindataSetPath, testdataSetPath, weightPath, resultPath, batchSize, maxLen, vectorDim, layers, dropout)
+    realtestdataSetPath = "data/"
+    weightPath = './model/BGRU'
+    resultPath = "./result/BGRU/BGRU"
+    main(traindataSetPath, testdataSetPath, realtestdataSetPath, weightPath, resultPath, batchSize, maxLen, vectorDim, layers, dropout)
     #testrealdata(realtestdataSetPath, weightPath, batchSize, maxLen, vectorDim, layers, dropout)
