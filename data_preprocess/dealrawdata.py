@@ -6,14 +6,14 @@ This python file is used to train data in CNN model
 from __future__ import absolute_import
 from __future__ import print_function
 import pickle
-import _pickle as cPickle
+import _pickle as cPickle 
 import numpy as np
 import random
 import time
 import math
 import os
 from collections import Counter
-from imblearn.ensemble import _easy_ensemble
+from imblearn.ensemble import BalanceCascade
 from imblearn.over_sampling import ADASYN
 from imblearn.over_sampling import SMOTE
 
@@ -49,18 +49,19 @@ def dealrawdata(raw_traindataSet_path, raw_testdataSet_path, traindataSet_path, 
         f_train.close()
 
     for filename in os.listdir(raw_testdataSet_path):
-        if not ("api" in filename):
-            continue
-        print(filename)
+        #if not ("api" in filename):
+        #    continue
+        #print(filename)
         if not (filename.endswith(".pkl")):
             continue
+        print(filename)
         X_test, test_labels, funcs, filenames, testcases = load_data_binary(raw_testdataSet_path + filename, batch_size, maxlen=maxlen, vector_dim=vector_dim)
 
         f_test = open(testdataSet_path + filename, 'wb')
         pickle.dump([X_test, test_labels, funcs, filenames, testcases], f_test)
         f_test.close()
 
-def load_data_binary(dataSetpath, batch_size, maxlen=None, vector_dim=40, seed=113):   
+def load_data_binary(dataSetpath, batch_size, maxlen=None, vector_dim=30, seed=113):   
     #load data
     f1 = open(dataSetpath, 'rb')
     X, ids, focus, funcs, filenames, test_cases = pickle.load(f1)
@@ -104,10 +105,10 @@ def load_data_binary(dataSetpath, batch_size, maxlen=None, vector_dim=40, seed=1
 
 if __name__ == "__main__":
     batchSize = 32
-    vectorDim = 40
+    vectorDim = 30
     maxLen = 500
-    raw_traindataSetPath = "./dataset/raw_train/"
-    raw_testdataSetPath = "./dataset/raw_test/"
-    traindataSetPath = "./dataset/train/"
-    testdataSetPath = "./dataset/test/"
+    raw_traindataSetPath = "./dl_input/raw_train/"
+    raw_testdataSetPath = "./dl_input/raw_test/"
+    traindataSetPath = "./dl_input/train/"
+    testdataSetPath = "./dl_input/test/"
     dealrawdata(raw_traindataSetPath, raw_testdataSetPath, traindataSetPath, testdataSetPath, batchSize, maxLen, vectorDim)
