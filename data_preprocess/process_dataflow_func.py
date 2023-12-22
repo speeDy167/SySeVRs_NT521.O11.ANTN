@@ -48,7 +48,7 @@ def get_sentences(_path,labelpath,deletepath,corpuspath,maptype=True):
         labellists = pickle.load(f1)
         f1.close()
 	
-        filepath = os.path.join(deletepath,filename[:-4] + ".pkl")
+        filepath = os.path.join(deletepath,filename[:-4]+".pkl")
         f = open(filepath,'rb')
         list_delete = pickle.load(f)
         f.close()
@@ -197,10 +197,10 @@ def get_sentences(_path,labelpath,deletepath,corpuspath,maptype=True):
 
 if __name__ == '__main__':
     
-    SLICEPATH = './file/test_data/4/'
-    LABELPATH = './file/label_data/'
-    DELETEPATH = './file/delete_list/'
-    CORPUSPATH = './file/corpus/'
+    SLICEPATH = './data/data_source/NVD/'
+    LABELPATH = './data/label_source/NVD/'
+    DELETEPATH = './data/delete_list/NVD/'
+    CORPUSPATH = './data/corpus/'
     MAPTYPE = True
 
     sentenceDict = get_sentences(SLICEPATH, LABELPATH, DELETEPATH, CORPUSPATH, MAPTYPE)
