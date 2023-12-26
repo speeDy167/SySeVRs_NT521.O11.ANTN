@@ -39,7 +39,7 @@ def build_model(maxlen, vector_dim, layers, dropout):
     model.add(Dense(1, activation='sigmoid'))
   
     # model.compile(loss='binary_crossentropy', optimizer='adamax', metrics=['TP_count', 'FP_count', 'FN_count', 'precision', 'recall', 'fbeta_score'])
-    model.compile(loss='binary_crossentropy', optimizer='adamax', metrics=[
+    model.compile(loss='sparse_categorical_crossentropy', optimizer='adamax', metrics=[
         tf.keras.metrics.TruePositives(),
         tf.keras.metrics.TrueNegatives(),
         tf.keras.metrics.FalsePositives(),
