@@ -1,29 +1,31 @@
 # ReSyVRs
-
 ## Overview
-This project involves a series of steps to generate slices (SeVCs) from source code, preprocess data, and utilize a deep learning model for analysis. In this i've able to run SySeVRs. 
+PyReSyVRs is a project try to reimplemented SySeVR.
+
 ## Instructions for Running Scripts
-Please read and install what you need in **config.sh** instead of running them.
+Please review and install the necessary dependencies outlined in the config.sh file instead of directly executing the scripts.
 
 ## License
-This project is for my school project. And i forked it from https://github.com/SySeVR/SySeVR.
+This project is for my school project. Full source project in https://github.com/SySeVR/SySeVR.
 
 ## Acknowledgments
-If you have any questions, please feel free to contact me at trongphucphan7@gmail.com
+If you have any inquiries or require assistance, please don't hesitate to contact me at trongphucphan7@gmail.com.
 
 ## Dataset processed
-https://drive.google.com/drive/folders/1F0mhFlXlNdlpuaxYHNcoHGDAM2f9U24u?usp=drive_link
-
+Access the full NVD processed dataset via the following link: https://drive.google.com/drive/folders/1F0mhFlXlNdlpuaxYHNcoHGDAM2f9U24u?usp=drive_link
 
 ## How to run ?
-# Install requires dependencies in config.sh then following the intruction below:
-#go to joern-0.3.1/bin folder then run: java -jar /path/joern-0.3.1/bin/joern.jar /home/test/source2slice/NVD
-#(on screen A: start neo4j service)
-#neo4j start-no-wait
-#(on screen B)
+Install the required dependencies mentioned in the config.sh file.
+Follow the instructions below:
 
+go to joern-0.3.1/bin folder then run: java -jar /path_to_joernfolder/joern-0.3.1/bin/joern.jar /home/test/source2slice/NVD
+(on screen A: start neo4j service)
+neo4j start-no-wait
+
+
+(on screen B)
 ## Step 1: Generating Slices
-Note: if you have problem while running get_cfg_relationg.py make sure you've install the right python-igraph version i've mentioned in the config.sh instead of igraph. This is wrong library.
+Note: If you encounter issues while running get_cfg_relationg.py, ensure that you've installed the correct version of python-igraph as specified in config.sh instead of igraph as it may cause errors.
 
 python ./get_cfg_relation.py # this outputs to src/source2slice/cfg_db/
 
@@ -42,16 +44,21 @@ python ./make_label_nvd.py # create label_data in C/
 python ./data_preprocess.py # create in slice_label folder
 
 ## Step 2: Data Preprocessing
-#python3 ./create_hash.py
+python3 ./create_hash.py
 
-#python3 ./delete_list.py
+python3 ./delete_list.py
 
-#python3 ./process_dataflow_func.py
+python3 ./process_dataflow_func.py
 
-#python3 ./create_w2vmodel.py
+python3 ./create_w2vmodel.py
 
-#python3 ./get_dl_input.py
+python3 ./get_dl_input.py
 
-#python3 ./dealrawdata.py
-## Step 3: Deep Learning Model
-#python3 ./bgru.py
+python3 ./deal_raw_data.py
+
+## Step 3: DL step
+Note: In this step i always get the TP=0.000000e+0 rate or TN=0.000000e+0. After debug i found out that the problem can be in the step 2.
+python3 ./bgru.py
+
+Feel free to adjust and execute the provided commands as per your project requirements.
+This revised README should make it clearer and easier for users to understand and follow the steps necessary to run the project.
